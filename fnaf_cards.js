@@ -881,12 +881,6 @@ export const cards = {
       "url": "https://ulia.dev/tts/fdeck/dl/Boulder Toy Bonnie.png",
       "gmnote": "\tUnit, Battery=3,"
     },
-    "": {
-      "name": "",
-      "image": "./img/.png",
-      "url": "https://ulia.dev/tts/fdeck/dl/.png",
-      "gmnote": "Unit, Battery=4,"
-    },
     "Clown_Springtrap": {
       "name": "Clown Springtrap",
       "image": "./img/Clown Springtrap.png",
@@ -1453,25 +1447,25 @@ export const cards = {
     },
     "Ancient_Memories:_Dream": {
       "name": "Ancient Memories: Dream",
-      "image": "./img/Ancient Memories: Dream.png",
+      "image": "./img/Ancient Memories Dream.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Ancient Memories: Dream.png",
       "gmnote": "\tSpell, Battery=3,"
     },
     "Ancient_Memories:_Forgotten": {
       "name": "Ancient Memories: Forgotten",
-      "image": "./img/Ancient Memories: Forgotten.png",
+      "image": "./img/Ancient Memories Forgotten.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Ancient Memories: Forgotten.png",
       "gmnote": "\tSpell, Battery=3,"
     },
     "Ancient_Memories:_Origin": {
       "name": "Ancient Memories: Origin",
-      "image": "./img/Ancient Memories: Origin.png",
+      "image": "./img/Ancient Memories Origin.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Ancient Memories: Origin.png",
       "gmnote": "\tSpell, Battery=3,"
     },
     "Ancient_Memories:_Joy": {
       "name": "Ancient Memories: Joy",
-      "image": "./img/Ancient Memories: Joy.png",
+      "image": "./img/Ancient Memories Joy.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Ancient Memories: Joy.png",
       "gmnote": "\tSpell, Battery=6,"
     },
@@ -1621,7 +1615,7 @@ export const cards = {
     },
     "Convoke_the_Spirits_": {
       "name": "Convoke the Spirits ",
-      "image": "./img/Convoke the Spirits .png",
+      "image": "./img/Convoke the Spirits.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Convoke the Spirits .png",
       "gmnote": "\tSpell, Battery=4,"
     },
@@ -1669,7 +1663,7 @@ export const cards = {
     },
     "Delicous_Ice_Cream": {
       "name": "Delicous Ice Cream",
-      "image": "./img/Delicous Ice Cream.png",
+      "image": "./img/Delicious Ice Cream.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Delicous Ice Cream.png",
       "gmnote": "\tSpell, Battery=2,"
     },
@@ -1681,8 +1675,8 @@ export const cards = {
     },
     "Dreadful_Monstrosity": {
       "name": "Dreadful Monstrosity",
-      "image": "./img/Dreadful Monstrosity.png",
-      "url": "https://ulia.dev/tts/fdeck/dl/Dreadful Monstrosity.png",
+      "image": "./img/Dreadful Monstrosity (Spell).png",
+      "url": "https://ulia.dev/tts/fdeck/dl/Dreadful Monstrosity U.png",
       "gmnote": "\tSpell, Battery=5,"
     },
     "Drowning": {
@@ -1921,7 +1915,7 @@ export const cards = {
     },
     "Help_Me_Count_My_Teeth_": {
       "name": "Help Me Count My Teeth ",
-      "image": "./img/Help Me Count My Teeth .png",
+      "image": "./img/Help Me Count My Teeth.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Help Me Count My Teeth .png",
       "gmnote": "\tSpell, Battery=2,"
     },
@@ -2065,8 +2059,8 @@ export const cards = {
     },
     "Miniature_Creation": {
       "name": "Miniature Creation",
-      "image": "./img/Miniature Creation.png",
-      "url": "https://ulia.dev/tts/fdeck/dl/Miniature Creation.png",
+      "image": "./img/Miniature Creation (Spell).png",
+      "url": "https://ulia.dev/tts/fdeck/dl/Miniature Creation U.png",
       "gmnote": "Spell, Battery=7,"
     },
     "Mistakes_Happen": {
@@ -2143,8 +2137,8 @@ export const cards = {
     },
     "Regrets_of_the_Dammned": {
       "name": "Regrets of the Dammned",
-      "image": "./img/Regrets of the Dammned.png",
-      "url": "https://ulia.dev/tts/fdeck/dl/Regrets of the Dammned.png",
+      "image": "./img/Regrets of the Damned.png",
+      "url": "https://ulia.dev/tts/fdeck/dl/Regrets of the Damned.png",
       "gmnote": "Spell, Battery=4,"
     },
     "Regrets_of_the_Heartless": {
@@ -2197,8 +2191,8 @@ export const cards = {
     },
     "Ringmaster_Decree": {
       "name": "Ringmaster Decree",
-      "image": "./img/Ringmaster Decree.png",
-      "url": "https://ulia.dev/tts/fdeck/dl/Ringmaster Decree.png",
+      "image": "./img/Ringmasters Decree.png",
+      "url": "https://ulia.dev/tts/fdeck/dl/Ringmasters Decree.png",
       "gmnote": "Spell, Battery=2,"
     },
     "RUIN": {
@@ -2238,9 +2232,9 @@ export const cards = {
       "gmnote": "Spell, Battery=6,"
     },
     "Sharinng_is_Caring": {
-      "name": "Sharinng is Caring",
-      "image": "./img/Sharinng is Caring.png",
-      "url": "https://ulia.dev/tts/fdeck/dl/Sharinng is Caring.png",
+      "name": "Sharing is Caring",
+      "image": "./img/Sharing is Caring.png",
+      "url": "https://ulia.dev/tts/fdeck/dl/Sharing is Caring.png",
       "gmnote": "\tSpell, Battery=3,"
     },
     "Shattered_Rage": {
@@ -2262,8 +2256,8 @@ export const cards = {
       "gmnote": "\tSpell, Battery=9,"
     },
     "Sinful_Bargin": {
-      "name": "Sinful Bargin",
-      "image": "./img/Sinful Bargin.png",
+      "name": "Sinful Bargain",
+      "image": "./img/Sinful Bargain.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Sinful Bargin.png",
       "gmnote": "\tSpell, Battery=2,"
     },
@@ -2503,8 +2497,8 @@ export const cards = {
     },
     "Welcome_to_the_Show!": {
       "name": "Welcome to the Show!",
-      "image": "./img/Welcome to the Show!.png",
-      "url": "https://ulia.dev/tts/fdeck/dl/Welcome to the Show!.png",
+      "image": "./img/Welcome to the Show.png",
+      "url": "https://ulia.dev/tts/fdeck/dl/Welcome to the Show.png",
       "gmnote": "\tSpell, Battery=5,"
     },
     "Whirling_Saw": {
