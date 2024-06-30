@@ -637,7 +637,7 @@ export const cards = {
     },
     "Jack_o_Moon": {
       "name": "Jack o Moon",
-      "image": "./img/Jack o Moon.png",
+      "image": "./img/Jack O Moon.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Jack o Moon.png",
       "gmnote": "\tUnit, Battery=10,"
     },
@@ -1993,7 +1993,7 @@ export const cards = {
     },
     "Into_The_Void": {
       "name": "Into The Void",
-      "image": "./img/Into The Void.png",
+      "image": "./img/Into the Void.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Into The Void.png",
       "gmnote": "\tSpell, Battery=7,"
     },
@@ -2083,7 +2083,7 @@ export const cards = {
     },
     "OBEY": {
       "name": "OBEY",
-      "image": "./img/OBEY.png",
+      "image": "./img/Obey.png",
       "url": "https://ulia.dev/tts/fdeck/dl/OBEY.png",
       "gmnote": "\tSpell, Battery=4,"
     },
@@ -2521,7 +2521,7 @@ export const cards = {
     },
     "Wither_Them_Down": {
       "name": "Wither Them Down",
-      "image": "./img/Wither Them Down.png",
+      "image": "./img/Wither them Down.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Wither Them Down.png",
       "gmnote": "\tSpell, Battery=1,"
     },
