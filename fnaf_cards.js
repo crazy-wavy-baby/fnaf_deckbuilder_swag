@@ -30,7 +30,7 @@ export const cards = {
         "gmnote": "default"
     },
     "20_Mode_Grim_Foxy.": {
-        "name": "20 Mode Grim Foxy",
+        "name": "20 Mode Grim_Foxy",
         "image": "./img/20 Mode Grim Foxy.png",
         "url": "https://ulia.dev/tts/fdeck/dl/20%20Mode%20Grim%20Foxy.png",
         "gmnote": "default"
