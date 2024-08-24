@@ -108,11 +108,11 @@ body {
     background:none;
     transition:opacity 0.3s;
     transition:padding 0.3s;
-    padding:20px;
+    padding:10px;
 }
 
 .card button:hover {
-    opacity:0.8;
+    opacity:1;
     padding:10px;
     cursor:pointer;
 }
@@ -122,6 +122,11 @@ body {
     height:100%;
     box-sizing:border-box;
     border-radius:10px;
+    transition:scale 0.3s;
+}
+
+.card button img:hover {
+    scale:2.2;
 }
 
 .card-highlight {

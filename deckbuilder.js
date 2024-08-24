@@ -110,7 +110,8 @@ function downloadDeck() {
                 Name: cards[cardName].name,
                 FaceURL: cards[cardName].url,
                 BackURL: "https://ulia.dev/tts/fdeck/dl/0001%20fnafcardback.jpg",
-                GMNote: cards[cardName].gmnote
+                GMNote: cards[cardName].gmnote,
+                Description: cards[cardName].description
             }
             deckJSON.push(newCard);
         }
@@ -119,26 +120,3 @@ function downloadDeck() {
     navigator.clipboard.writeText(deckJSONExport);
     alert('Deck Code copied to clipboard');
 }
-
-[
-    {
-      "Name": "20 Mode Golden Freddy",
-      "FaceURL": "https://ulia.dev/tts/fdeck/dl/20%20Mode%20Golden%20Freddy.png",
-      "BackURL": "https://ulia.dev/tts/fdeck/dl/0001%20fnafcardback.jpg"
-    },
-    {
-      "Name": "20 Mode Nightmare Freddy",
-      "FaceURL": "https://ulia.dev/tts/fdeck/dl/20%20Mode%20Nightmare%20Freddy.png",
-      "BackURL": "https://ulia.dev/tts/fdeck/dl/0001%20fnafcardback.jpg"
-    },
-    {
-      "Name": "20 Mode Nightmare",
-      "FaceURL": "https://ulia.dev/tts/fdeck/dl/20%20Mode%20Nightmare.png",
-      "BackURL": "https://ulia.dev/tts/fdeck/dl/0001%20fnafcardback.jpg"
-    },
-    {
-      "Name": "20 Mode Phantom Puppet",
-      "FaceURL": "https://ulia.dev/tts/fdeck/dl/20%20Mode%20Phantom%20Puppet.png",
-      "BackURL": "https://ulia.dev/tts/fdeck/dl/0001%20fnafcardback.jpg"
-    }
-  ]

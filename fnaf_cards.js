@@ -3,1027 +3,1198 @@ export const cards = {
       "name": "Bonnie",
       "image": "./img/Bonnie.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Bonnie.png",
-      "gmnote": "Unit, Battery=3,"
+      "gmnote": "Unit, Battery=3,",
+      "description": "",
     },
     "Chica": {
       "name": "Chica",
       "image": "./img/Chica.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Chica.png",
-      "gmnote": "\tUnit, Battery=3,"
+      "gmnote": "\tUnit, Battery=3,",
+      "description": "",
     },
     "Endo_1.0": {
       "name": "Endo 1.0",
       "image": "./img/Endo 1.0.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Endo 1.0.png",
-      "gmnote": "\tUnit, Battery=1,"
+      "gmnote": "\tUnit, Battery=1,",
+      "description": "",
     },
     "Foxy": {
       "name": "Foxy",
       "image": "./img/Foxy.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Foxy.png",
-      "gmnote": "\tUnit, Battery=3,"
+      "gmnote": "\tUnit, Battery=3,",
+      "description": "",
     },
     "Freddy_Fazbear": {
       "name": "Freddy Fazbear",
       "image": "./img/Freddy Fazbear.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Freddy Fazbear.png",
-      "gmnote": "\tUnit, Battery=5,"
+      "gmnote": "\tUnit, Battery=5,",
+      "description": "",
     },
     "Golden_Freddy": {
       "name": "Golden Freddy",
       "image": "./img/Golden Freddy.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Golden Freddy.png",
-      "gmnote": "\tUnit, Battery=3,"
+      "gmnote": "\tUnit, Battery=3,",
+      "description": "",
     },
     "20_Mode_Golden_Freddy": {
       "name": "20 Mode Golden Freddy",
       "image": "./img/20 Mode Golden Freddy.png",
       "url": "https://ulia.dev/tts/fdeck/dl/20 Mode Golden Freddy.png",
-      "gmnote": "\tUnit, Battery=5,"
+      "gmnote": "\tUnit, Battery=5,",
+      "description": "",
     },
     "Stuffed_Freddy": {
       "name": "Stuffed Freddy",
       "image": "./img/Stuffed Freddy.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Stuffed Freddy.png",
-      "gmnote": "Unit, Battery=6,"
+      "gmnote": "Unit, Battery=6,",
+      "description": "",
     },
     "Balloon_Boy": {
       "name": "Balloon Boy",
       "image": "./img/Balloon Boy.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Balloon Boy.png",
-      "gmnote": "\tUnit, Battery=5,"
+      "gmnote": "\tUnit, Battery=5,",
+      "description": "",
     },
     "Broken_Mangle": {
       "name": "Broken Mangle",
       "image": "./img/Broken Mangle.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Broken Mangle.png",
-      "gmnote": "Unit, Battery=6,"
+      "gmnote": "Unit, Battery=6,",
+      "description": "",
     },
     "Endo_2.0": {
       "name": "Endo 2.0",
       "image": "./img/Endo 2.0.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Endo 2.0.png",
-      "gmnote": "\tUnit, Battery=4,"
+      "gmnote": "\tUnit, Battery=4,",
+      "description": "",
     },
     "JJ": {
       "name": "JJ",
       "image": "./img/JJ.png",
       "url": "https://ulia.dev/tts/fdeck/dl/JJ.png",
-      "gmnote": "Unit, Battery=6,"
+      "gmnote": "Unit, Battery=6,",
+      "description": "",
     },
     "Mangle": {
       "name": "Mangle",
       "image": "./img/Mangle.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Mangle.png",
-      "gmnote": "\tUnit, Battery=6,"
+      "gmnote": "\tUnit, Battery=6,",
+      "description": "",
     },
     "Music_Box": {
       "name": "Music Box",
       "image": "./img/Music Box.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Music Box.png",
-      "gmnote": "Unit, Battery=3,"
+      "gmnote": "Unit, Battery=3,",
+      "description": "",
     },
     "Paper_Pals": {
       "name": "Paper Pals",
       "image": "./img/Paper Pals.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Paper Pals.png",
-      "gmnote": "Unit, Battery=2,"
+      "gmnote": "Unit, Battery=2,",
+      "description": "",
     },
     "The_Marionette": {
       "name": "The Marionette",
       "image": "./img/The Marionette.png",
       "url": "https://ulia.dev/tts/fdeck/dl/The Marionette.png",
-      "gmnote": "\tUnit, Battery=8,"
+      "gmnote": "\tUnit, Battery=8,",
+      "description": "",
     },
     "Toy_Bonnie": {
       "name": "Toy Bonnie",
       "image": "./img/Toy Bonnie.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Toy Bonnie.png",
-      "gmnote": "\tUnit, Battery=2,"
+      "gmnote": "\tUnit, Battery=2,",
+      "description": "",
     },
     "20_Mode_Toy_Bonnie": {
       "name": "20 Mode Toy Bonnie",
       "image": "./img/20 Mode Toy Bonnie.png",
       "url": "https://ulia.dev/tts/fdeck/dl/20 Mode Toy Bonnie.png",
-      "gmnote": "\tUnit, Battery=5,"
+      "gmnote": "\tUnit, Battery=5,",
+      "description": "",
     },
     "Toy_Chica": {
       "name": "Toy Chica",
       "image": "./img/Toy Chica.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Toy Chica.png",
-      "gmnote": "\tUnit, Battery=3,"
+      "gmnote": "\tUnit, Battery=3,",
+      "description": "",
     },
     "Toy_Freddy": {
       "name": "Toy Freddy",
       "image": "./img/Toy Freddy.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Toy Freddy.png",
-      "gmnote": "\tUnit, Battery=4,"
+      "gmnote": "\tUnit, Battery=4,",
+      "description": "",
     },
     "Withered_Bonnie": {
       "name": "Withered Bonnie",
       "image": "./img/Withered Bonnie.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Withered Bonnie.png",
-      "gmnote": "\tUnit, Battery=4,"
+      "gmnote": "\tUnit, Battery=4,",
+      "description": "",
     },
     "Withered_Chica": {
       "name": "Withered Chica",
       "image": "./img/Withered Chica.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Withered Chica.png",
-      "gmnote": "\tUnit, Battery=4,"
+      "gmnote": "\tUnit, Battery=4,",
+      "description": "",
     },
     "20_Mode_Withered_Chica": {
       "name": "20 Mode Withered Chica",
       "image": "./img/20 Mode Withered Chica.png",
       "url": "https://ulia.dev/tts/fdeck/dl/20 Mode Withered Chica.png",
-      "gmnote": "\tUnit, Battery=5,"
+      "gmnote": "\tUnit, Battery=5,",
+      "description": "",
     },
     "Withered_Foxy": {
       "name": "Withered Foxy",
       "image": "./img/Withered Foxy.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Withered Foxy.png",
-      "gmnote": "\tUnit, Battery=4,"
+      "gmnote": "\tUnit, Battery=4,",
+      "description": "",
     },
     "20_Mode_Withered_Foxy": {
       "name": "20 Mode Withered Foxy",
       "image": "./img/20 Mode Withered Foxy.png",
       "url": "https://ulia.dev/tts/fdeck/dl/20 Mode Withered Foxy.png",
-      "gmnote": "\tUnit, Battery=5,"
+      "gmnote": "\tUnit, Battery=5,",
+      "description": "",
     },
     "Withered_Freddy": {
       "name": "Withered Freddy",
       "image": "./img/Withered Freddy.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Withered Freddy.png",
-      "gmnote": "\tUnit, Battery=5,"
+      "gmnote": "\tUnit, Battery=5,",
+      "description": "",
     },
     "Withered_G._Freddy": {
       "name": "Withered G. Freddy",
       "image": "./img/Withered G. Freddy.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Withered G. Freddy.png",
-      "gmnote": "Unit, Battery=4,"
+      "gmnote": "Unit, Battery=4,",
+      "description": "",
     },
     "Dark_Springtrap": {
       "name": "Dark Springtrap",
       "image": "./img/Dark Springtrap.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Dark Springtrap.png",
-      "gmnote": "Unit, Battery=8,"
+      "gmnote": "Unit, Battery=8,",
+      "description": "",
     },
     "Phantom_BB": {
       "name": "Phantom BB",
       "image": "./img/Phantom BB.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Phantom BB.png",
-      "gmnote": "Unit, Battery=1,"
+      "gmnote": "Unit, Battery=1,",
+      "description": "",
     },
     "Phantom_Mangle": {
       "name": "Phantom Mangle",
       "image": "./img/Phantom Mangle.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Phantom Mangle.png",
-      "gmnote": "Unit, Battery=2,"
+      "gmnote": "Unit, Battery=2,",
+      "description": "",
     },
     "Phantom_Chica": {
       "name": "Phantom Chica",
       "image": "./img/Phantom Chica.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Phantom Chica.png",
-      "gmnote": "Unit, Battery=3,"
+      "gmnote": "Unit, Battery=3,",
+      "description": "",
     },
     "Phantom_Foxy": {
       "name": "Phantom Foxy",
       "image": "./img/Phantom Foxy.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Phantom Foxy.png",
-      "gmnote": "Unit, Battery=4,"
+      "gmnote": "Unit, Battery=4,",
+      "description": "",
     },
     "Phantom_Freddy": {
       "name": "Phantom Freddy",
       "image": "./img/Phantom Freddy.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Phantom Freddy.png",
-      "gmnote": "Unit, Battery=5,"
+      "gmnote": "Unit, Battery=5,",
+      "description": "",
     },
     "Phantom_Puppet": {
       "name": "Phantom Puppet",
       "image": "./img/Phantom Puppet.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Phantom Puppet.png",
-      "gmnote": "Unit, Battery=7,"
+      "gmnote": "Unit, Battery=7,",
+      "description": "",
     },
     "20_Mode_Phantom_Puppet": {
       "name": "20 Mode Phantom Puppet",
       "image": "./img/20 Mode Phantom Puppet.png",
       "url": "https://ulia.dev/tts/fdeck/dl/20 Mode Phantom Puppet.png",
-      "gmnote": "Unit, Battery=5,"
+      "gmnote": "Unit, Battery=5,",
+      "description": "",
     },
     "RWQFSFASXC": {
       "name": "RWQFSFASXC",
       "image": "./img/RWQFSFASXC.png",
       "url": "https://ulia.dev/tts/fdeck/dl/RWQFSFASXC.png",
-      "gmnote": "\tUnit, Battery=5,"
+      "gmnote": "\tUnit, Battery=5,",
+      "description": "",
     },
     "Shadow_Freddy": {
       "name": "Shadow Freddy",
       "image": "./img/Shadow Freddy.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Shadow Freddy.png",
-      "gmnote": "\tUnit, Battery=8,"
+      "gmnote": "\tUnit, Battery=8,",
+      "description": "",
     },
     "Spring_Bonnie": {
       "name": "Spring Bonnie",
       "image": "./img/Spring Bonnie.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Spring Bonnie.png",
-      "gmnote": "\tUnit, Battery=9,"
+      "gmnote": "\tUnit, Battery=9,",
+      "description": "",
     },
     "Springtrap": {
       "name": "Springtrap",
       "image": "./img/Springtrap.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Springtrap.png",
-      "gmnote": "\tUnit, Battery=8,"
+      "gmnote": "\tUnit, Battery=8,",
+      "description": "",
     },
     "Fredbear": {
       "name": "Fredbear",
       "image": "./img/Fredbear.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Fredbear.png",
-      "gmnote": "\tUnit, Battery=10,"
+      "gmnote": "\tUnit, Battery=10,",
+      "description": "",
     },
     "Freddles": {
       "name": "Freddles",
       "image": "./img/Freddles.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Freddles.png",
-      "gmnote": "Unit, Battery=2,"
+      "gmnote": "Unit, Battery=2,",
+      "description": "",
     },
     "Jack_O_Bonnie": {
       "name": "Jack O Bonnie",
       "image": "./img/Jack O Bonnie.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Jack O Bonnie.png",
-      "gmnote": "\tUnit, Battery=7,"
+      "gmnote": "\tUnit, Battery=7,",
+      "description": "",
     },
     "Jack_O_Chica": {
       "name": "Jack O Chica",
       "image": "./img/Jack O Chica.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Jack O Chica.png",
-      "gmnote": "\tUnit, Battery=7,"
+      "gmnote": "\tUnit, Battery=7,",
+      "description": "",
     },
     "Nightmare_BB": {
       "name": "Nightmare BB",
       "image": "./img/Nightmare BB.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Nightmare BB.png",
-      "gmnote": "Unit, Battery=6,"
+      "gmnote": "Unit, Battery=6,",
+      "description": "",
     },
     "Nightmare_Bonnie": {
       "name": "Nightmare Bonnie",
       "image": "./img/Nightmare Bonnie.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Nightmare Bonnie.png",
-      "gmnote": "\tUnit, Battery=6,"
+      "gmnote": "\tUnit, Battery=6,",
+      "description": "",
     },
     "Nightmare_Chica": {
       "name": "Nightmare Chica",
       "image": "./img/Nightmare Chica.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Nightmare Chica.png",
-      "gmnote": "\tUnit, Battery=6,"
+      "gmnote": "\tUnit, Battery=6,",
+      "description": "",
     },
     "Nightmare_Cupcake": {
       "name": "Nightmare Cupcake",
       "image": "./img/Nightmare Cupcake.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Nightmare Cupcake.png",
-      "gmnote": "Unit, Battery=3,"
+      "gmnote": "Unit, Battery=3,",
+      "description": "",
     },
     "Nightmare_Foxy": {
       "name": "Nightmare Foxy",
       "image": "./img/Nightmare Foxy.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Nightmare Foxy.png",
-      "gmnote": "\tUnit, Battery=4,"
+      "gmnote": "\tUnit, Battery=4,",
+      "description": "",
     },
     "Nightmare_Fredbear": {
       "name": "Nightmare Fredbear",
       "image": "./img/Nightmare Fredbear.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Nightmare Fredbear.png",
-      "gmnote": "Unit, Battery=8,"
+      "gmnote": "Unit, Battery=8,",
+      "description": "",
     },
     "Nightmare_Freddy": {
       "name": "Nightmare Freddy",
       "image": "./img/Nightmare Freddy.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Nightmare Freddy.png",
-      "gmnote": "\tUnit, Battery=8,"
+      "gmnote": "\tUnit, Battery=8,",
+      "description": "",
     },
     "20_Mode_Nightmare_Freddy": {
       "name": "20 Mode Nightmare Freddy",
       "image": "./img/20 Mode Nightmare Freddy.png",
       "url": "https://ulia.dev/tts/fdeck/dl/20 Mode Nightmare Freddy.png",
-      "gmnote": "\tUnit, Battery=10,"
+      "gmnote": "\tUnit, Battery=10,",
+      "description": "",
     },
     "Nightmare": {
       "name": "Nightmare",
       "image": "./img/Nightmare.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Nightmare.png",
-      "gmnote": "Unit, Battery=10,"
+      "gmnote": "Unit, Battery=10,",
+      "description": "",
     },
     "20_Mode_Nightmare": {
       "name": "20 Mode Nightmare",
       "image": "./img/20 Mode Nightmare.png",
       "url": "https://ulia.dev/tts/fdeck/dl/20 Mode Nightmare.png",
-      "gmnote": "Unit, Battery=5,"
+      "gmnote": "Unit, Battery=5,",
+      "description": "",
     },
     "Nightmarionne": {
       "name": "Nightmarionne",
       "image": "./img/Nightmarionne.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Nightmarionne.png",
-      "gmnote": "Unit, Battery=9,"
+      "gmnote": "Unit, Battery=9,",
+      "description": "",
     },
     "Nightmare_Mangle": {
       "name": "Nightmare Mangle",
       "image": "./img/Nightmare Mangle.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Nightmare Mangle.png",
-      "gmnote": "Unit, Battery=8,"
+      "gmnote": "Unit, Battery=8,",
+      "description": "",
     },
     "Plushtrap": {
       "name": "Plushtrap",
       "image": "./img/Plushtrap.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Plushtrap.png",
-      "gmnote": "Unit, Battery=1,"
+      "gmnote": "Unit, Battery=1,",
+      "description": "",
     },
     "Old_Man_Consequences": {
       "name": "Old Man Consequences",
       "image": "./img/Old Man Consequences.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Old Man Consequences.png",
-      "gmnote": "\tUnit, Battery=10,"
+      "gmnote": "\tUnit, Battery=10,",
+      "description": "",
     },
     "8_Bit_Baby": {
       "name": "8 Bit Baby",
       "image": "./img/8 Bit Baby.png",
       "url": "https://ulia.dev/tts/fdeck/dl/8 Bit Baby.png",
-      "gmnote": "Unit, Battery=4,"
+      "gmnote": "Unit, Battery=4,",
+      "description": "",
     },
     "Ballora": {
       "name": "Ballora",
       "image": "./img/Ballora.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Ballora.png",
-      "gmnote": "Unit, Battery=4,"
+      "gmnote": "Unit, Battery=4,",
+      "description": "",
     },
     "Bidybab": {
       "name": "Bidybab",
       "image": "./img/Bidybab.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Bidybab.png",
-      "gmnote": "Unit, Battery=2,"
+      "gmnote": "Unit, Battery=2,",
+      "description": "",
     },
     "Bon_Bon": {
       "name": "Bon Bon",
       "image": "./img/Bon Bon.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Bon Bon.png",
-      "gmnote": "Unit, Battery=4,"
+      "gmnote": "Unit, Battery=4,",
+      "description": "",
     },
     "Bonnet": {
       "name": "Bonnet",
       "image": "./img/Bonnet.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Bonnet.png",
-      "gmnote": "Unit, Battery=5,"
+      "gmnote": "Unit, Battery=5,",
+      "description": "",
     },
     "Circus_Baby": {
       "name": "Circus Baby",
       "image": "./img/Circus Baby.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Circus Baby.png",
-      "gmnote": "Unit, Battery=9,"
+      "gmnote": "Unit, Battery=9,",
+      "description": "",
     },
     "Electrobab": {
       "name": "Electrobab",
       "image": "./img/Electrobab.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Electrobab.png",
-      "gmnote": "\tUnit, Battery=5,"
+      "gmnote": "\tUnit, Battery=5,",
+      "description": "",
     },
     "Ennard": {
       "name": "Ennard",
       "image": "./img/Ennard.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Ennard.png",
-      "gmnote": "\tUnit, Battery=7,"
+      "gmnote": "\tUnit, Battery=7,",
+      "description": "",
     },
     "20_Mode_Ennard": {
       "name": "20 Mode Ennard",
       "image": "./img/20 Mode Ennard.png",
       "url": "https://ulia.dev/tts/fdeck/dl/20 Mode Ennard.png",
-      "gmnote": "\tUnit, Battery=5,"
+      "gmnote": "\tUnit, Battery=5,",
+      "description": "",
     },
     "Funtime_Chica": {
       "name": "Funtime Chica",
       "image": "./img/Funtime Chica.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Funtime Chica.png",
-      "gmnote": "\tUnit, Battery=6,"
+      "gmnote": "\tUnit, Battery=6,",
+      "description": "",
     },
     "Funtime_Foxy": {
       "name": "Funtime Foxy",
       "image": "./img/Funtime Foxy.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Funtime Foxy.png",
-      "gmnote": "\tUnit, Battery=5,"
+      "gmnote": "\tUnit, Battery=5,",
+      "description": "",
     },
     "Funtime_Freddy": {
       "name": "Funtime Freddy",
       "image": "./img/Funtime Freddy.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Funtime Freddy.png",
-      "gmnote": "Unit, Battery=5,"
+      "gmnote": "Unit, Battery=5,",
+      "description": "",
     },
     "Hivemind_Ennard": {
       "name": "Hivemind Ennard",
       "image": "./img/Hivemind Ennard.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Hivemind Ennard.png",
-      "gmnote": "Unit, Battery=10,"
+      "gmnote": "Unit, Battery=10,",
+      "description": "",
     },
     "Lolbit": {
       "name": "Lolbit",
       "image": "./img/Lolbit.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Lolbit.png",
-      "gmnote": "\tUnit, Battery=3,"
+      "gmnote": "\tUnit, Battery=3,",
+      "description": "",
     },
     "Lost_Ennard": {
       "name": "Lost Ennard",
       "image": "./img/Lost Ennard.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Lost Ennard.png",
-      "gmnote": "\tUnit, Battery=10,"
+      "gmnote": "\tUnit, Battery=10,",
+      "description": "",
     },
     "Maskless_Ennard": {
       "name": "Maskless Ennard",
       "image": "./img/Maskless Ennard.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Maskless Ennard.png",
-      "gmnote": "\tUnit, Battery=7,"
+      "gmnote": "\tUnit, Battery=7,",
+      "description": "",
     },
     "Minireenas": {
       "name": "Minireenas",
       "image": "./img/Minireenas.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Minireenas.png",
-      "gmnote": "\tUnit, Battery=1,"
+      "gmnote": "\tUnit, Battery=1,",
+      "description": "",
     },
     "Performer_Funtime_Foxy": {
       "name": "Performer Funtime Foxy",
       "image": "./img/Performer Funtime Foxy.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Performer Funtime Foxy.png",
-      "gmnote": "Unit, Battery=5,"
+      "gmnote": "Unit, Battery=5,",
+      "description": "",
     },
     "Yenndo": {
       "name": "Yenndo",
       "image": "./img/Yenndo.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Yenndo.png",
-      "gmnote": "\tUnit, Battery=6,"
+      "gmnote": "\tUnit, Battery=6,",
+      "description": "",
     },
     "20_Mode_Yenndo": {
       "name": "20 Mode Yenndo",
       "image": "./img/20 Mode Yenndo.png",
       "url": "https://ulia.dev/tts/fdeck/dl/20 Mode Yenndo.png",
-      "gmnote": "\tUnit, Battery=5,"
+      "gmnote": "\tUnit, Battery=5,",
+      "description": "",
     },
     "Afton": {
       "name": "Afton",
       "image": "./img/Afton.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Afton.png",
-      "gmnote": "\tUnit, Battery=6,"
+      "gmnote": "\tUnit, Battery=6,",
+      "description": "",
     },
     "Happy_Frog": {
       "name": "Happy Frog",
       "image": "./img/Happy Frog.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Happy Frog.png",
-      "gmnote": "\tUnit, Battery=3,"
+      "gmnote": "\tUnit, Battery=3,",
+      "description": "",
     },
     "Helpy": {
       "name": "Helpy",
       "image": "./img/Helpy.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Helpy.png",
-      "gmnote": "\tUnit, Battery=1,"
+      "gmnote": "\tUnit, Battery=1,",
+      "description": "",
     },
     "Lefty": {
       "name": "Lefty",
       "image": "./img/Lefty.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Lefty.png",
-      "gmnote": "\tUnit, Battery=6,"
+      "gmnote": "\tUnit, Battery=6,",
+      "description": "",
     },
     "20_Mode_Lefty": {
       "name": "20 Mode Lefty",
       "image": "./img/20 Mode Lefty.png",
       "url": "https://ulia.dev/tts/fdeck/dl/20 Mode Lefty.png",
-      "gmnote": "Unit, Battery=5,"
+      "gmnote": "Unit, Battery=5,",
+      "description": "",
     },
     "Molten_Freddy": {
       "name": "Molten Freddy",
       "image": "./img/Molten Freddy.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Molten Freddy.png",
-      "gmnote": "\tUnit, Battery=7,"
+      "gmnote": "\tUnit, Battery=7,",
+      "description": "",
     },
     "Mr._Hippo": {
       "name": "Mr. Hippo",
       "image": "./img/Mr. Hippo.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Mr. Hippo.png",
-      "gmnote": "\tUnit, Battery=3,"
+      "gmnote": "\tUnit, Battery=3,",
+      "description": "",
     },
     "Music_Man": {
       "name": "Music Man",
       "image": "./img/Music Man.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Music Man.png",
-      "gmnote": "\tUnit, Battery=5,"
+      "gmnote": "\tUnit, Battery=5,",
+      "description": "",
     },
     "Nedd_Bear": {
       "name": "Nedd Bear",
       "image": "./img/Nedd Bear.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Nedd Bear.png",
-      "gmnote": "\tUnit, Battery=3,"
+      "gmnote": "\tUnit, Battery=3,",
+      "description": "",
     },
     "Orville_Elephant": {
       "name": "Orville Elephant",
       "image": "./img/Orville Elephant.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Orville Elephant.png",
-      "gmnote": "\tUnit, Battery=5,"
+      "gmnote": "\tUnit, Battery=5,",
+      "description": "",
     },
     "Pigpatch": {
       "name": "Pigpatch",
       "image": "./img/Pigpatch.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Pigpatch.png",
-      "gmnote": "\tUnit, Battery=3,"
+      "gmnote": "\tUnit, Battery=3,",
+      "description": "",
     },
     "Rockstar_Bonnie": {
       "name": "Rockstar Bonnie",
       "image": "./img/Rockstar Bonnie.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Rockstar Bonnie.png",
-      "gmnote": "\tUnit, Battery=5,"
+      "gmnote": "\tUnit, Battery=5,",
+      "description": "",
     },
     "Rockstar_Chica": {
       "name": "Rockstar Chica",
       "image": "./img/Rockstar Chica.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Rockstar Chica.png",
-      "gmnote": "\tUnit, Battery=4,"
+      "gmnote": "\tUnit, Battery=4,",
+      "description": "",
     },
     "Rockstar_Foxy": {
       "name": "Rockstar Foxy",
       "image": "./img/Rockstar Foxy.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Rockstar Foxy.png",
-      "gmnote": "\tUnit, Battery=5,"
+      "gmnote": "\tUnit, Battery=5,",
+      "description": "",
     },
     "Rockstar_Freddy": {
       "name": "Rockstar Freddy",
       "image": "./img/Rockstar Freddy.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Rockstar Freddy.png",
-      "gmnote": "\tUnit, Battery=5,"
+      "gmnote": "\tUnit, Battery=5,",
+      "description": "",
     },
     "Scrap_Baby": {
       "name": "Scrap Baby",
       "image": "./img/Scrap Baby.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Scrap Baby.png",
-      "gmnote": "\tUnit, Battery=7,"
+      "gmnote": "\tUnit, Battery=7,",
+      "description": "",
     },
     "20_Mode_Scrap_Baby": {
       "name": "20 Mode Scrap Baby",
       "image": "./img/20 Mode Scrap Baby.png",
       "url": "https://ulia.dev/tts/fdeck/dl/20 Mode Scrap Baby.png",
-      "gmnote": "\tUnit, Battery=5,"
+      "gmnote": "\tUnit, Battery=5,",
+      "description": "",
     },
     "Security_Puppet": {
       "name": "Security Puppet",
       "image": "./img/Security Puppet.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Security Puppet.png",
-      "gmnote": "\tUnit, Battery=7,"
+      "gmnote": "\tUnit, Battery=7,",
+      "description": "",
     },
     "The_One": {
       "name": "The One",
       "image": "./img/The One.png",
       "url": "https://ulia.dev/tts/fdeck/dl/The One.png",
-      "gmnote": "\tUnit, Battery=0,"
+      "gmnote": "\tUnit, Battery=0,",
+      "description": "",
     },
     "Burnt_Freddles": {
       "name": "Burnt Freddles",
       "image": "./img/Burnt Freddles.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Burnt Freddles.png",
-      "gmnote": "Unit, Battery=2,"
+      "gmnote": "Unit, Battery=2,",
+      "description": "",
     },
     "Dreadbear": {
       "name": "Dreadbear",
       "image": "./img/Dreadbear.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Dreadbear.png",
-      "gmnote": "\tUnit, Battery=8,"
+      "gmnote": "\tUnit, Battery=8,",
+      "description": "",
     },
     "Glitchtrap": {
       "name": "Glitchtrap",
       "image": "./img/Glitchtrap.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Glitchtrap.png",
-      "gmnote": "\tUnit, Battery=8,"
+      "gmnote": "\tUnit, Battery=8,",
+      "description": "",
     },
     "Grim_Foxy": {
       "name": "Grim Foxy",
       "image": "./img/Grim Foxy.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Grim Foxy.png",
-      "gmnote": "\tUnit, Battery=6,"
+      "gmnote": "\tUnit, Battery=6,",
+      "description": "",
     },
     "20_Mode_Grim_Foxy": {
       "name": "20 Mode Grim Foxy",
       "image": "./img/20 Mode Grim Foxy.png",
       "url": "https://ulia.dev/tts/fdeck/dl/20 Mode Grim Foxy.png",
-      "gmnote": "Unit, Battery=5,"
+      "gmnote": "Unit, Battery=5,",
+      "description": "",
     },
     "Lost_Princess": {
       "name": "Lost Princess",
       "image": "./img/Lost Princess.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Lost Princess.png",
-      "gmnote": "Unit, Battery=2,"
+      "gmnote": "Unit, Battery=2,",
+      "description": "",
     },
     "Nightmare_Endo": {
       "name": "Nightmare Endo",
       "image": "./img/Nightmare Endo.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Nightmare Endo.png",
-      "gmnote": "\tUnit, Battery=4,"
+      "gmnote": "\tUnit, Battery=4,",
+      "description": "",
     },
     "Captain_Foxy": {
       "name": "Captain Foxy",
       "image": "./img/Captain Foxy.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Captain Foxy.png",
-      "gmnote": "Unit, Battery=8,"
+      "gmnote": "Unit, Battery=8,",
+      "description": "",
     },
     "Carnie": {
       "name": "Carnie",
       "image": "./img/Carnie.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Carnie.png",
-      "gmnote": "\tUnit, Battery=10,"
+      "gmnote": "\tUnit, Battery=10,",
+      "description": "",
     },
     "Head_Chef": {
       "name": "Head Chef",
       "image": "./img/Head Chef.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Head Chef.png",
-      "gmnote": "\tUnit, Battery=10,"
+      "gmnote": "\tUnit, Battery=10,",
+      "description": "",
     },
     "Jack_o_Moon": {
       "name": "Jack o Moon",
       "image": "./img/Jack O Moon.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Jack o Moon.png",
-      "gmnote": "\tUnit, Battery=10,"
+      "gmnote": "\tUnit, Battery=10,",
+      "description": "",
     },
     "Malhare": {
       "name": "Malhare",
       "image": "./img/Malhare.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Malhare.png",
-      "gmnote": "Unit, Battery=3,"
+      "gmnote": "Unit, Battery=3,",
+      "description": "",
     },
     "Mystic_Hippo": {
       "name": "Mystic Hippo",
       "image": "./img/Mystic Hippo.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Mystic Hippo.png",
-      "gmnote": "\tUnit, Battery=10,"
+      "gmnote": "\tUnit, Battery=10,",
+      "description": "",
     },
     "Plush_Baby": {
       "name": "Plush Baby",
       "image": "./img/Plush Baby.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Plush Baby.png",
-      "gmnote": "\tUnit, Battery=1,"
+      "gmnote": "\tUnit, Battery=1,",
+      "description": "",
     },
     "Plushkins": {
       "name": "Plushkins",
       "image": "./img/Plushkins.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Plushkins.png",
-      "gmnote": "Unit, Battery=4,"
+      "gmnote": "Unit, Battery=4,",
+      "description": "",
     },
     "Scrap_Plush_Babies": {
       "name": "Scrap Plush Babies",
       "image": "./img/Scrap Plush Babies.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Scrap Plush Babies.png",
-      "gmnote": "\tUnit, Battery=2,"
+      "gmnote": "\tUnit, Battery=2,",
+      "description": "",
     },
     "Shadow_Mangle": {
       "name": "Shadow Mangle",
       "image": "./img/Shadow Mangle.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Shadow Mangle.png",
-      "gmnote": "\tUnit, Battery=3,"
+      "gmnote": "\tUnit, Battery=3,",
+      "description": "",
     },
     "Beta_M.X.E.S": {
       "name": "Beta M.X.E.S",
       "image": "./img/Beta M.X.E.S.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Beta M.X.E.S.png",
-      "gmnote": "\tUnit, Battery=10,"
+      "gmnote": "\tUnit, Battery=10,",
+      "description": "",
     },
     "Burntrap": {
       "name": "Burntrap",
       "image": "./img/Burntrap.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Burntrap.png",
-      "gmnote": "\tUnit, Battery=10,"
+      "gmnote": "\tUnit, Battery=10,",
+      "description": "",
     },
     "Costumed_Mimic": {
       "name": "Costumed Mimic",
       "image": "./img/Costumed Mimic.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Costumed Mimic.png",
-      "gmnote": "\tUnit, Battery=5,"
+      "gmnote": "\tUnit, Battery=5,",
+      "description": "",
     },
     "DJMM": {
       "name": "DJMM",
       "image": "./img/DJMM.png",
       "url": "https://ulia.dev/tts/fdeck/dl/DJMM.png",
-      "gmnote": "Unit, Battery=8,"
+      "gmnote": "Unit, Battery=8,",
+      "description": "",
     },
     "Eclipse": {
       "name": "Eclipse",
       "image": "./img/Eclipse.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Eclipse.png",
-      "gmnote": "\tUnit, Battery=8,"
+      "gmnote": "\tUnit, Battery=8,",
+      "description": "",
     },
     "Glamrock_Chica": {
       "name": "Glamrock Chica",
       "image": "./img/Glamrock Chica.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Glamrock Chica.png",
-      "gmnote": "\tUnit, Battery=5,"
+      "gmnote": "\tUnit, Battery=5,",
+      "description": "",
     },
     "Glamrock_Endo": {
       "name": "Glamrock Endo",
       "image": "./img/Glamrock Endo.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Glamrock Endo.png",
-      "gmnote": "\tUnit, Battery=4,"
+      "gmnote": "\tUnit, Battery=4,",
+      "description": "",
     },
     "Glamrock_Freddy": {
       "name": "Glamrock Freddy",
       "image": "./img/Glamrock Freddy.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Glamrock Freddy.png",
-      "gmnote": "\tUnit, Battery=5,"
+      "gmnote": "\tUnit, Battery=5,",
+      "description": "",
     },
     "Glamrock_Freddy_2.0": {
       "name": "Glamrock Freddy 2.0",
       "image": "./img/Glamrock Freddy 2.0.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Glamrock Freddy 2.0.png",
-      "gmnote": "\tUnit, Battery=0,"
+      "gmnote": "\tUnit, Battery=0,",
+      "description": "",
     },
     "Glamrock_Freddy_3.0": {
       "name": "Glamrock Freddy 3.0",
       "image": "./img/Glamrock Freddy 3.0.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Glamrock Freddy 3.0.png",
-      "gmnote": "\tUnit, Battery=0,"
+      "gmnote": "\tUnit, Battery=0,",
+      "description": "",
     },
     "Glamrock_Freddy_MAX": {
       "name": "Glamrock Freddy MAX",
       "image": "./img/Glamrock Freddy MAX.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Glamrock Freddy MAX.png",
-      "gmnote": "\tUnit, Battery=0,"
+      "gmnote": "\tUnit, Battery=0,",
+      "description": "",
     },
     "Helpi": {
       "name": "Helpi",
       "image": "./img/Helpi.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Helpi.png",
-      "gmnote": "Unit, Battery=2,"
+      "gmnote": "Unit, Battery=2,",
+      "description": "",
     },
     "Lil_Music_Man": {
       "name": "Lil Music Man",
       "image": "./img/Lil Music Man.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Lil Music Man.png",
-      "gmnote": "\tUnit, Battery=3,"
+      "gmnote": "\tUnit, Battery=3,",
+      "description": "",
     },
     "Mimic": {
       "name": "Mimic",
       "image": "./img/Mimic.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Mimic.png",
-      "gmnote": "Unit, Battery=7,"
+      "gmnote": "Unit, Battery=7,",
+      "description": "",
     },
     "Monty": {
       "name": "Monty",
       "image": "./img/Monty.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Monty.png",
-      "gmnote": "\tUnit, Battery=7,"
+      "gmnote": "\tUnit, Battery=7,",
+      "description": "",
     },
     "Moon": {
       "name": "Moon",
       "image": "./img/Moon.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Moon.png",
-      "gmnote": "Unit, Battery=6,"
+      "gmnote": "Unit, Battery=6,",
+      "description": "",
     },
     "MXES": {
       "name": "MXES",
       "image": "./img/MXES.png",
       "url": "https://ulia.dev/tts/fdeck/dl/MXES.png",
-      "gmnote": "\tUnit, Battery=5,"
+      "gmnote": "\tUnit, Battery=5,",
+      "description": "",
     },
     "Prototype_G_Freddy": {
       "name": "Prototype G Freddy",
       "image": "./img/Prototype G Freddy.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Prototype G Freddy.png",
-      "gmnote": "\tUnit, Battery=10,"
+      "gmnote": "\tUnit, Battery=10,",
+      "description": "",
     },
     "Roxy": {
       "name": "Roxy",
       "image": "./img/Roxy.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Roxy.png",
-      "gmnote": "\tUnit, Battery=6,"
+      "gmnote": "\tUnit, Battery=6,",
+      "description": "",
     },
     "Ruined_Chica": {
       "name": "Ruined Chica",
       "image": "./img/Ruined Chica.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Ruined Chica.png",
-      "gmnote": "\tUnit, Battery=10,"
+      "gmnote": "\tUnit, Battery=10,",
+      "description": "",
     },
     "Ruined_Monty": {
       "name": "Ruined Monty",
       "image": "./img/Ruined Monty.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Ruined Monty.png",
-      "gmnote": "\tUnit, Battery=10,"
+      "gmnote": "\tUnit, Battery=10,",
+      "description": "",
     },
     "Ruined_Roxy": {
       "name": "Ruined Roxy",
       "image": "./img/Ruined Roxy.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Ruined Roxy.png",
-      "gmnote": "\tUnit, Battery=10,"
+      "gmnote": "\tUnit, Battery=10,",
+      "description": "",
     },
     "Scooping_Claw": {
       "name": "Scooping Claw",
       "image": "./img/Scooping Claw.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Scooping Claw.png",
-      "gmnote": "\tUnit, Battery=10,"
+      "gmnote": "\tUnit, Battery=10,",
+      "description": "",
     },
     "Shattered_Glamrock_Chica": {
       "name": "Shattered Glamrock Chica",
       "image": "./img/Shattered Glamrock Chica.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Shattered Glamrock Chica.png",
-      "gmnote": "\tUnit, Battery=10,"
+      "gmnote": "\tUnit, Battery=10,",
+      "description": "",
     },
     "Shattered_Roxy": {
       "name": "Shattered Roxy",
       "image": "./img/Shattered Roxy.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Shattered Roxy.png",
-      "gmnote": "\tUnit, Battery=10,"
+      "gmnote": "\tUnit, Battery=10,",
+      "description": "",
     },
     "Shattered_Monty": {
       "name": "Shattered Monty",
       "image": "./img/Shattered Monty.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Shattered Monty.png",
-      "gmnote": "\tUnit, Battery=10,"
+      "gmnote": "\tUnit, Battery=10,",
+      "description": "",
     },
     "Staff_Bot": {
       "name": "Staff Bot",
       "image": "./img/Staff Bot.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Staff Bot.png",
-      "gmnote": "\tUnit, Battery=10,"
+      "gmnote": "\tUnit, Battery=10,",
+      "description": "",
     },
     "Sun": {
       "name": "Sun",
       "image": "./img/Sun.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Sun.png",
-      "gmnote": "Unit, Battery=6,"
+      "gmnote": "Unit, Battery=6,",
+      "description": "",
     },
     "The_Blob": {
       "name": "The Blob",
       "image": "./img/The Blob.png",
       "url": "https://ulia.dev/tts/fdeck/dl/The Blob.png",
-      "gmnote": "\tUnit, Battery=8,"
+      "gmnote": "\tUnit, Battery=8,",
+      "description": "",
     },
     "Vanny": {
       "name": "Vanny",
       "image": "./img/Vanny.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Vanny.png",
-      "gmnote": "Unit, Battery=7,"
+      "gmnote": "Unit, Battery=7,",
+      "description": "",
     },
     "Arctic_Ballora": {
       "name": "Arctic Ballora",
       "image": "./img/Arctic Ballora.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Arctic Ballora.png",
-      "gmnote": "\tUnit, Battery=10,"
+      "gmnote": "\tUnit, Battery=10,",
+      "description": "",
     },
     "Black_Heart_Bonnie": {
       "name": "Black Heart Bonnie",
       "image": "./img/Black Heart Bonnie.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Black Heart Bonnie.png",
-      "gmnote": "\tUnit, Battery=4,"
+      "gmnote": "\tUnit, Battery=4,",
+      "description": "",
     },
     "Boiler_Baby": {
       "name": "Boiler Baby",
       "image": "./img/Boiler Baby.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Boiler Baby.png",
-      "gmnote": "\tUnit, Battery=6,"
+      "gmnote": "\tUnit, Battery=6,",
+      "description": "",
     },
     "Boulder_Toy_Bonnie": {
       "name": "Boulder Toy Bonnie",
       "image": "./img/Boulder Toy Bonnie.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Boulder Toy Bonnie.png",
-      "gmnote": "\tUnit, Battery=3,"
+      "gmnote": "\tUnit, Battery=3,",
+      "description": "",
     },
     "Clown_Springtrap": {
       "name": "Clown Springtrap",
       "image": "./img/Clown Springtrap.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Clown Springtrap.png",
-      "gmnote": "Unit, Battery=7,"
+      "gmnote": "Unit, Battery=7,",
+      "description": "",
     },
     "Darkwater_Endo": {
       "name": "Darkwater Endo",
       "image": "./img/Darkwater Endo.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Darkwater Endo.png",
-      "gmnote": "\tUnit, Battery=4,"
+      "gmnote": "\tUnit, Battery=4,",
+      "description": "",
     },
     "Easter_Bonnie": {
       "name": "Easter Bonnie",
       "image": "./img/Easter Bonnie.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Easter Bonnie.png",
-      "gmnote": "\tUnit, Battery=5,"
+      "gmnote": "\tUnit, Battery=5,",
+      "description": "",
     },
     "Firework_Freddy": {
       "name": "Firework Freddy",
       "image": "./img/Firework Freddy.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Firework Freddy.png",
-      "gmnote": "\tUnit, Battery=6,"
+      "gmnote": "\tUnit, Battery=6,",
+      "description": "",
     },
     "Flamethrower_Endo": {
       "name": "Flamethrower Endo",
       "image": "./img/Flamethrower Endo.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Flamethrower Endo.png",
-      "gmnote": "\tUnit, Battery=4,"
+      "gmnote": "\tUnit, Battery=4,",
+      "description": "",
     },
     "Flaming_Springtrap": {
       "name": "Flaming Springtrap",
       "image": "./img/Flaming Springtrap.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Flaming Springtrap.png",
-      "gmnote": "\tUnit, Battery=10,"
+      "gmnote": "\tUnit, Battery=10,",
+      "description": "",
     },
     "Freddy_Frostbear": {
       "name": "Freddy Frostbear",
       "image": "./img/Freddy Frostbear.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Freddy Frostbear.png",
-      "gmnote": "\tUnit, Battery=4,"
+      "gmnote": "\tUnit, Battery=4,",
+      "description": "",
     },
     "20_Mode_Freddy_Frostbear": {
       "name": "20 Mode Freddy Frostbear",
       "image": "./img/20 Mode Freddy Frostbear.png",
       "url": "https://ulia.dev/tts/fdeck/dl/20 Mode Freddy Frostbear.png",
-      "gmnote": "Unit, Battery=5,"
+      "gmnote": "Unit, Battery=5,",
+      "description": "",
     },
     "Frostbite_Balloon_Boy": {
       "name": "Frostbite Balloon Boy",
       "image": "./img/Frostbite Balloon Boy.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Frostbite Balloon Boy.png",
-      "gmnote": "\tUnit, Battery=10,"
+      "gmnote": "\tUnit, Battery=10,",
+      "description": "",
     },
     "Frost_Plushtrap": {
       "name": "Frost Plushtrap",
       "image": "./img/Frost Plushtrap.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Frost Plushtrap.png",
-      "gmnote": "\tUnit, Battery=10,"
+      "gmnote": "\tUnit, Battery=10,",
+      "description": "",
     },
     "Game_Over_Toy_Chica": {
       "name": "Game Over Toy Chica",
       "image": "./img/Game Over Toy Chica.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Game Over Toy Chica.png",
-      "gmnote": "\tUnit, Battery=6,"
+      "gmnote": "\tUnit, Battery=6,",
+      "description": "",
     },
     "Great_Escape_Golden_Freddy": {
       "name": "Great Escape Golden Freddy",
       "image": "./img/Great Escape Golden Freddy.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Great Escape Golden Freddy.png",
-      "gmnote": "\tUnit, Battery=8,"
+      "gmnote": "\tUnit, Battery=8,",
+      "description": "",
     },
     "Heartsick_Baby": {
       "name": "Heartsick Baby",
       "image": "./img/Heartsick Baby.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Heartsick Baby.png",
-      "gmnote": "\tUnit, Battery=9,"
+      "gmnote": "\tUnit, Battery=9,",
+      "description": "",
     },
     "Highscore_Toy_Chica": {
       "name": "Highscore Toy Chica",
       "image": "./img/Highscore Toy Chica.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Highscore Toy Chica.png",
-      "gmnote": "\tUnit, Battery=4,"
+      "gmnote": "\tUnit, Battery=4,",
+      "description": "",
     },
     "Jetpack_Balloon_Boy": {
       "name": "Jetpack Balloon Boy",
       "image": "./img/Jetpack Balloon Boy.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Jetpack Balloon Boy.png",
-      "gmnote": "\tUnit, Battery=10,"
+      "gmnote": "\tUnit, Battery=10,",
+      "description": "",
     },
     "Liberty_Chica": {
       "name": "Liberty Chica",
       "image": "./img/Liberty Chica.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Liberty Chica.png",
-      "gmnote": "\tUnit, Battery=8,"
+      "gmnote": "\tUnit, Battery=8,",
+      "description": "",
     },
     "Magician_Mangle": {
       "name": "Magician Mangle",
       "image": "./img/Magician Mangle.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Magician Mangle.png",
-      "gmnote": "Unit, Battery=3,"
+      "gmnote": "Unit, Battery=3,",
+      "description": "",
     },
     "Melted_Chocolate_Bonnie": {
       "name": "Melted Chocolate Bonnie",
       "image": "./img/Melted Chocolate Bonnie.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Melted Chocolate Bonnie.png",
-      "gmnote": "Unit, Battery=6,"
+      "gmnote": "Unit, Battery=6,",
+      "description": "",
     },
     "Piranha_Plushtrap": {
       "name": "Piranha Plushtrap",
       "image": "./img/Piranha Plushtrap.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Piranha Plushtrap.png",
-      "gmnote": "Unit, Battery=4,"
+      "gmnote": "Unit, Battery=4,",
+      "description": "",
     },
     "Radioactive_Foxy": {
       "name": "Radioactive Foxy",
       "image": "./img/Radioactive Foxy.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Radioactive Foxy.png",
-      "gmnote": "\tUnit, Battery=5,"
+      "gmnote": "\tUnit, Battery=5,",
+      "description": "",
     },
     "Ringmaster_Foxy": {
       "name": "Ringmaster Foxy",
       "image": "./img/Ringmaster Foxy.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Ringmaster Foxy.png",
-      "gmnote": "Unit, Battery=5,"
+      "gmnote": "Unit, Battery=5,",
+      "description": "",
     },
     "Scorching_Chica": {
       "name": "Scorching Chica",
       "image": "./img/Scorching Chica.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Scorching Chica.png",
-      "gmnote": "\tUnit, Battery=10,"
+      "gmnote": "\tUnit, Battery=10,",
+      "description": "",
     },
     "Serpent_Mangle": {
       "name": "Serpent Mangle",
       "image": "./img/Serpent Mangle.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Serpent Mangle.png",
-      "gmnote": "Unit, Battery=5,"
+      "gmnote": "Unit, Battery=5,",
+      "description": "",
     },
     "Shamrock_Freddy": {
       "name": "Shamrock Freddy",
       "image": "./img/Shamrock Freddy.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Shamrock Freddy.png",
-      "gmnote": "\tUnit, Battery=8,"
+      "gmnote": "\tUnit, Battery=8,",
+      "description": "",
     },
     "Sunken_Bonnie": {
       "name": "Sunken Bonnie",
