@@ -581,9 +581,9 @@ export const cards = {
       "description": "",
     },
     "Mr._Hippo": {
-      "name": "Mr. Hippo",
-      "image": "./img/Mr. Hippo.png",
-      "url": "https://ulia.dev/tts/fdeck/dl/Mr. Hippo.png",
+      "name": "Mr Hippo",
+      "image": "./img/Mr Hippo.png",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357695754482/BFA4244E28A68D7FD2F34E726D1953DE3862D6D2/",
       "gmnote": "\tUnit, Battery=3,",
       "description": "",
     },
