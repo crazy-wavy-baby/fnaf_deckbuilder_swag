@@ -296,7 +296,7 @@ export const cards = {
     "Jack_O_Chica": {
       "name": "Jack O Chica",
       "image": "./img/Jack O Chica.png",
-      "url": "https://ulia.dev/tts/fdeck/dl/Jack O Chica.png",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357695802591/8596A40C0B66AE452EAA3FF4E52B1D7A42BAC953/",
       "gmnote": "\tUnit, Battery=7,",
       "description": "",
     },
@@ -353,7 +353,7 @@ export const cards = {
       "name": "20 Mode Nightmare Freddy",
       "image": "./img/20 Mode Nightmare Freddy.png",
       "url": "https://ulia.dev/tts/fdeck/dl/20 Mode Nightmare Freddy.png",
-      "gmnote": "\tUnit, Battery=10,",
+      "gmnote": "\tUnit, Battery=5,",
       "description": "",
     },
     "Nightmare": {
@@ -395,7 +395,7 @@ export const cards = {
       "name": "Old Man Consequences",
       "image": "./img/Old Man Consequences.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Old Man Consequences.png",
-      "gmnote": "\tUnit, Battery=10,",
+      "gmnote": "\tUnit, Battery=5,",
       "description": "",
     },
     "8_Bit_Baby": {
@@ -485,8 +485,8 @@ export const cards = {
     "Hivemind_Ennard": {
       "name": "Hivemind Ennard",
       "image": "./img/Hivemind Ennard.png",
-      "url": "https://ulia.dev/tts/fdeck/dl/Hivemind Ennard.png",
-      "gmnote": "Unit, Battery=10,",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357698537765/66A19A1A20569344159E47ED89F60FFB7CF2D19E/",
+      "gmnote": "Unit, Battery=8,",
       "description": "",
     },
     "Lolbit": {
@@ -500,7 +500,7 @@ export const cards = {
       "name": "Lost Ennard",
       "image": "./img/Lost Ennard.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Lost Ennard.png",
-      "gmnote": "\tUnit, Battery=10,",
+      "gmnote": "\tUnit, Battery=5,",
       "description": "",
     },
     "Maskless_Ennard": {
@@ -548,7 +548,7 @@ export const cards = {
     "Happy_Frog": {
       "name": "Happy Frog",
       "image": "./img/Happy Frog.png",
-      "url": "https://ulia.dev/tts/fdeck/dl/Happy Frog.png",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357695796022/8F8D5C4AD5D14E8C7EFEC062DD3AA40DF89E3BE6/",
       "gmnote": "\tUnit, Battery=3,",
       "description": "",
     },
@@ -604,7 +604,7 @@ export const cards = {
     "Orville_Elephant": {
       "name": "Orville Elephant",
       "image": "./img/Orville Elephant.png",
-      "url": "https://ulia.dev/tts/fdeck/dl/Orville Elephant.png",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357695789032/BE71367191A4C3BFCAC1A1BE5E82D8EEF5E06CC1/",
       "gmnote": "\tUnit, Battery=5,",
       "description": "",
     },
@@ -702,7 +702,7 @@ export const cards = {
     "20_Mode_Grim_Foxy": {
       "name": "20 Mode Grim Foxy",
       "image": "./img/20 Mode Grim Foxy.png",
-      "url": "https://ulia.dev/tts/fdeck/dl/20 Mode Grim Foxy.png",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357695816730/E6DD03F1A282E16FABAE60C9B7D46F4A05FDC6F4/",
       "gmnote": "Unit, Battery=5,",
       "description": "",
     },
@@ -731,21 +731,21 @@ export const cards = {
       "name": "Carnie",
       "image": "./img/Carnie.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Carnie.png",
-      "gmnote": "\tUnit, Battery=10,",
+      "gmnote": "\tUnit, Battery=5,",
       "description": "",
     },
     "Head_Chef": {
       "name": "Head Chef",
       "image": "./img/Head Chef.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Head Chef.png",
-      "gmnote": "\tUnit, Battery=10,",
+      "gmnote": "\tUnit, Battery=4,",
       "description": "",
     },
-    "Jack_o_Moon": {
-      "name": "Jack o Moon",
+    "Jack_O_Moon": {
+      "name": "Jack O Moon",
       "image": "./img/Jack O Moon.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Jack o Moon.png",
-      "gmnote": "\tUnit, Battery=10,",
+      "gmnote": "\tUnit, Battery=8,",
       "description": "",
     },
     "Malhare": {
@@ -759,7 +759,7 @@ export const cards = {
       "name": "Mystic Hippo",
       "image": "./img/Mystic Hippo.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Mystic Hippo.png",
-      "gmnote": "\tUnit, Battery=10,",
+      "gmnote": "\tUnit, Battery=5,",
       "description": "",
     },
     "Plush_Baby": {
@@ -794,7 +794,7 @@ export const cards = {
       "name": "Beta M.X.E.S",
       "image": "./img/Beta M.X.E.S.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Beta M.X.E.S.png",
-      "gmnote": "\tUnit, Battery=10,",
+      "gmnote": "\tUnit, Battery=5,",
       "description": "",
     },
     "Burntrap": {
@@ -913,7 +913,7 @@ export const cards = {
       "name": "Prototype G Freddy",
       "image": "./img/Prototype G Freddy.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Prototype G Freddy.png",
-      "gmnote": "\tUnit, Battery=10,",
+      "gmnote": "\tUnit, Battery=6,",
       "description": "",
     },
     "Roxy": {
@@ -927,56 +927,56 @@ export const cards = {
       "name": "Ruined Chica",
       "image": "./img/Ruined Chica.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Ruined Chica.png",
-      "gmnote": "\tUnit, Battery=10,",
+      "gmnote": "\tUnit, Battery=5,",
       "description": "",
     },
     "Ruined_Monty": {
       "name": "Ruined Monty",
       "image": "./img/Ruined Monty.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Ruined Monty.png",
-      "gmnote": "\tUnit, Battery=10,",
+      "gmnote": "\tUnit, Battery=5,",
       "description": "",
     },
     "Ruined_Roxy": {
       "name": "Ruined Roxy",
       "image": "./img/Ruined Roxy.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Ruined Roxy.png",
-      "gmnote": "\tUnit, Battery=10,",
+      "gmnote": "\tUnit, Battery=6,",
       "description": "",
     },
     "Scooping_Claw": {
       "name": "Scooping Claw",
       "image": "./img/Scooping Claw.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Scooping Claw.png",
-      "gmnote": "\tUnit, Battery=10,",
+      "gmnote": "\tUnit, Battery=5,",
       "description": "",
     },
     "Shattered_Glamrock_Chica": {
       "name": "Shattered Glamrock Chica",
       "image": "./img/Shattered Glamrock Chica.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Shattered Glamrock Chica.png",
-      "gmnote": "\tUnit, Battery=10,",
+      "gmnote": "\tUnit, Battery=3,",
       "description": "",
     },
     "Shattered_Roxy": {
       "name": "Shattered Roxy",
       "image": "./img/Shattered Roxy.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Shattered Roxy.png",
-      "gmnote": "\tUnit, Battery=10,",
+      "gmnote": "\tUnit, Battery=3,",
       "description": "",
     },
     "Shattered_Monty": {
       "name": "Shattered Monty",
       "image": "./img/Shattered Monty.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Shattered Monty.png",
-      "gmnote": "\tUnit, Battery=10,",
+      "gmnote": "\tUnit, Battery=4,",
       "description": "",
     },
     "Staff_Bot": {
       "name": "Staff Bot",
       "image": "./img/Staff Bot.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Staff Bot.png",
-      "gmnote": "\tUnit, Battery=10,",
+      "gmnote": "\tUnit, Battery=2,",
       "description": "",
     },
     "Sun": {
@@ -989,7 +989,7 @@ export const cards = {
     "The_Blob": {
       "name": "The Blob",
       "image": "./img/The Blob.png",
-      "url": "https://ulia.dev/tts/fdeck/dl/The Blob.png",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357695832719/BDDB353370170B76D6EF43A592877894B2FF287D/",
       "gmnote": "\tUnit, Battery=8,",
       "description": "",
     },
@@ -1004,7 +1004,7 @@ export const cards = {
       "name": "Arctic Ballora",
       "image": "./img/Arctic Ballora.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Arctic Ballora.png",
-      "gmnote": "\tUnit, Battery=10,",
+      "gmnote": "\tUnit, Battery=4,",
       "description": "",
     },
     "Black_Heart_Bonnie": {
@@ -1067,7 +1067,7 @@ export const cards = {
       "name": "Flaming Springtrap",
       "image": "./img/Flaming Springtrap.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Flaming Springtrap.png",
-      "gmnote": "\tUnit, Battery=10,",
+      "gmnote": "\tUnit, Battery=8,",
       "description": "",
     },
     "Freddy_Frostbear": {
@@ -1088,14 +1088,14 @@ export const cards = {
       "name": "Frostbite Balloon Boy",
       "image": "./img/Frostbite Balloon Boy.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Frostbite Balloon Boy.png",
-      "gmnote": "\tUnit, Battery=10,",
+      "gmnote": "\tUnit, Battery=2,",
       "description": "",
     },
     "Frost_Plushtrap": {
       "name": "Frost Plushtrap",
       "image": "./img/Frost Plushtrap.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Frost Plushtrap.png",
-      "gmnote": "\tUnit, Battery=10,",
+      "gmnote": "\tUnit, Battery=2,",
       "description": "",
     },
     "Game_Over_Toy_Chica": {
@@ -1130,7 +1130,7 @@ export const cards = {
       "name": "Jetpack Balloon Boy",
       "image": "./img/Jetpack Balloon Boy.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Jetpack Balloon Boy.png",
-      "gmnote": "\tUnit, Battery=10,",
+      "gmnote": "\tUnit, Battery=5,",
       "description": "",
     },
     "Liberty_Chica": {
@@ -1143,7 +1143,7 @@ export const cards = {
     "Magician_Mangle": {
       "name": "Magician Mangle",
       "image": "./img/Magician Mangle.png",
-      "url": "https://ulia.dev/tts/fdeck/dl/Magician Mangle.png",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357695821383/83A05FD22849C0749F495DD029607B99F8E8DE2C/",
       "gmnote": "Unit, Battery=3,",
       "description": "",
     },
@@ -1179,7 +1179,7 @@ export const cards = {
       "name": "Scorching Chica",
       "image": "./img/Scorching Chica.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Scorching Chica.png",
-      "gmnote": "\tUnit, Battery=10,",
+      "gmnote": "\tUnit, Battery=5,",
       "description": "",
     },
     "Serpent_Mangle": {
@@ -1206,7 +1206,7 @@ export const cards = {
       "name": "Swamp Balloon Boy",
       "image": "./img/Swamp Balloon Boy.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Swamp Balloon Boy.png",
-      "gmnote": "\tUnit, Battery=2,"
+      "gmnote": "\tUnit, Battery=3,"
     },
     "System_Error_Toy_Bonnie": {
       "name": "System Error Toy Bonnie",
@@ -1410,7 +1410,7 @@ export const cards = {
       "name": "Jr Freddy",
       "image": "./img/Jr Freddy.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Jr Freddy.png",
-      "gmnote": ""
+      "gmnote": "\tUnit, Battery=6,"
     },
     "Jr_Puppet": {
       "name": "Jr Puppet",
@@ -1583,7 +1583,7 @@ export const cards = {
     "Showbear": {
       "name": "Showbear",
       "image": "./img/Showbear.png",
-      "url": "https://ulia.dev/tts/fdeck/dl/Showbear.png",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357695827413/211DEC450180EA9D09D108A82A6FB2E6FE7FA432/",
       "gmnote": "Unit, Battery=7,"
     },
     "Witch_Sheep": {
@@ -1649,7 +1649,7 @@ export const cards = {
     "Arrival": {
       "name": "Arrival",
       "image": "./img/Arrival.png",
-      "url": "https://ulia.dev/tts/fdeck/dl/Arrival.png",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357698533437/02107FB4557838EE86BCF7323CDF1843131B54FA/",
       "gmnote": "Spell, Battery=4,"
     },
     "Beautiful": {
@@ -1758,7 +1758,7 @@ export const cards = {
       "name": "Can't Hide",
       "image": "./img/Can't Hide.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Can't Hide.png",
-      "gmnote": ""
+      "gmnote": "\tSpell, Battery=1,"
     },
     "Celestial_Reflection": {
       "name": "Celestial Reflection",
@@ -1854,7 +1854,7 @@ export const cards = {
       "name": "Drowning",
       "image": "./img/Drowning.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Drowning.png",
-      "gmnote": ""
+      "gmnote": "\tSpell, Battery=5,"
     },
     "Embrace_the_Sin": {
       "name": "Embrace the Sin",
@@ -2213,7 +2213,7 @@ export const cards = {
     "Mastermind": {
       "name": "Mastermind",
       "image": "./img/Mastermind.png",
-      "url": "https://ulia.dev/tts/fdeck/dl/Mastermind.png",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357698542610/2E5735AE0B787821B1EED8758F6420EA0DB61A00/",
       "gmnote": "Spell, Battery=5,"
     },
     "Meld_Metal": {
@@ -2519,7 +2519,7 @@ export const cards = {
     "The_Past_Bites": {
       "name": "The Past Bites",
       "image": "./img/The Past Bites.png",
-      "url": "https://ulia.dev/tts/fdeck/dl/The Past Bites.png",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357698527087/7904576D5EDCA5FDCE19E92AD4D2FBD5D806F383/",
       "gmnote": "\tSpell, Battery=5,"
     },
     "The_Rabbit_is_Starving": {
@@ -2579,7 +2579,7 @@ export const cards = {
     "Twisted_Vengeance": {
       "name": "Twisted Vengeance",
       "image": "./img/Twisted Vengeance.png",
-      "url": "https://ulia.dev/tts/fdeck/dl/Twisted Vengeance.png",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357695872443/F29F4C3A1CBFD1EBAA7C4D3E22B286A42864D723/",
       "gmnote": "\tSpell, Battery=4,"
     },
     "Twisted_Mutation": {
@@ -2598,7 +2598,7 @@ export const cards = {
       "name": "Undesirable Discovery",
       "image": "./img/Undesirable Discovery.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Undesirable Discovery.png",
-      "gmnote": ""
+      "gmnote": "\tSpell, Battery=2,"
     },
     "Ultimate_Deception": {
       "name": "Ultimate Deception",
