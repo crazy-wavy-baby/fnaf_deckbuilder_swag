@@ -4,6 +4,7 @@ const cardlist = document.getElementById('cardlist');
 const cardtemplate = document.getElementById('card-template');
 const cardlisttemplate = document.getElementById('cardlist-template');
 const deckCounter = document.getElementById('deck-count');
+const cardpreviewimage = document.getElementById('cardpreview');
 document.getElementById('deck-download').onclick = function() {downloadDeck()};
 loadCards();
 
@@ -51,6 +52,19 @@ function loadCards() {
         clonebutton.setAttribute('data-key', cardkey);
         clonebutton.onclick = function() {togglecard(clonebutton)};
         clone.removeAttribute('id');
+        clone.addEventListener(
+            "mouseenter",
+            (event) => {
+                cardpreviewimage.classList.remove('hide');
+                cardpreviewimage.setAttribute('src', cards[cardkey].image);
+            },
+        );
+        clone.addEventListener(
+            "mouseleave",
+            (event) => {
+                cardpreviewimage.classList.add('hide');
+            },
+        );
         cardgrid.appendChild(clone);
     });
 }
