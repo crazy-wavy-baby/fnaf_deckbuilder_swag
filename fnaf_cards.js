@@ -793,7 +793,7 @@ export const cards = {
     "Beta_M.X.E.S": {
       "name": "Beta M.X.E.S",
       "image": "./img/Beta M.X.E.S.png",
-      "url": "https://ulia.dev/tts/fdeck/dl/Beta M.X.E.S.png",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357695811595/BC7CE37D056FA5B5B71E6B3398BB4E00640F47BD/",
       "gmnote": "\tUnit, Battery=5,",
       "description": "",
     },
@@ -1839,6 +1839,12 @@ export const cards = {
       "url": "https://ulia.dev/tts/fdeck/dl/Deadly Sewers.png",
       "gmnote": "\tSpell, Battery=5,"
     },
+    "Defenseless": {
+      "name": "Defenseless",
+      "image": "./img/Defenseless.png",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357695854351/8D5A2CF8B9B1C63401F53E0608BF90A7EC2F1AD5/",
+      "gmnote": "\tSpell, Battery=4,"
+    },
     "Demonstration": {
       "name": "Demonstration",
       "image": "./img/Demonstration.png",
@@ -1856,6 +1862,12 @@ export const cards = {
       "image": "./img/Delicious Ice Cream.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Delicous Ice Cream.png",
       "gmnote": "\tSpell, Battery=2,"
+    },
+    "Disassemble": {
+      "name": "Disassemble",
+      "image": "./img/Disassemble.png",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357695858416/8316856A7843F22FD6635868BE4532E633BC1D19/",
+      "gmnote": "\tSpell, Battery=3,"
     },
     "Disposal": {
       "name": "Disposal",
@@ -1935,6 +1947,12 @@ export const cards = {
       "url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357700223917/20B5AB1778D608123D20DB4EA830B023A3FCD356/",
       "gmnote": "\tSpell, Battery=10,"
     },
+    "Feasting_Ritual": {
+      "name": "Feasting Ritual",
+      "image": "./img/Feasting Ritual.png",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357695779395/E7524F481D841F58275288790B99CC39FFCB8CCE/",
+      "gmnote": "\tSpell, Battery=3,"
+    },
     "Ferocious": {
       "name": "Ferocious",
       "image": "./img/Ferocious.png",
@@ -1976,6 +1994,12 @@ export const cards = {
       "image": "./img/Forgiveness.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Forgiveness.png",
       "gmnote": "\tSpell, Battery=3,"
+    },
+    "Forgotten_Remains": {
+      "name": "Forgotten Remains",
+      "image": "./img/Forgotten Remains.png",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357695774985/278D1704AF2278AEF75CB173CEC1614080D46215/",
+      "gmnote": "\tSpell, Battery=5,"
     },
     "Forgotten_Whispers": {
       "name": "Forgotten Whispers",
@@ -2241,6 +2265,12 @@ export const cards = {
       "url": "https://ulia.dev/tts/fdeck/dl/Meld Metal.png",
       "gmnote": "\tSpell, Battery=3,"
     },
+    "Memory_Lane": {
+      "name": "Memory Lane",
+      "image": "./img/Memory Lane.png",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357695761100/CAFCBC75C8A027C41A5DB787DA4CC2866B0D6E94/",
+      "gmnote": "\tSpell, Battery=3,"
+    },
     "Merciless_Time": {
       "name": "Merciless Time",
       "image": "./img/Merciless Time.png",
@@ -2325,6 +2355,12 @@ export const cards = {
       "url": "https://ulia.dev/tts/fdeck/dl/Purify.png",
       "gmnote": "\tSpell, Battery=3,"
     },
+    "Rebirth": {
+      "name": "Rebirth",
+      "image": "./img/Rebirth.png",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357695743628/90A17B747A5869BB2A3D5F4E6736CFF5F6944A93/",
+      "gmnote": "Spell, Battery=3,"
+    },
     "Regrets_of_the_Dammned": {
       "name": "Regrets of the Dammned",
       "image": "./img/Regrets of the Damned.png",
@@ -2361,6 +2397,12 @@ export const cards = {
       "url": "https://ulia.dev/tts/fdeck/dl/Relocate Project.png",
       "gmnote": "\tSpell, Battery=4,"
     },
+    "Repair": {
+      "name": "Repair",
+      "image": "./img/Repair.png",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357695738799/A920E132068DE47FA7E9826947D8417DB7F7046C/",
+      "gmnote": "\tSpell, Battery=3,"
+    },
     "Reserved_Theatre": {
       "name": "Reserved Theatre",
       "image": "./img/Reserved Theatre.png",
@@ -2379,8 +2421,8 @@ export const cards = {
       "url": "https://ulia.dev/tts/fdeck/dl/Revenge.png",
       "gmnote": "\tSpell, Battery=4,"
     },
-    "Ringmaster_Decree": {
-      "name": "Ringmaster Decree",
+    "Ringmasters_Decree": {
+      "name": "Ringmasters Decree",
       "image": "./img/Ringmasters Decree.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Ringmasters Decree.png",
       "gmnote": "Spell, Battery=2,"
@@ -2468,6 +2510,12 @@ export const cards = {
       "image": "./img/Soul Devour.png",
       "url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357699545588/50752F68DFD65D0F60E7F3A2CFE4965482044BCB/",
       "gmnote": "\tSpell, Battery=3,"
+    },
+    "Soul_Magic": {
+      "name": "Soul Magic",
+      "image": "./img/Soul Magic.png",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357695732428/0913E910E0535F9453AD1E9388A43B9411B5EE9A/",
+      "gmnote": "\tSpell, Battery=4,"
     },
     "Special_Delivery": {
       "name": "Special Delivery",
