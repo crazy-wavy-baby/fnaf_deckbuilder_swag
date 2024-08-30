@@ -12,14 +12,13 @@ var previewScale = 450;
 document.addEventListener("keydown", callBack, false);
 function callBack(e) {
     var keyCode = e.keyCode;
-    console.log(keyCode);
     if (keyCode == "187") {
-        previewScale += 20;
+        previewScale += 10;
         cardpreviewimage.setAttribute('style', 'width:' + parseInt(previewScale) + 'px');
     }
 
     if (keyCode == '189') {
-        previewScale -= 20;
+        previewScale -= 10;
         cardpreviewimage.setAttribute('style', 'width:' + parseInt(previewScale) + 'px');
     }
   }
