@@ -173,11 +173,11 @@ body {
 }
 
 #cardpreview {
-    width:600px;
+    width:450px;
     border-radius:10px;
     background-color: antiquewhite;
     position:fixed;
-    right:160px;
+    right:80px;
     top: 50%;
     transform: translateY(-50%);
     opacity:1;
