@@ -2137,7 +2137,7 @@ export const cards = {
     "Help_Me_Count_My_Teeth_": {
       "name": "Help Me Count My Teeth ",
       "image": "./img/Help Me Count My Teeth.png",
-      "url": "https://ulia.dev/tts/fdeck/dl/Help Me Count My Teeth .png",
+      "url": "https://ulia.dev/tts/fdeck/dl/Help Me Count My Teeth.png",
       "gmnote": "\tSpell, Battery=2,"
     },
     "Hide_and_Seek": {
@@ -2760,7 +2760,7 @@ export const cards = {
     },
     "Wither_Them_Down": {
       "name": "Wither Them Down",
-      "image": "./img/Wither them Down.png",
+      "image": "./img/Wither Them Down.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Wither Them Down.png",
       "gmnote": "\tSpell, Battery=1,"
     },
