@@ -1041,7 +1041,7 @@ export const cards = {
       "url": "https://steamusercontent-a.akamaihd.net/ugc/2490007528740084369/6AA93D735FC01031EFA0FB2C9401D766A3CBC33A/",
       "gmnote": "Unit, Battery=4,",
       "description": "",
-    }
+    },
     "Clown_Springtrap": {
       "name": "Clown Springtrap",
       "image": "./img/Clown Springtrap.png",
