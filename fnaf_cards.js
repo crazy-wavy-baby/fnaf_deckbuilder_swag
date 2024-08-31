@@ -1035,6 +1035,13 @@ export const cards = {
       "gmnote": "\tUnit, Battery=3,",
       "description": "",
     },
+    "Chocolate_Bonnie": {
+      "name": "Chocolate Bonnie",
+      "image": "./img/Chocolate Bonnie.png",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/2490007528740084369/6AA93D735FC01031EFA0FB2C9401D766A3CBC33A/",
+      "gmnote": "Unit, Battery=4,",
+      "description": "",
+    }
     "Clown_Springtrap": {
       "name": "Clown Springtrap",
       "image": "./img/Clown Springtrap.png",
@@ -2148,7 +2155,7 @@ export const cards = {
     "Horror_Stories": {
       "name": "Horror Stories",
       "image": "./img/Horror Stories.png",
-      "url": "https://ulia.dev/tts/fdeck/dl/Horror Stories.png",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357709038450/5E7C2036E79FF7B9A6BC26DE121B55E9278953AB/",
       "gmnote": "Spell, Battery=5,"
     },
     "Ignited_Brethren": {
@@ -2480,12 +2487,6 @@ export const cards = {
       "image": "./img/Shadowy Release.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Shadowy Release.png",
       "gmnote": "\tSpell, Battery=5,"
-    },
-    "Shows_Over": {
-      "name": "Shows Over",
-      "image": "./img/Shows Over.png",
-      "url": "https://ulia.dev/tts/fdeck/dl/Shows Over.png",
-      "gmnote": "\tSpell, Battery=9,"
     },
     "Sinful_Bargin": {
       "name": "Sinful Bargain",
