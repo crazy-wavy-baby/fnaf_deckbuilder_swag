@@ -8,6 +8,21 @@ const cardpreviewimage = document.getElementById('cardpreview');
 document.getElementById('deck-download').onclick = function() {downloadDeck()};
 loadCards();
 
+var previewScale = 450;
+document.addEventListener("keydown", callBack, false);
+function callBack(e) {
+    var keyCode = e.keyCode;
+    if (keyCode == "187") {
+        previewScale += 10;
+        cardpreviewimage.setAttribute('style', 'width:' + parseInt(previewScale) + 'px');
+    }
+
+    if (keyCode == '189') {
+        previewScale -= 10;
+        cardpreviewimage.setAttribute('style', 'width:' + parseInt(previewScale) + 'px');
+    }
+  }
+
 const searchinput = document.getElementById("searchinput");
 searchinput.addEventListener('keydown', searchin, false);
 function searchin(event) {
@@ -82,6 +97,8 @@ function togglecard(target) {
     //getSelection();
     createCardList();
 }
+
+
 
 function getSelection() {
     for (let i=0; i < cardgrid.children.length;i++) {
