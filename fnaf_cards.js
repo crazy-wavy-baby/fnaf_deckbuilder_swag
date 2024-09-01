@@ -2758,10 +2758,10 @@ export const cards = {
       "url": "https://ulia.dev/tts/fdeck/dl/Withered Crew.png",
       "gmnote": "\tSpell, Battery=4,"
     },
-    "Wither_Them_Down": {
-      "name": "Wither Them Down",
-      "image": "./img/Wither Them Down.png",
-      "url": "https://ulia.dev/tts/fdeck/dl/Wither Them Down.png",
+    "Wither_them_Down": {
+      "name": "Wither them Down",
+      "image": "./img/Wither them Down.png",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357716965473/9B00F23605931D83C0B5A0831DEAB80C615A272F/",
       "gmnote": "\tSpell, Battery=1,"
     },
     "Wonderland": {
