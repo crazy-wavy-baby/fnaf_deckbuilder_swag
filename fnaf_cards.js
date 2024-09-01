@@ -2581,13 +2581,13 @@ export const cards = {
     "The_Fun_Never_Ends": {
       "name": "The Fun Never Ends",
       "image": "./img/The Fun Never Ends.png",
-      "url": "https://ulia.dev/tts/fdeck/dl/The Fun Never Ends.png",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357698527087/7904576D5EDCA5FDCE19E92AD4D2FBD5D806F383/",
       "gmnote": "\tSpell, Battery=3,"
     },
     "The_Past_Bites": {
       "name": "The Past Bites",
       "image": "./img/The Past Bites.png",
-      "url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357698527087/7904576D5EDCA5FDCE19E92AD4D2FBD5D806F383/",
+      "url": "https://ulia.dev/tts/fdeck/dl/The Past Bites",
       "gmnote": "\tSpell, Battery=5,"
     },
     "The_Rabbit_is_Starving": {
