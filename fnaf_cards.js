@@ -1609,7 +1609,7 @@ export const cards = {
     "Showbear": {
       "name": "Showbear",
       "image": "./img/Showbear.png",
-      "url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357695827413/211DEC450180EA9D09D108A82A6FB2E6FE7FA432/",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357720725234/26686484BCF583458128435FD5EACCC1085B3A92/",
       "gmnote": "Unit, Battery=7,"
     },
     "Witch_Sheep": {
@@ -2641,13 +2641,13 @@ export const cards = {
     "Twisted_Glare": {
       "name": "Twisted Glare",
       "image": "./img/Twisted Glare.png",
-      "url": "https://ulia.dev/tts/fdeck/dl/Twisted Glare.png",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357695872443/F29F4C3A1CBFD1EBAA7C4D3E22B286A42864D723/",
       "gmnote": "Spell, Battery=3,"
     },
     "Twisted_Vengeance": {
       "name": "Twisted Vengeance",
       "image": "./img/Twisted Vengeance.png",
-      "url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357695872443/F29F4C3A1CBFD1EBAA7C4D3E22B286A42864D723/",
+      "url": "https://ulia.dev/tts/fdeck/dl/Twisted Vengeance.png",
       "gmnote": "\tSpell, Battery=4,"
     },
     "Twisted_Mutation": {
@@ -2767,7 +2767,7 @@ export const cards = {
     "Wonderland": {
       "name": "Wonderland",
       "image": "./img/Wonderland.png",
-      "url": "https://ulia.dev/tts/fdeck/dl/Wonderland.png",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357720652090/76799806C513FB46B708770DED4268A42110939E/",
       "gmnote": "\tSpell, Battery=9,"
     }
   }
