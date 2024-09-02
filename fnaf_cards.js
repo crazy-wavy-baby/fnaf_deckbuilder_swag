@@ -1645,25 +1645,25 @@ export const cards = {
     "Ancient_Memories:_Dream": {
       "name": "Ancient Memories: Dream",
       "image": "./img/Ancient Memories Dream.png",
-      "url": "https://ulia.dev/tts/fdeck/dl/Ancient Memories: Dream.png",
+      "url": "https://ulia.dev/tts/fdeck/dl/Ancient Memories Dream.png",
       "gmnote": "\tSpell, Battery=3,"
     },
     "Ancient_Memories:_Forgotten": {
       "name": "Ancient Memories: Forgotten",
       "image": "./img/Ancient Memories Forgotten.png",
-      "url": "https://ulia.dev/tts/fdeck/dl/Ancient Memories: Forgotten.png",
+      "url": "https://ulia.dev/tts/fdeck/dl/Ancient Memories Forgotten.png",
       "gmnote": "\tSpell, Battery=3,"
     },
     "Ancient_Memories:_Origin": {
       "name": "Ancient Memories: Origin",
       "image": "./img/Ancient Memories Origin.png",
-      "url": "https://ulia.dev/tts/fdeck/dl/Ancient Memories: Origin.png",
+      "url": "https://ulia.dev/tts/fdeck/dl/Ancient Memories Origin.png",
       "gmnote": "\tSpell, Battery=3,"
     },
     "Ancient_Memories:_Joy": {
       "name": "Ancient Memories: Joy",
       "image": "./img/Ancient Memories Joy.png",
-      "url": "https://ulia.dev/tts/fdeck/dl/Ancient Memories: Joy.png",
+      "url": "https://ulia.dev/tts/fdeck/dl/Ancient Memories Joy.png",
       "gmnote": "\tSpell, Battery=6,"
     },
     "Approaching_Nightmare": {
