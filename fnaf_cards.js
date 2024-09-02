@@ -2587,7 +2587,7 @@ export const cards = {
     "The_Past_Bites": {
       "name": "The Past Bites",
       "image": "./img/The Past Bites.png",
-      "url": "https://ulia.dev/tts/fdeck/dl/The Past Bites",
+      "url": "https://ulia.dev/tts/fdeck/dl/The Past Bites.png",
       "gmnote": "\tSpell, Battery=5,"
     },
     "The_Rabbit_is_Starving": {
