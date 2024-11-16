@@ -1168,6 +1168,13 @@ export const cards = {
       "gmnote": "\tUnit, Battery=8,",
       "description": "",
     },
+    "Livewire_Toy_Freddy": {
+      "name": "Livewire Toy Freddy",
+      "image": "./img/Livewire Toy Freddy.png",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/40063924293195494/8DDA27F58DEBC34F87A679C66A1E1181D8D86738/",
+      "gmnote": "\tUnit, Battery=6,",
+      "description": "",
+    },
     "Magician_Mangle": {
       "name": "Magician Mangle",
       "image": "./img/Magician Mangle.png",
