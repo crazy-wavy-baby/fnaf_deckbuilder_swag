@@ -1864,10 +1864,10 @@ export const cards = {
       "url": "https://ulia.dev/tts/fdeck/dl/Diabolical Fizzy Faz.png",
       "gmnote": "\tSpell, Battery=4,"
     },
-    "Delicous_Ice_Cream": {
-      "name": "Delicous Ice Cream",
+    "Delicious_Ice_Cream": {
+      "name": "Delicious Ice Cream",
       "image": "./img/Delicious Ice Cream.png",
-      "url": "https://ulia.dev/tts/fdeck/dl/Delicous Ice Cream.png",
+      "url": "https://ulia.dev/tts/fdeck/dl/Delicious Ice Cream.png",
       "gmnote": "\tSpell, Battery=2,"
     },
     "Disassemble": {
@@ -1885,7 +1885,7 @@ export const cards = {
     "Dreadful_Monstrosity": {
       "name": "Dreadful Monstrosity",
       "image": "./img/Dreadful Monstrosity (Spell).png",
-      "url": "https://ulia.dev/tts/fdeck/dl/Dreadful Monstrosity U.png",
+      "url": "https://ulia.dev/tts/fdeck/dl/Dreadful Monstrosity (Spell).png",
       "gmnote": "\tSpell, Battery=5,"
     },
     "Drowning": {
@@ -2212,10 +2212,10 @@ export const cards = {
       "url": "https://ulia.dev/tts/fdeck/dl/Into the Light.png",
       "gmnote": "\tSpell, Battery=3,"
     },
-    "Into_The_Void": {
-      "name": "Into The Void",
+    "Into_the_Void": {
+      "name": "Into the Void",
       "image": "./img/Into the Void.png",
-      "url": "https://ulia.dev/tts/fdeck/dl/Into The Void.png",
+      "url": "https://ulia.dev/tts/fdeck/dl/Into the Void.png",
       "gmnote": "\tSpell, Battery=7,"
     },
     "It_Burns!": {
@@ -2287,7 +2287,7 @@ export const cards = {
     "Miniature_Creation": {
       "name": "Miniature Creation",
       "image": "./img/Miniature Creation (Spell).png",
-      "url": "https://ulia.dev/tts/fdeck/dl/Miniature Creation U.png",
+      "url": "https://ulia.dev/tts/fdeck/dl/Miniature Creation (Spell).png",
       "gmnote": "Spell, Battery=7,"
     },
     "Mistakes_Happen": {
@@ -2311,7 +2311,7 @@ export const cards = {
     "OBEY": {
       "name": "OBEY",
       "image": "./img/Obey.png",
-      "url": "https://ulia.dev/tts/fdeck/dl/OBEY.png",
+      "url": "https://ulia.dev/tts/fdeck/dl/Obey.png",
       "gmnote": "\tSpell, Battery=4,"
     },
     "Peaceful_Burial": {
@@ -2488,10 +2488,10 @@ export const cards = {
       "url": "https://ulia.dev/tts/fdeck/dl/Shadowy Release.png",
       "gmnote": "\tSpell, Battery=5,"
     },
-    "Sinful_Bargin": {
+    "Sinful_Bargain": {
       "name": "Sinful Bargain",
       "image": "./img/Sinful Bargain.png",
-      "url": "https://ulia.dev/tts/fdeck/dl/Sinful Bargin.png",
+      "url": "https://ulia.dev/tts/fdeck/dl/Sinful Bargain.png",
       "gmnote": "\tSpell, Battery=2,"
     },
     "Slop": {
