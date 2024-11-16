@@ -1,7 +1,7 @@
 export const cards = {
     "Bonnie": {
       "name": "Bonnie",
-      "image": "./img/Bonnie.png",
+      "image": "./img/Livewire Toy Freddy.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Bonnie.png",
       "gmnote": "Unit, Battery=3,",
       "description": "",
