@@ -261,7 +261,7 @@ export const cards = {
     "Spring_Bonnie": {
       "name": "Spring Bonnie",
       "image": "./img/Spring Bonnie.png",
-      "url": "https://ulia.dev/tts/fdeck/dl/Spring Bonnie.png",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/40063924293176785/3AC3A01F6F158370D445A44DAF89FBFF790249F9/",
       "gmnote": "\tUnit, Battery=9,",
       "description": "",
     },
@@ -1008,7 +1008,7 @@ export const cards = {
       "description": "",
     },
     "Twin_Celestials": {
-      "name": "Twin_Celestials",
+      "name": "Twin Celestials",
       "image": "./img/Twin Celestials.png",
       "url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357695728649/404F1366E5D1F9FD646D1B802E3C0A742377AD33/",
       "gmnote": "\tUnit, Battery=8,",
@@ -1115,7 +1115,7 @@ export const cards = {
     "Frostbite_Balloon_Boy": {
       "name": "Frostbite Balloon Boy",
       "image": "./img/Frostbite Balloon Boy.png",
-      "url": "https://ulia.dev/tts/fdeck/dl/Frostbite Balloon Boy.png",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/40063924293170568/890D7B51B83929F304CF1E49EC14EC25155832D6/",
       "gmnote": "\tUnit, Battery=2,",
       "description": "",
     },
@@ -1166,6 +1166,13 @@ export const cards = {
       "image": "./img/Liberty Chica.png",
       "url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357700296906/4A8AB474A3F5C8F48299BE9A173ECA424656883C/",
       "gmnote": "\tUnit, Battery=8,",
+      "description": "",
+    },
+    "Livewire_Toy_Freddy": {
+      "name": "Livewire Toy Freddy",
+      "image": "./img/Livewire Toy Freddy.png",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/40063924293195494/8DDA27F58DEBC34F87A679C66A1E1181D8D86738/",
+      "gmnote": "\tUnit, Battery=6,",
       "description": "",
     },
     "Magician_Mangle": {
@@ -2885,7 +2892,7 @@ export const cards = {
     "Wonderland": {
       "name": "Wonderland",
       "image": "./img/Wonderland.png",
-      "url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357720652090/76799806C513FB46B708770DED4268A42110939E/",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/40063924293211568/97794E1A7F8D9814134071F927644885AE127CE6/",
       "gmnote": "\tSpell, Battery=9,"
     }
   }
