@@ -2415,7 +2415,7 @@ export const cards = {
     },
     "Peaceful_Dreams": {
       "name": "Peaceful Dreams",
-      "image": "./img/Peaceful Dreams",
+      "image": "./img/Peaceful Dreams.png",
       "url": "https://steamusercontent-a.akamaihd.net/ugc/40063924290778808/E8F93C7DDEE331A6227C8143DEB0264B6C19424F/",
       "gmnote": "\tSpell, Battery=8,"
     },
