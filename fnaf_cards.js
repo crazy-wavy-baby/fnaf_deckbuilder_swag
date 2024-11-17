@@ -247,14 +247,14 @@ export const cards = {
     "RWQFSFASXC": {
       "name": "RWQFSFASXC",
       "image": "./img/RWQFSFASXC.png",
-      "url": "https://ulia.dev/tts/fdeck/dl/RWQFSFASXC.png",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/40063924294381776/98969DC545E208941B8D0EAB0B17AE0DE3A51547/",
       "gmnote": "\tUnit, Battery=5,",
       "description": "",
     },
     "Shadow_Freddy": {
       "name": "Shadow Freddy",
       "image": "./img/Shadow Freddy.png",
-      "url": "https://steamusercontent-a.akamaihd.net/ugc/40063924290929882/5C68DDCA57C1064A4B2A74844CEE5794E80DC43F/",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/40063924294384124/AD78B4CEEAECB47B737AA1F840B188DE024A7003/",
       "gmnote": "\tUnit, Battery=6,",
       "description": "",
     },
@@ -765,7 +765,7 @@ export const cards = {
     "Malhare": {
       "name": "Malhare",
       "image": "./img/Malhare.png",
-      "url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357699519440/A9B722FC7ED68B9449F2B7B791EA0F449BE6B05C/",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/40063924294379200/F1F076A62D4B93B0FA23114A17DF1719222CE818/",
       "gmnote": "Unit, Battery=3,",
       "description": "",
     },
@@ -800,7 +800,7 @@ export const cards = {
     "Shadow_Mangle": {
       "name": "Shadow Mangle",
       "image": "./img/Shadow Mangle.png",
-      "url": "https://ulia.dev/tts/fdeck/dl/Shadow Mangle.png",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/40063924294386479/764FF0BC2241D100C268CA37D90DF419FF1A24E9/",
       "gmnote": "\tUnit, Battery=3,",
       "description": "",
     },
