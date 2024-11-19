@@ -1829,7 +1829,7 @@ export const cards = {
     "Broken_Family": {
       "name": "Broken Family",
       "image": "./img/Broken Family.png",
-      "url": "https://ulia.dev/tts/fdeck/dl/Broken Family.png",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/40063924300363953/CA637EA369F8348CD377FC1E65D33481101751C6/",
       "gmnote": "\tSpell, Battery=5,"
     },
     "Burning_Hatred": {
@@ -1889,7 +1889,7 @@ export const cards = {
     "Corrupted_Dreams": {
       "name": "Corrupted Dreams",
       "image": "./img/Corrupted Dreams.png",
-      "url": "https://ulia.dev/tts/fdeck/dl/Corrupted Dreams.png",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/40063924300356070/C482B2CC47303EFB89202ECD99EDE10C7A3129A0/",
       "gmnote": "\tSpell, Battery=8,"
     },
     "Courage": {
@@ -2306,10 +2306,10 @@ export const cards = {
       "url": "https://ulia.dev/tts/fdeck/dl/It Burns!.png",
       "gmnote": "\tSpell, Battery=5,"
     },
-    "Jack_o_Flame": {
-      "name": "Jack o Flame",
-      "image": "./img/Jack o Flame.png",
-      "url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357699489998/0E21F531E7EBBDDBAC2C03425F88FB165C50047D/",
+    "Jack_O_Flame": {
+      "name": "Jack O Flame",
+      "image": "./img/Jack O Flame.png",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/40063924300358949/4F8FBEA7354F55CBCD87AFA732D3FBFB0FCB0E95/",
       "gmnote": "\tSpell, Battery=3,"
     },
     "Joy_of_Creation": {
@@ -2627,8 +2627,8 @@ export const cards = {
     "Special_Delivery": {
       "name": "Special Delivery",
       "image": "./img/Special Delivery.png",
-      "url": "https://ulia.dev/tts/fdeck/dl/Special Delivery.png",
-      "gmnote": "\tSpell, Battery=5,"
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/40063924300366972/A8938BE53626BEE1A6952F57585A8D9E6C3FED18/",
+      "gmnote": "\tSpell, Battery=4,"
     },
     "Sprinting_Initiative": {
       "name": "Sprinting Initiative",
@@ -2724,7 +2724,7 @@ export const cards = {
     "Tiny_Space": {
       "name": "Tiny Space",
       "image": "./img/Tiny Space.png",
-      "url": "https://ulia.dev/tts/fdeck/dl/Tiny Space.png",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/40063924300371755/2E6555F81AE740E38F8DB5111678B4D747C4ED2D/",
       "gmnote": "\tSpell, Battery=1,"
     },
     "Too_Close": {
