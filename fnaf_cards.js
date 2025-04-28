@@ -41,6 +41,13 @@ export const cards = {
       "gmnote": "\tUnit, Battery=3,",
       "description": "",
     },
+    "Golden_Illusion": {
+      "name": "Golden Illusion",
+      "image": "./img/Golden_Illusion.png",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/40077782735219707/DDD573D53F3A0FE4808CA3B480F4A4B45A1B1643/",
+      "gmnote": "\tUnit, Battery=4,",
+      "description": "",
+    },
     "20_Mode_Golden_Freddy": {
       "name": "20 Mode Golden Freddy",
       "image": "./img/20 Mode Golden Freddy.png",
@@ -556,6 +563,13 @@ export const cards = {
       "name": "Afton",
       "image": "./img/Afton.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Afton.png",
+      "gmnote": "\tUnit, Battery=6,",
+      "description": "",
+    },
+    "Failed_Guardian": {
+      "name": "Failed Guardian",
+      "image": "./img/Failed Guardian.png",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/40077782735211737/4EE6F26EE61910F6F906052289F1B77451337BAF/",
       "gmnote": "\tUnit, Battery=6,",
       "description": "",
     },
@@ -2210,6 +2224,12 @@ export const cards = {
       "url": "https://ulia.dev/tts/fdeck/dl/Hatreds Lash.png",
       "gmnote": "\tSpell, Battery=5,"
     },
+    "Haunting_Ritual": {
+      "name": "Haunting Ritual",
+      "image": "./img/Haunting Ritual.png",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/40077782735205197/C4DEF861CD31B0C8AF12D610F25692149E59DA76/",
+      "gmnote": "\tSpell, Battery=4,"
+    },
     "Heating_Up": {
       "name": "Heating Up",
       "image": "./img/Heating Up.png",
@@ -2378,6 +2398,12 @@ export const cards = {
       "url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357699523567/C81491A83E725466DCC9E25B7B0BE8E59CB048CB/",
       "gmnote": "Spell, Battery=5,"
     },
+    "Metallic_Reformation": {
+      "name": "Metallic Reformation",
+      "image": "./img/Metallic Reformation.png",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/40077782735197246/E07C6C0ED4D287A1015BCD8C91A0B077622A61A2/",
+      "gmnote": "Spell, Battery=3,"
+    },
     "Mimic_You": {
       "name": "Mimic You",
       "image": "./img/Mimic You.png",
@@ -2527,6 +2553,12 @@ export const cards = {
       "image": "./img/Return to Nature.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Return to Nature.png",
       "gmnote": "Spell, Battery=4,"
+    },    
+    "Reused_Parts": {
+      "name": "Reused Parts",
+      "image": "./img/Reused Parts.png",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/40077782735191055/EA2A629357F5DD4D6688599978BFCB535C749709/",
+      "gmnote": "Spell, Battery=7,"
     },
     "Revenge": {
       "name": "Revenge",
