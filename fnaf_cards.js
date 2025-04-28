@@ -69,6 +69,13 @@ export const cards = {
       "gmnote": "\tUnit, Battery=5,",
       "description": "",
     },
+    "Bond_Deadly_Duo": {
+      "name": "Bond Deadly Duo",
+      "image": "./img/Bond Deadly Duo.png",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/40077782735237003/953719B201FD62704A7FDF66BDA89903DBB6A866/",
+      "gmnote": "\tUnit, Battery=5,",
+      "description": "",
+    },
     "Broken_Mangle": {
       "name": "Broken Mangle",
       "image": "./img/Broken Mangle.png",
@@ -1220,7 +1227,7 @@ export const cards = {
     "Remnant_Bonnie": {
       "name": "Remnant Bonnie",
       "image": "./img/Remnant Bonnie.png",
-      "url": "https://steamusercontent-a.akamaihd.net/ugc/40063924290888692/C01128E5F47ACF4570694CF434E4FC237793F85B/",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/40077782735265717/628F11E0625EC6C3C5EF4EB72B6C8C0B656C50A7/",
       "gmnote": "\tUnit, Battery=6,",
       "description": "",
     },
@@ -1465,7 +1472,7 @@ export const cards = {
     "Clay_Dolls": {
       "name": "Clay Dolls",
       "image": "./img/Clay Dolls.png",
-      "url": "https://ulia.dev/tts/fdeck/dl/Clay Dolls.png",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/40077782735273516/88AFD768481743718BD3A06381ACE23974160E58/",
       "gmnote": "Unit, Battery=2,"
     },
     "Balloon_Baby": {
@@ -1618,6 +1625,12 @@ export const cards = {
       "url": "https://ulia.dev/tts/fdeck/dl/Bon.png",
       "gmnote": "Unit, Battery=7,"
     },
+    "Bond_Halloween_Slashers": {
+      "name": "Bond Halloween Slashers",
+      "image": "./img/Bond Halloween Slashers.png",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/40077782735235438/F2EE7EF10EAD33CA1CB3D5A9B9AC1D5811C207B6/",
+      "gmnote": "Unit, Battery=5,"
+    },
     "Boozoo": {
       "name": "Boozoo",
       "image": "./img/Boozoo.png",
@@ -1702,6 +1715,12 @@ export const cards = {
       "url": "https://ulia.dev/tts/fdeck/dl/6 AM.png",
       "gmnote": "\tSpell, Battery=6,"
     },
+    "Accident": {
+      "name": "Accident",
+      "image": "./img/Accident.png",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/40077782735245050/3E9F67703D663FB1D1D9F907A6CDA2A54757386B/",
+      "gmnote": "\tSpell, Battery=4,"
+    },
     "Advanced_Tinkering": {
       "name": "Advanced Tinkering",
       "image": "./img/Advanced Tinkering.png",
@@ -1713,6 +1732,12 @@ export const cards = {
       "image": "./img/Ahoy!.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Ahoy!.png",
       "gmnote": "\tSpell, Battery=4,"
+    },
+    "Alone_With_You": {
+      "name": "Alone With You",
+      "image": "./img/Alone With You.png",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/40077782735242027/C67D8B2FC5D616CDB72595E5138EB2FA178A9FA2/",
+      "gmnote": "\tSpell, Battery=5,"
     },
     "Ancient_Memories:_Dream": {
       "name": "Ancient Memories: Dream",
@@ -1834,6 +1859,12 @@ export const cards = {
       "url": "https://ulia.dev/tts/fdeck/dl/Boozoo's Ghosts.png",
       "gmnote": "\tSpell, Battery=4,"
     },
+    "Bonds_that_Bind": {
+      "name": "Bonds that Bind",
+      "image": "./img/Bonds that Bind.png",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/40077782735231477/50B5CB860ED9F2A78AE3C727D721A4D170C8274F/",
+      "gmnote": "\tSpell, Battery=3,"
+    },
     "Bonnie_Bash": {
       "name": "Bonnie Bash",
       "image": "./img/Bonnie Bash.png",
@@ -1881,6 +1912,12 @@ export const cards = {
       "image": "./img/Classic Branding.png",
       "url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357700530302/FC94C66EADB8EEFB6E911EAA3F5D9C38445AAE6E/",
       "gmnote": "\tSpell, Battery=3,"
+    },
+    "Chained_Away": {
+      "name": "Chained Away",
+      "image": "./img/Chained Away.png",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/40077782735255544/E16E62B780E6323D233D461AF5DF0F31857EA0C7/",
+      "gmnote": "\tSpell, Battery=5,"
     },
     "Children_of_Nature": {
       "name": "Children of Nature",
@@ -2079,12 +2116,6 @@ export const cards = {
       "image": "./img/Final Peace.png",
       "url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357700234093/3BB140480BD43F9B9464CDE201DB49D747060107/",
       "gmnote": "\tSpell, Battery=8,"
-    },
-    "Flames_of_Life": {
-      "name": "Flames of Life",
-      "image": "./img/Flames of Life.png",
-      "url": "https://ulia.dev/tts/fdeck/dl/Flames of Life.png",
-      "gmnote": "\tSpell, Battery=3,"
     },
     "Fog_of_Loss": {
       "name": "Fog of Loss",
@@ -2488,6 +2519,12 @@ export const cards = {
       "url": "https://ulia.dev/tts/fdeck/dl/Prey.png",
       "gmnote": "\tSpell, Battery=4,"
     },
+    "Prophet_Scholar_Artist": {
+      "name": "Prophet, Scholar, Artist",
+      "image": "./img/PSA.png",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/40077782735252291/47386A92474898C9F0B1D6A99298BD8FDFA1691C/",
+      "gmnote": "\tSpell, Battery=5,"
+    },
     "Purify": {
       "name": "Purify",
       "image": "./img/Purify.png",
@@ -2505,6 +2542,12 @@ export const cards = {
       "image": "./img/Regrets of the Damned.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Regrets of the Damned.png",
       "gmnote": "Spell, Battery=4,"
+    },
+    "Regrets_of_Flame": {
+      "name": "Regrets of Flame",
+      "image": "./img/Regrets of Flame.png",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/40077782735269217/5F328867705B9AECB8A90106D146E6111F8B60E3/",
+      "gmnote": "Spell, Battery=3,"
     },
     "Regrets_of_the_Heartless": {
       "name": "Regrets of the Heartless",
@@ -2545,8 +2588,8 @@ export const cards = {
     "Reserved_Theatre": {
       "name": "Reserved Theatre",
       "image": "./img/Reserved Theatre.png",
-      "url": "https://ulia.dev/tts/fdeck/dl/Reserved Theatre.png",
-      "gmnote": "Spell, Battery=4,"
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/40077782735258879/1273D6A8F54A09A31BA7800A17E472884C674974/",
+      "gmnote": "Spell, Battery=3,"
     },
     "Return_to_Nature": {
       "name": "Return to Nature",
@@ -2607,6 +2650,12 @@ export const cards = {
       "image": "./img/Scream.png",
       "url": "https://ulia.dev/tts/fdeck/dl/Scream.png",
       "gmnote": "Spell, Battery=6,"
+    },
+    "Security_Protocol_Alpha": {
+      "name": "Security Protocol Alpha",
+      "image": "./img/Security Protocol Alpha.png",
+      "url": "https://steamusercontent-a.akamaihd.net/ugc/40077782735247375/D66B15ABB828213A75D4FC72642340DBAE6A1411/",
+      "gmnote": "Spell, Battery=4,"
     },
     "Sharinng_is_Caring": {
       "name": "Sharing is Caring",
