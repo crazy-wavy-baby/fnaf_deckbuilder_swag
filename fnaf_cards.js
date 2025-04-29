@@ -534,14 +534,14 @@ export const cards = {
 	"Maskless_Ennard": {
   	"name": "Maskless Ennard",
   	"image": "./img/Maskless Ennard.png",
-  	"url": https://steamusercontent-a.akamaihd.net/ugc/40078417473779295/43FD601BA29318F0F5683BE07111756053112C53/",
+  	"url": “https://steamusercontent-a.akamaihd.net/ugc/40078417473779295/43FD601BA29318F0F5683BE07111756053112C53/",
   	"gmnote": "\tUnit, Battery=7,",
   	"description": "",
 	},
 	"Minireenas": {
   	"name": "Minireenas",
   	"image": "./img/Minireenas.png",
-  	"url": https://steamusercontent-a.akamaihd.net/ugc/40078417473780178/6647489CC5E9E8FFA8509C8FC5E9F305750C3E85/",
+  	"url": “https://steamusercontent-a.akamaihd.net/ugc/40078417473780178/6647489CC5E9E8FFA8509C8FC5E9F305750C3E85/",
   	"gmnote": "\tUnit, Battery=1,",
   	"description": "",
 	},
