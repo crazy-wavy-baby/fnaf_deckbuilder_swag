@@ -44,7 +44,7 @@ export const cards = {
 	"Golden_Illusion": {
   	"name": "Golden Illusion",
   	"image": "./img/Golden_Illusion.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40077782735219707/DDD573D53F3A0FE4808CA3B480F4A4B45A1B1643/",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/15388458355641737168/63DB9D3DA181F995CBBDA7A3EF08D0AA0C04C260/",
   	"gmnote": "\tUnit, Battery=4,",
   	"description": "",
 	},
@@ -443,7 +443,7 @@ export const cards = {
 	"Bidybab": {
   	"name": "Bidybab",
   	"image": "./img/Bidybab.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Bidybab.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40078417473851758/A933732643789BF5C3C0996500445A3D79EE1AC3/",
   	"gmnote": "Unit, Battery=2,",
   	"description": "",
 	},
@@ -1562,7 +1562,7 @@ export const cards = {
 	"Withered_Jr_Puppet": {
   	"name": "Withered Jr Puppet",
   	"image": "./img/Withered Jr Puppet.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40078417473914170/3CBF8E04A65BD81065E3B79",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40078417473914170/3CBF8E04A65BD81065E3B79EDA1974CEEF1496AE/",
   	"gmnote": "\tUnit, Battery=8,"
 	},
 	"Big_Bruce": {
