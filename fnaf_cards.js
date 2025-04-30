@@ -1881,7 +1881,7 @@ export const cards = {
   	"name": "Burning Hatred",
   	"image": "./img/Burning Hatred.png",
   	"url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357700524664/0BDF42771F980BF773CD6ACB4C74F0A1C1D244A2/",
-  	"gmnote": "\tSpell, Battery=5,"
+  	"gmnote": "\tSpell, Battery=3,"
 	},
 	"Candy_Candy_Candy": {
   	"name": "Candy Candy Candy",
@@ -2373,7 +2373,7 @@ export const cards = {
   	"name": "Knew Too Much",
   	"image": "./img/Know Too Much.png",
   	"url": "https://steamusercontent-a.akamaihd.net/ugc/40077782735297618/2792FE1E8D12A829453A12E037B3D289413FA2BB/",
-  	"gmnote": "\tSpell, Battery=5,"
+  	"gmnote": "\tSpell, Battery=2,"
 	},
 	"Lets_Make_Music_Together": {
   	"name": "Lets Make Music Together",
