@@ -1622,7 +1622,7 @@ export const cards = {
 	"Bon": {
   	"name": "Bon",
   	"image": "./img/Bon.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40078417473826760/599E5E8DB23CC516CCC8894C4BE83EB98DDEAA62/",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/10476647541431731739/0DEC66FE88D19F9071758CDA06D63D0093E4B96A/",
   	"gmnote": "Unit, Battery=7,"
 	},
 	"Bond_Halloween_Slashers": {
