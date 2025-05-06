@@ -632,7 +632,7 @@ export const cards = {
 	"Nedd_Bear": {
   	"name": "Nedd Bear",
   	"image": "./img/Nedd Bear.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40078417473784806/ED02B59D4E41606544BE4D5F1127AF50C95812E0/*",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40078417473784806/ED02B59D4E41606544BE4D5F1127AF50C95812E0/",
   	"gmnote": "\tUnit, Battery=3,",
   	"description": "",
 	},
@@ -1981,7 +1981,7 @@ export const cards = {
 	},
 	"Diabolical_Fizzy_Faz": {
   	"name": "Diabolical Fizzy Faz",
-  	"image": "./img/Diabolical Fizzy Faz.png",
+  	"image": "./img/Diabolical Fizzy Fazz.png",
   	"url": "https://steamusercontent-a.akamaihd.net/ugc/40078417473909343/92E3CF29A9CDE65F0BB6335C71BFE7BE9A3B0BB8/",
   	"gmnote": "\tSpell, Battery=4,"
 	},
