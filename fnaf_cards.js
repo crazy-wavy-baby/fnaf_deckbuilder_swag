@@ -450,7 +450,7 @@ export const cards = {
 	"Bon_Bon": {
   	"name": "Bon Bon",
   	"image": "./img/Bon Bon.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40078417473851758/A933732643789BF5C3C0996500445A3D79EE1AC3/",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/2068887266303152729/C30B32BA194EBCB1D7CA7ABBE1CA9263D3DEFD3D/",
   	"gmnote": "Unit, Battery=4,",
   	"description": "",
 	},
@@ -1376,7 +1376,7 @@ export const cards = {
 	"Twisted_Bonnie": {
   	"name": "Twisted Bonnie",
   	"image": "./img/Twisted Bonnie.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40078417473672206/576F184469D0D6CD40FE4D091FAA0D80B92CC8BE/",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/15541763820297733034/122EA3B1222CD43C56A3C82D871728670798D416/",
   	"gmnote": "Unit, Battery=5,"
 	},
 	"Twisted_Chica": {
@@ -2289,7 +2289,7 @@ export const cards = {
   	"name": "Horror Stories",
   	"image": "./img/Horror Stories.png",
   	"url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357709038450/5E7C2036E79FF7B9A6BC26DE121B55E9278953AB/",
-  	"gmnote": "Spell, Battery=5,"
+  	"gmnote": "Spell, Battery=4,"
 	},
 	"Ignited_Brethren": {
   	"name": "Ignited Brethren",
