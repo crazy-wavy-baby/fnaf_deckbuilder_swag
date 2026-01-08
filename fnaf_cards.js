@@ -323,22 +323,22 @@ export const cards = {
 	},
 	"Nightmare_Bonnie": {
   	"name": "Nightmare Bonnie",
-  	"image": "./img/Nightmare Bonnie.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Nightmare Bonnie.png",
+  	"image": "./img/Nightmare_Bonnie.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/9238396821795736668/D420D7A3CA8FEA675C5B881D9416B1F748A168A7/",
   	"gmnote": "\tUnit, Battery=6,",
   	"description": "",
 	},
 	"Nightmare_Chica": {
   	"name": "Nightmare Chica",
-  	"image": "./img/Nightmare Chica.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Nightmare Chica.png",
+  	"image": "./img/Nightmare_Chica.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/17075000269211464961/54B9F6EC749D0889AB83CFC3BDEB25B2B3772ED7/",
   	"gmnote": "\tUnit, Battery=6,",
   	"description": "",
 	},
 	"20_Mode_Nightmare_Chica": {
   	"name": "20 Mode Nightmare Chica",
-  	"image": "./img/20 Mode Nightmare Chica.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40078417473605894/1EED20E4B05CED9BDDCAF57E24D03E727AEF2549/",
+  	"image": "./img/20 Mode Nightmare_Chica.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/17075000269211464961/54B9F6EC749D0889AB83CFC3BDEB25B2B3772ED7/",
   	"gmnote": "\tUnit, Battery=5,",
   	"description": "",
 	},
@@ -2692,8 +2692,8 @@ export const cards = {
 	},
 	"Safety_in_Pills": {
   	"name": "Safety in Pills",
-  	"image": "./img/Safety in Pills.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Safety in Pills.png",
+  	"image": "./img/Safety_in_Pills.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/12251222361865989293/CCEA6E45E502AD15F62784942B91380A7152915F/",
   	"gmnote": "\tSpell, Battery=2,"
 	},
 	"Salvage_Parts": {
@@ -2824,8 +2824,8 @@ export const cards = {
 	},
 	"Take_a_Break": {
   	"name": "Take a Break",
-  	"image": "./img/Take a Break.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40063924290801896/3A614DC8FE1DA6D55ABD65DCA3FA69AA71A82323/",
+  	"image": "./img/Take_a_Break.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/10832581697942903414/92DE0A96E702CB4DB0D2E0525A356BE091B1069A/",
   	"gmnote": "\tSpell, Battery=2,"
 	},
 	"Tears_of_Life": {
