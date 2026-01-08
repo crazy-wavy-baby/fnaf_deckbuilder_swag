@@ -338,7 +338,7 @@ export const cards = {
 	"20_Mode_Nightmare_Chica": {
   	"name": "20 Mode Nightmare Chica",
   	"image": "./img/20 Mode Nightmare_Chica.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/17075000269211464961/54B9F6EC749D0889AB83CFC3BDEB25B2B3772ED7/",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/9240868489267471925/1EED20E4B05CED9BDDCAF57E24D03E727AEF2549/",
   	"gmnote": "\tUnit, Battery=5,",
   	"description": "",
 	},
@@ -1975,6 +1975,12 @@ export const cards = {
   	"image": "./img/Chaos Flame.png",
   	"url": "https://steamusercontent-a.akamaihd.net/ugc/40063924290752921/EACE1A63DAF1CA1011FCC352BD970A538355C95B/",
   	"gmnote": "Spell, Battery=3,"
+	},
+	"Chaos_Realm": {
+  	"name": "Chaos Realm",
+  	"image": "./img/Chaos_Realm.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/17290564253081460569/81726209E56FC0C6D37C2DBFBF068D0AB3933182/",
+  	"gmnote": "Spell, Battery=5,"
 	},
 	"Classic_Branding": {
   	"name": "Classic Branding",
