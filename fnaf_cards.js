@@ -1,11 +1,4 @@
 export const cards = {
-	"Sharpay": {
-  	"name": "Sharpay",
-  	"image": "./img/Sharpay.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/12015014882662104358/F4EC9CB8478BA051CC79D8F7723F61A85F18630E/",
-  	"gmnote": "Unit, Battery=3,",
-  	"description": "",
-	},
 	"Bonnie": {
   	"name": "Bonnie",
   	"image": "./img/Bonnie.png",
@@ -1338,11 +1331,74 @@ export const cards = {
   	"url": "https://steamusercontent-a.akamaihd.net/ugc/40077782735304883/D8772A6549AF4F040166904516AA61A1A8571C62/",
   	"gmnote": "\tUnit, Battery=9,"
 	},
+	"Big_Top": {
+  	"name": "Big Top",
+  	"image": "./img/Jest.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/9852288038066769481/3308C8F98FF566C356817C5CE66A89979C4BA005/",
+  	"gmnote": "\tUnit, Battery=8,"
+	},
+	"Jackie": {
+  	"name": "Jackie",
+  	"image": "./img/Jest.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/15663566438177422922/DE9D2CF0FC1AFFC45C7F330767A0D798DCB86F91/",
+  	"gmnote": "\tUnit, Battery=6,"
+	},
 	"Jest": {
   	"name": "Jest",
   	"image": "./img/Jest.png",
   	"url": "https://steamusercontent-a.akamaihd.net/ugc/16555551015205291991/B6F6C5D826E6FDE679F8517CD1C7F94AD1BC0124/",
   	"gmnote": "\tUnit, Battery=4,"
+	},
+	"M2": {
+  	"name": "M2",
+  	"image": "./img/Jest.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/9886157057533810896/C3DCE748C342932900B8C5D5428075E7804C2AAA/",
+  	"gmnote": "\tUnit, Battery=7,"
+	},
+	"M2RND": {
+  	"name": "M2RND",
+  	"image": "./img/Jest.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/15358031714463653230/582033F8DEC1F8CE11294ECAE2499179A9B40190/",
+  	"gmnote": "\tUnit, Battery=8,"
+	},
+	"Molten_Dollie": {
+  	"name": "Molten Dollie",
+  	"image": "./img/Jest.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/17582370665499121104/083B66BC46F56A3407885488F922DB87966691B1/",
+  	"gmnote": "\tUnit, Battery=6,"
+	},
+	"Mycellium_Men": {
+  	"name": "Mycellium_Men",
+  	"image": "./img/Jest.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/11698664472558041166/F7E7FEDA27772FC9B22A4B7F2BAA06AC0F2A526E/",
+  	"gmnote": "\tUnit, Battery=3,"
+	},
+	"Nurse_Dollie": {
+  	"name": "Nurse Dollie",
+  	"image": "./img/Jest.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/15149813097597383822/46FC3024B4D74E4D219139C1E2A4936F20DAF834/",
+  	"gmnote": "\tUnit, Battery=5,"
+	},
+	"Sharpay": {
+  	"name": "Sharpay",
+  	"image": "./img/Sharpay.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/12015014882662104358/F4EC9CB8478BA051CC79D8F7723F61A85F18630E/",
+  	"gmnote": "Unit, Battery=3,",
+  	"description": "",
+	},
+	"Swing_Bee": {
+  	"name": "Swing Bee",
+  	"image": "./img/Sharpay.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/14107677156996506554/35AA00FC5E13706C3AF7CE8CDBF52233DF4EA8C3/",
+  	"gmnote": "Unit, Battery=3,",
+  	"description": "",
+	},
+	"White_Tiger": {
+  	"name": "White Tiger",
+  	"image": "./img/Sharpay.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/16929748645601881409/EB877E9F3A5C44D345F74BC434FCB6D3EFEB1BE6/",
+  	"gmnote": "Unit, Battery=7,",
+  	"description": "",
 	},
 	"Blackbird": {
   	"name": "Blackbird",
