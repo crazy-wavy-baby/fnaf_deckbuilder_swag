@@ -1,7 +1,7 @@
 export const cards = {
 	"Sharpay": {
   	"name": "Sharpay",
-  	"image": "./img/Bonnie.png",
+  	"image": "./img/Sharpay.png",
   	"url": "https://steamusercontent-a.akamaihd.net/ugc/12015014882662104358/F4EC9CB8478BA051CC79D8F7723F61A85F18630E/",
   	"gmnote": "Unit, Battery=3,",
   	"description": "",
