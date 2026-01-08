@@ -1340,7 +1340,7 @@ export const cards = {
 	},
 	"Jest": {
   	"name": "Jest",
-  	"image": "./img/Pit Bonnie.png",
+  	"image": "./img/Jest.png",
   	"url": "https://steamusercontent-a.akamaihd.net/ugc/16555551015205291991/B6F6C5D826E6FDE679F8517CD1C7F94AD1BC0124/",
   	"gmnote": "\tUnit, Battery=4,"
 	},
