@@ -1338,6 +1338,12 @@ export const cards = {
   	"url": "https://steamusercontent-a.akamaihd.net/ugc/40077782735304883/D8772A6549AF4F040166904516AA61A1A8571C62/",
   	"gmnote": "\tUnit, Battery=9,"
 	},
+	"Jest": {
+  	"name": "Jest",
+  	"image": "./img/Pit Bonnie.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/16555551015205291991/B6F6C5D826E6FDE679F8517CD1C7F94AD1BC0124/",
+  	"gmnote": "\tUnit, Battery=4,"
+	},
 	"Blackbird": {
   	"name": "Blackbird",
   	"image": "./img/Blackbird.png",
