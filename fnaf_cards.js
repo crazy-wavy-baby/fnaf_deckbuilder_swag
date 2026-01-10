@@ -36,8 +36,8 @@ export const cards = {
 	},
 	"Golden_Freddy": {
   	"name": "Golden Freddy",
-  	"image": "./img/Golden Freddy.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Golden Freddy.png",
+  	"image": "./img/Golden_Freddy.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/12460087140857828345/7B2AD30CB633AE8191CF51DFA23A3144F6CA149C/",
   	"gmnote": "\tUnit, Battery=3,",
   	"description": "",
 	},
@@ -64,8 +64,8 @@ export const cards = {
 	},
 	"Balloon_Boy": {
   	"name": "Balloon Boy",
-  	"image": "./img/Balloon Boy.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Balloon Boy.png",
+  	"image": "./img/Balloon_Boy.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/16537183299866282687/EC89F4E55BCFA444BB755A131E07DAF15F912450/",
   	"gmnote": "\tUnit, Battery=5,",
   	"description": "",
 	},
@@ -408,7 +408,7 @@ export const cards = {
 	"Plushtrap": {
   	"name": "Plushtrap",
   	"image": "./img/Plushtrap.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Plushtrap.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/10752230432190828350/55545BE69C13A89187BF6764B90906181AA4EE54/",
   	"gmnote": "Unit, Battery=1,",
   	"description": "",
 	},
@@ -743,8 +743,8 @@ export const cards = {
 	},
 	"Lost_Princess": {
   	"name": "Lost Princess",
-  	"image": "./img/Lost Princess.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Lost Princess.png",
+  	"image": "./img/Lost_Princess.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/10752230432190828350/55545BE69C13A89187BF6764B90906181AA4EE54/",
   	"gmnote": "Unit, Battery=2,",
   	"description": "",
 	},
@@ -771,8 +771,8 @@ export const cards = {
 	},
 	"Head_Chef": {
   	"name": "Head Chef",
-  	"image": "./img/Head Chef.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40078417473639274/F4F5E81177B383D7E64BE3CD3C3EC966F4D4EAAF/",
+  	"image": "./img/Head_Chef.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/15511929358671539468/3CDD38BBBEBEB4893991E6EB66B8E151B629983D/",
   	"gmnote": "\tUnit, Battery=4,",
   	"description": "",
 	},
@@ -1058,8 +1058,8 @@ export const cards = {
 	},
 	"Boiler_Baby": {
   	"name": "Boiler Baby",
-  	"image": "./img/Boiler Baby.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357700465519/192671E69BFE2C9FB5ED1DF48B7D383ECB18E67C/",
+  	"image": "./img/Boiler_Baby.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/15655517391521606786/BD243F30CD83BCCDEF753D54EA7F18C5C0AAAC1A/",
   	"gmnote": "\tUnit, Battery=6,",
   	"description": "",
 	},
@@ -1107,9 +1107,9 @@ export const cards = {
 	},
 	"Flamethrower_Endo": {
   	"name": "Flamethrower Endo",
-  	"image": "./img/Flamethrower Endo.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40078417473873458/D3E6807233362F44D12BDC2EBD4EF45FCDD62C39/",
-  	"gmnote": "\tUnit, Battery=4,",
+  	"image": "./img/Flamethrower_Endo.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/12141361991550033280/C52D5D4B995C287F0CB0526681701D06820772CB/",
+  	"gmnote": "\tUnit, Battery=3,",
   	"description": "",
 	},
 	"Flaming_Springtrap": {
@@ -1522,8 +1522,8 @@ export const cards = {
 	},
 	"Ignited_Springtrap": {
   	"name": "Ignited Springtrap",
-  	"image": "./img/Ignited Springtrap.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Ignited Springtrap.png",
+  	"image": "./img/Ignited_Springtrap.png",
+  	"url": "hhttps://steamusercontent-a.akamaihd.net/ugc/14649276194597080520/B2A1E722D0D9FB1D75446FBB107050790FE642F8/",
   	"gmnote": "\tUnit, Battery=9,"
 	},
 	"Mouth": {
@@ -1930,8 +1930,8 @@ export const cards = {
 	},
 	"Bonds_that_Bind": {
   	"name": "Bonds that Bind",
-  	"image": "./img/Bonds that Bind.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40077782735231477/50B5CB860ED9F2A78AE3C727D721A4D170C8274F/",
+  	"image": "./img/Bonds_that_Bind.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/10760658695836980231/C3231A2524057682C53E80B1D944D3C6E0CA1529/",
   	"gmnote": "\tSpell, Battery=3,"
 	},
 	"Bonnie_Bash": {
@@ -2176,9 +2176,9 @@ export const cards = {
 	},
 	"Fearful_Reflection": {
   	"name": "Fearful Reflection",
-  	"image": "./img/Fearful Reflection.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Fearful Reflection.png",
-  	"gmnote": "Spell, Battery=6,"
+  	"image": "./img/Fearful_Reflection.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/18130050369730811331/DF647337DC8E4052E3A94D728D1511991E9200DD/",
+  	"gmnote": "Spell, Battery=7,"
 	},
 	"Fierce_Defender": {
   	"name": "Fierce Defender",
@@ -2584,15 +2584,15 @@ export const cards = {
 	},
 	"Pink_Slip": {
   	"name": "Pink Slip",
-  	"image": "./img/Pink Slip.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40078417473789854/CCAD193037DB1A8AA9FE78F234C2D037B07E195B/",
+  	"image": "./img/Pink_Slip.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/12672615894502626678/3274E7BBB4806A508CF067377208D0497591F5A6/",
   	"gmnote": "\tSpell, Battery=2,"
 	},
 	"Prey": {
   	"name": "Prey",
   	"image": "./img/Prey.png",
   	"url": "https://steamusercontent-a.akamaihd.net/ugc/40078417473795081/9D574CB03358E35F96291088C58F4A7BCBAAF3FE/",
-  	"gmnote": "\tSpell, Battery=4,"
+  	"gmnote": "\tSpell, Battery=3,"
 	},
 	"Prophet_Scholar_Artist": {
   	"name": "Prophet, Scholar, Artist",
@@ -2674,8 +2674,8 @@ export const cards = {
 	},    
 	"Reused_Parts": {
   	"name": "Reused Parts",
-  	"image": "./img/Reused Parts.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40077782735191055/EA2A629357F5DD4D6688599978BFCB535C749709/",
+  	"image": "./img/Reused_Parts.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/12195057317216625640/B36AD718CB8F5597C36EC2D86BB59E067A2414F9/",
   	"gmnote": "Spell, Battery=7,"
 	},
 	"Revenge": {
@@ -2723,8 +2723,8 @@ export const cards = {
 	"Scream": {
   	"name": "Scream",
   	"image": "./img/Scream.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Scream.png",
-  	"gmnote": "Spell, Battery=6,"
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/11748731929401705219/DDD7138C9889C5D2B4D6248EB92583A568E73D8A/",
+  	"gmnote": "Spell, Battery=5,"
 	},
 	"Security_Protocol_Alpha": {
   	"name": "Security Protocol Alpha",
@@ -2807,7 +2807,7 @@ export const cards = {
 	"Strangulation": {
   	"name": "Strangulation",
   	"image": "./img/Strangulation.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Strangulation.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/14707216435737180546/76AEEAFD9DD07E9B33A26B431FF5CFAC281EFAFF/",
   	"gmnote": "\tSpell, Battery=3,"
 	},
 	"Straight_for_the_Head": {
