@@ -337,7 +337,7 @@ export const cards = {
 	},
 	"20_Mode_Nightmare_Chica": {
   	"name": "20 Mode Nightmare Chica",
-  	"image": "./img/20 Mode Nightmare_Chica.png",
+  	"image": "./img/20 Mode Nightmare Chica.png",
   	"url": "https://steamusercontent-a.akamaihd.net/ugc/9240868489267471925/1EED20E4B05CED9BDDCAF57E24D03E727AEF2549/",
   	"gmnote": "\tUnit, Battery=5,",
   	"description": "",
