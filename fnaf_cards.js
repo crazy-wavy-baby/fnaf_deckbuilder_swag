@@ -2626,9 +2626,9 @@ export const cards = {
   	"url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357695743628/90A17B747A5869BB2A3D5F4E6736CFF5F6944A93/",
   	"gmnote": "Spell, Battery=3,"
 	},
-	"Regrets_of_the_Dammned": {
-  	"name": "Regrets of the Dammned",
-  	"image": "./img/Regrets_of_the_Dammned.png",
+	"Regrets_of_the_Damned": {
+  	"name": "Regrets of the Damned",
+  	"image": "./img/Regrets_of_the_Damned.png",
   	"url": "https://steamusercontent-a.akamaihd.net/ugc/11144037528725648201/39AEF0A57CBA0B91389AAB442563AD7AF014E0E3/",
   	"gmnote": "Spell, Battery=3,"
 	},
