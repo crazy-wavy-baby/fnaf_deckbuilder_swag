@@ -106,8 +106,8 @@ export const cards = {
 	},
 	"Music_Box": {
   	"name": "Music Box",
-  	"image": "./img/Music Box.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Music Box.png",
+  	"image": "./img/Music_Box.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/11889303896324650511/F825BFFFA60D08A95C3490602CF79FBF863BEB88/",
   	"gmnote": "Unit, Battery=3,",
   	"description": "",
 	},
@@ -144,6 +144,13 @@ export const cards = {
   	"image": "./img/Toy Chica.png",
   	"url": "https://ulia.dev/tts/fdeck/dl/Toy Chica.png",
   	"gmnote": "\tUnit, Battery=3,",
+  	"description": "",
+	},
+	"Toy_Cupcake": {
+  	"name": "Toy Cupcake",
+  	"image": "./img/Toy_Cupcake.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/13087036169313610940/DDF4BD9F1CC5A63242DFDFC618EB8F173AEA8423/",
+  	"gmnote": "\tUnit, Battery=2,",
   	"description": "",
 	},
 	"Toy_Freddy": {
