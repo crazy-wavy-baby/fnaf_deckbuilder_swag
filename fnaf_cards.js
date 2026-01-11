@@ -267,15 +267,15 @@ export const cards = {
 	},
 	"RWQFSFASXC": {
   	"name": "RWQFSFASXC",
-  	"image": "./img/RWQFSFASXC.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40063924294381776/98969DC545E208941B8D0EAB0B17AE0DE3A51547/",
+  	"image": "./img/RWQ.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/18260141829216603806/4FCD7A576A1885EF33CEA39E3A29239619DC1722/",
   	"gmnote": "\tUnit, Battery=5,",
   	"description": "",
 	},
 	"Shadow_Freddy": {
   	"name": "Shadow Freddy",
-  	"image": "./img/Shadow Freddy.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40063924294384124/AD78B4CEEAECB47B737AA1F840B188DE024A7003/",
+  	"image": "./img/Shadow_Freddy.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/11387502466935929602/22E6D77A6ED0CB6CF0933264D806376F736453E8/",
   	"gmnote": "\tUnit, Battery=6,",
   	"description": "",
 	},
@@ -284,6 +284,13 @@ export const cards = {
   	"image": "./img/Spring Bonnie.png",
   	"url": "https://steamusercontent-a.akamaihd.net/ugc/40063924293176785/3AC3A01F6F158370D445A44DAF89FBFF790249F9/",
   	"gmnote": "\tUnit, Battery=9,",
+  	"description": "",
+	},
+	"20_Mode_Spring_Bonnie": {
+  	"name": "20 Mode Spring Bonnie",
+  	"image": "./img/20_Mode_Spring_Bonnie.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/9809209882050841720/4276447F1CC7173BBA4599262C4AFCBE3D151662/",
+  	"gmnote": "\tUnit, Battery=5,",
   	"description": "",
 	},
 	"Springtrap": {
