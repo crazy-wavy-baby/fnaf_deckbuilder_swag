@@ -2628,8 +2628,8 @@ export const cards = {
 	},
 	"Regrets_of_the_Dammned": {
   	"name": "Regrets of the Dammned",
-  	"image": "./img/Regrets of the Damned.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Regrets of the Damned.png",
+  	"image": "./img/Regrets_of_the_Damned.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/11144037528725648201/39AEF0A57CBA0B91389AAB442563AD7AF014E0E3/",
   	"gmnote": "Spell, Battery=4,"
 	},
 	"Regrets_of_Flame": {
@@ -2652,8 +2652,8 @@ export const cards = {
 	},
 	"Regrets_of_the_Guilty": {
   	"name": "Regrets of the Guilty",
-  	"image": "./img/Regrets of the Guilty.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Regrets of the Guilty.png",
+  	"image": "./img/Regrets_of_the_Guilty.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/16026539299271517866/0A00565D60CC6135145F24D623FDA9EE2223F2F1/",
   	"gmnote": "\tSpell, Battery=3,"
 	},
 	"Regrets_of_the_Torn": {
@@ -2664,9 +2664,9 @@ export const cards = {
 	},
 	"Relocate_Project": {
   	"name": "Relocate Project",
-  	"image": "./img/Relocate Project.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40063924290818812/2D2CE9994E0B011D6031E7908716EAC1DE8E6D63/",
-  	"gmnote": "\tSpell, Battery=5,"
+  	"image": "./img/Relocate_Project.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/12267541229317005701/B48AD125D0EC30B3D35A8906B5E35189786A9FB9/",
+  	"gmnote": "\tSpell, Battery=6,"
 	},
 	"Repair": {
   	"name": "Repair",
@@ -2760,9 +2760,9 @@ export const cards = {
 	},
 	"Shadowy_Release": {
   	"name": "Shadowy Release",
-  	"image": "./img/Shadowy Release.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Shadowy Release.png",
-  	"gmnote": "\tSpell, Battery=5,"
+  	"image": "./img/Shadowy_Release.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/15069721738688944085/4719A31BFDC2A04D24DD1366E02738E6198D8AE2/",
+  	"gmnote": "\tSpell, Battery=4,"
 	},
 	"Sinful_Bargain": {
   	"name": "Sinful Bargain",
