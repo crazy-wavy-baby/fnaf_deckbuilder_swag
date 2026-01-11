@@ -2630,7 +2630,7 @@ export const cards = {
   	"name": "Regrets of the Dammned",
   	"image": "./img/Regrets_of_the_Dammned.png",
   	"url": "https://steamusercontent-a.akamaihd.net/ugc/11144037528725648201/39AEF0A57CBA0B91389AAB442563AD7AF014E0E3/",
-  	"gmnote": "Spell, Battery=4,"
+  	"gmnote": "Spell, Battery=3,"
 	},
 	"Regrets_of_Flame": {
   	"name": "Regrets of Flame",
