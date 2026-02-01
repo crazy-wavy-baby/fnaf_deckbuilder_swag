@@ -2460,8 +2460,8 @@ export const cards = {
 	},
 	"Knew_Too_Much": {
   	"name": "Knew Too Much",
-  	"image": "./img/Know Too Much.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40077782735297618/2792FE1E8D12A829453A12E037B3D289413FA2BB/",
+  	"image": "./img/Knew_Too_Much.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/11174782949436816997/2792FE1E8D12A829453A12E037B3D289413FA2BB/",
   	"gmnote": "\tSpell, Battery=2,"
 	},
 	"Lets_Make_Music_Together": {
@@ -2472,8 +2472,8 @@ export const cards = {
 	},
 	"Longing_for_You": {
   	"name": "Longing for You",
-  	"image": "./img/Longing for You.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40063924290757845/5B544DCDB229014643337B4FE51A77DEC3E8EDE7/",
+  	"image": "./img/Longing_for_You.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/12466088386053750914/163FDB4D6AB18E1F26C69D2F244DCCEBFB170562/",
   	"gmnote": "\tSpell, Battery=6,"
 	},
 	"Mask_Up": {
@@ -2568,9 +2568,9 @@ export const cards = {
 	},
 	"Peaceful_Dreams": {
   	"name": "Peaceful Dreams",
-  	"image": "./img/Peaceful Dreams.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40063924290778808/E8F93C7DDEE331A6227C8143DEB0264B6C19424F/",
-  	"gmnote": "\tSpell, Battery=8,"
+  	"image": "./img/Peaceful_Dreams.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/17033007133538239476/09FD18AEB51C32C93923F97BB631370BB3F2E088/",
+  	"gmnote": "\tSpell, Battery=6,"
 	},
 	"Phantom_Crew": {
   	"name": "Phantom Crew",
