@@ -2028,9 +2028,9 @@ export const cards = {
 	},
 	"Corrupted_Dreams": {
   	"name": "Corrupted Dreams",
-  	"image": "./img/Corrupted Dreams.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40063924300356070/C482B2CC47303EFB89202ECD99EDE10C7A3129A0/",
-  	"gmnote": "\tSpell, Battery=8,"
+  	"image": "./img/Corrupted_Dreams.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/12256040499227797763/7FB5C5B4E159AA8A1C3675D97E57DEC1B3654F60/",
+  	"gmnote": "\tSpell, Battery=6,"
 	},
 	"Courage": {
   	"name": "Courage",
@@ -2052,8 +2052,8 @@ export const cards = {
 	},
 	"Deadly_Sewers": {
   	"name": "Deadly Sewers",
-  	"image": "./img/Deadly Sewers.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Deadly Sewers.png",
+  	"image": "./img/Deadly_Sewers.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/15679552726197569160/13F44E060BFD109E58164157059D63068C3F5DF1/",
   	"gmnote": "\tSpell, Battery=5,"
 	},
 	"Defenseless": {
@@ -2107,7 +2107,7 @@ export const cards = {
 	"Drowning": {
   	"name": "Drowning",
   	"image": "./img/Drowning.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Drowning.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/10013165773735989266/46DC9596C368242D4088E7414BF0BBD3A0C544AF/",
   	"gmnote": "\tSpell, Battery=5,"
 	},
 	"Embrace_the_Sin": {
@@ -2136,9 +2136,9 @@ export const cards = {
 	},
 	"Energy_Frenzy": {
   	"name": "Energy Frenzy",
-  	"image": "./img/Energy Frenzy.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Energy Frenzy.png",
-  	"gmnote": "\tSpell, Battery=2,"
+  	"image": "./img/Energy_Frenzy.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/18279157221164782879/4BA7C825506F14B92720B6603E5DD5BEA7EA16A1/",
+  	"gmnote": "\tSpell, Battery=3,"
 	},
 	"Embrace_Flame": {
   	"name": "Embrace Flame",
@@ -2170,10 +2170,16 @@ export const cards = {
   	"url": "https://steamusercontent-a.akamaihd.net/ugc/40078417473865870/1B37196692B22B42D216590A8671D8537FAE306A/",
   	"gmnote": "\tSpell, Battery=10,"
 	},
+	"False_Orders": {
+  	"name": "False Orders",
+  	"image": "./img/False_Orders.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/18280337832718701834/8FA8D88574F1D7D3D3A4053BC69EE5340F5F75A0/",
+  	"gmnote": "\tSpell, Battery=5,"
+	},
 	"Feasting_Ritual": {
   	"name": "Feasting Ritual",
-  	"image": "./img/Feasting Ritual.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357695779395/E7524F481D841F58275288790B99CC39FFCB8CCE/",
+  	"image": "./img/Feasting_Ritual.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/11431868892969928919/F9D7E28F21C4F08908A81A6A3F90B6646CA05CA0/",
   	"gmnote": "\tSpell, Battery=3,"
 	},
 	"Ferocious": {
@@ -2202,9 +2208,9 @@ export const cards = {
 	},
 	"Final_Peace": {
   	"name": "Final Peace",
-  	"image": "./img/Final Peace.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40078417473870951/3F19A581AE383006A8C60274EB870EDC75C442A8/",
-  	"gmnote": "\tSpell, Battery=8,"
+  	"image": "./img/Final_Peace.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/9616853831045116564/5F52DE19360BE6FF75AE68373C2CF3BB7A6BC76E/",
+  	"gmnote": "\tSpell, Battery=6,"
 	},
 	"Fog_of_Loss": {
   	"name": "Fog of Loss",
@@ -2226,8 +2232,8 @@ export const cards = {
 	},
 	"Forgotten_Whispers": {
   	"name": "Forgotten Whispers",
-  	"image": "./img/Forgotten Whispers.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Forgotten Whispers.png",
+  	"image": "./img/Forgotten_Whispers.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/16277374161256352298/398DCF0BEAB67775FC74577173CE07371B0EBF18/",
   	"gmnote": "\tSpell, Battery=5,"
 	},
 	"Freedom!": {
@@ -2238,8 +2244,8 @@ export const cards = {
 	},
 	"Frozen_Summon": {
   	"name": "Frozen Summon",
-  	"image": "./img/Frozen Summon.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Frozen Summon.png",
+  	"image": "./img/Frozen_Summon.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/11747149607514130738/CD4E88C3C7F70671883749678B3B7A07AC07F304/",
   	"gmnote": "\tSpell, Battery=2"
 	},
 	"Funtime_Crew": {
@@ -2256,14 +2262,14 @@ export const cards = {
 	},
 	"Ghastly_Crew": {
   	"name": "Ghastly Crew",
-  	"image": "./img/Ghastly Crew.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Ghastly Crew.png",
+  	"image": "./img/Ghastly_Crew.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/9271431894588118483/2846F9520E4FF24B437D8F544BF64A254B64B092/",
   	"gmnote": "\tSpell, Battery=4,"
 	},
 	"Girls_Night": {
   	"name": "Girls Night",
-  	"image": "./img/Girls Night.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357700242070/60A9D85565769C39FF3012955F82DAF3DACF4134/",
+  	"image": "./img/Girls_Night.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/17838516894379027749/9C5529E2D277B5615DE4FECF0DD7A2576E84340F/",
   	"gmnote": "\tSpell, Battery=3,"
 	},
 	"Give_Life": {
@@ -2341,7 +2347,7 @@ export const cards = {
 	"Hatreds_Lash": {
   	"name": "Hatreds Lash",
   	"image": "./img/Hatreds Lash.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Hatreds Lash.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/12118790779963869664/A269E1A54A3F251F952B0C756395BC514738F5E9/",
   	"gmnote": "\tSpell, Battery=5,"
 	},
 	"Haunting_Ritual": {
