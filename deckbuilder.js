@@ -140,7 +140,7 @@ function downloadDeck() {
             var newCard = {
                 Name: cards[cardName].name,
                 FaceURL: cards[cardName].url,
-                BackURL: "https://ulia.dev/tts/fdeck/dl/0001%20fnafcardback.jpg",
+                BackURL: "https://steamusercontent-a.akamaihd.net/ugc/1869572584862209170/9C965ABA37D0038D88E6360F4B240393CBD29F8E/",
                 GMNote: cards[cardName].gmnote,
                 Description: cards[cardName].description
             }
