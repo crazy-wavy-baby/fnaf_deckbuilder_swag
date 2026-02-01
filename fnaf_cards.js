@@ -2610,7 +2610,7 @@ export const cards = {
 	},
 	"Prophet_Scholar_Artist": {
   	"name": "Prophet, Scholar, Artist",
-  	"image": "./img/PSA.png",
+  	"image": "./img/Prophet_Scholar_Artist.png",
   	"url": "https://steamusercontent-a.akamaihd.net/ugc/16889265939825835872/DC07053E872797B99973CBE2396D78033E8A9610/",
   	"gmnote": "\tSpell, Battery=5,"
 	},
