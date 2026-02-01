@@ -2611,7 +2611,7 @@ export const cards = {
 	"Prophet_Scholar_Artist": {
   	"name": "Prophet, Scholar, Artist",
   	"image": "./img/PSA.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40077782735252291/47386A92474898C9F0B1D6A99298BD8FDFA1691C/",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/16889265939825835872/DC07053E872797B99973CBE2396D78033E8A9610/",
   	"gmnote": "\tSpell, Battery=5,"
 	},
 	"Purify": {
