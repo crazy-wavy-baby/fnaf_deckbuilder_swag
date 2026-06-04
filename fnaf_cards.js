@@ -2969,12 +2969,6 @@ export const cards = {
   	"url": "https://ulia.dev/tts/fdeck/dl/Stuffed.png",
   	"gmnote": "\tSpell, Battery=5,"
 	},
-	"Sugar_Coma": {
-  	"name": "Sugar Coma",
-  	"image": "./img/Sugar Coma.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357698576568/B99F2561317840609FF83B31410D7999DD01DEC0/",
-  	"gmnote": "Spell, Battery=4,"
-	},
 	"Take_a_Break": {
   	"name": "Take a Break",
   	"image": "./img/Take_a_Break.png",
