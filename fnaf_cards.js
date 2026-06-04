@@ -429,7 +429,7 @@ export const cards = {
 	"Plushtrap": {
   	"name": "Plushtrap",
   	"image": "./img/Plushtrap.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/10752230432190828350/55545BE69C13A89187BF6764B90906181AA4EE54/",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/13062077999084802127/96B19BB5625A764DE1328876B9FAE8F963F5EA9E/",
   	"gmnote": "Unit, Battery=1,",
   	"description": "",
 	},
