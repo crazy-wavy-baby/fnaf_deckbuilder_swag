@@ -100,7 +100,7 @@ export const cards = {
 	"Mangle": {
   	"name": "Mangle",
   	"image": "./img/Mangle.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Mangle.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/17251511149378655175/796678E8AA032B1E6A05188BDE7F5E0CD22DF49F/",
   	"gmnote": "\tUnit, Battery=6,",
   	"description": "",
 	},
@@ -211,8 +211,8 @@ export const cards = {
 	},
 	"Dark_Springtrap": {
   	"name": "Dark Springtrap",
-  	"image": "./img/Dark Springtrap.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Dark Springtrap.png",
+  	"image": "./img/Dark_Springtrap.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/12550259413179568699/5FC6F05EBCC359AD65F9E6D9E5774F9BB32BF0C8/",
   	"gmnote": "Unit, Battery=8,",
   	"description": "",
 	},
@@ -492,7 +492,7 @@ export const cards = {
 	"Electrobab": {
   	"name": "Electrobab",
   	"image": "./img/Electrobab.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40078417473840023/A6B5E6B6A5337ECA637810D6BCBF9A44062A45F8/",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/18328974383412307558/BE2E2603C7642002C65B1CF1873B15EDEFD2ED80/",
   	"gmnote": "\tUnit, Battery=5,",
   	"description": "",
 	},
@@ -526,8 +526,8 @@ export const cards = {
 	},
 	"Funtime_Freddy": {
   	"name": "Funtime Freddy",
-  	"image": "./img/Funtime Freddy.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Funtime Freddy.png",
+  	"image": "./img/Funtime_Freddy.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/15406208387360700504/0B27843EF289A24C7DF232692CDB07E6CCFC383B/",
   	"gmnote": "Unit, Battery=5,",
   	"description": "",
 	},
@@ -897,29 +897,29 @@ export const cards = {
 	},
 	"Glamrock_Freddy": {
   	"name": "Glamrock Freddy",
-  	"image": "./img/Glamrock Freddy.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Glamrock Freddy.png",
-  	"gmnote": "\tUnit, Battery=5,",
+  	"image": "./img/Glamrock_Freddy.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/13033711183186086700/039B299C3AC8D721DB76221BA2AAB32971802EED/",
+  	"gmnote": "\tUnit, Battery=3,",
   	"description": "",
 	},
 	"Glamrock_Freddy_2.0": {
   	"name": "Glamrock Freddy 2.0",
-  	"image": "./img/Glamrock Freddy 2.0.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Glamrock Freddy 2.0.png",
+  	"image": "./img/Glamrock_Freddy_2.0.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/18411008405876211760/923E195BC57975FD649B0CBF91DA7B5E3EC0C49C/",
   	"gmnote": "\tUnit, Battery=0,",
   	"description": "",
 	},
 	"Glamrock_Freddy_3.0": {
   	"name": "Glamrock Freddy 3.0",
-  	"image": "./img/Glamrock Freddy 3.0.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Glamrock Freddy 3.0.png",
+  	"image": "./img/Glamrock_Freddy_3.0.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/14732360896186386273/CD3ABCF7FCBCFDB0BF0F54CE9CC05E3FCADD9902/",
   	"gmnote": "\tUnit, Battery=0,",
   	"description": "",
 	},
 	"Glamrock_Freddy_MAX": {
   	"name": "Glamrock Freddy MAX",
-  	"image": "./img/Glamrock Freddy MAX.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Glamrock Freddy MAX.png",
+  	"image": "./img/Glamrock_Freddy_MAX.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/11578364134169692699/DC254A865CA045F878193F15569BF2E1E4A5AF18/",
   	"gmnote": "\tUnit, Battery=0,",
   	"description": "",
 	},
@@ -954,7 +954,7 @@ export const cards = {
 	"Moon": {
   	"name": "Moon",
   	"image": "./img/Moon.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Moon.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/14958557050060335042/B49C55809E9286D1EB43B40C7579FE31EC373AFF/",
   	"gmnote": "Unit, Battery=6,",
   	"description": "",
 	},
@@ -1373,7 +1373,7 @@ export const cards = {
 	"M2": {
   	"name": "M2",
   	"image": "./img/M2.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/9886157057533810896/C3DCE748C342932900B8C5D5428075E7804C2AAA/",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/18325141894331364019/D06C689EEC358B4BB630DA362EB4377C78F220C6/",
   	"gmnote": "\tUnit, Battery=7,"
 	},
 	"M2RND": {
@@ -2461,8 +2461,8 @@ export const cards = {
 	},
 	"Jack_O_Flame": {
   	"name": "Jack O Flame",
-  	"image": "./img/Jack O Flame.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40063924300358949/4F8FBEA7354F55CBCD87AFA732D3FBFB0FCB0E95/",
+  	"image": "./img/Jack_O_Flame.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/14026763909891462939/96CFCFBDF99704403692E0F3F75EAB27A3257961/",
   	"gmnote": "\tSpell, Battery=3,"
 	},
 	"Joy_of_Creation": {
@@ -2570,7 +2570,7 @@ export const cards = {
 	"OBEY": {
   	"name": "OBEY",
   	"image": "./img/Obey.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Obey.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/17766397195775773359/A7C61AF03665945E28596FB8752EBDD1EE3359E4/",
   	"gmnote": "\tSpell, Battery=4,"
 	},
 	"Peaceful_Burial": {
