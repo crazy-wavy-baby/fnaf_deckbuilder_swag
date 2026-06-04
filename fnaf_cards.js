@@ -97,6 +97,13 @@ export const cards = {
   	"gmnote": "\tUnit, Battery=4,",
   	"description": "",
 	},
+	"Girls_Night_Chica": {
+  	"name": "Girls Night Chica",
+  	"image": "./img/Girls_Night_Chica.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/15620983971205749550/F0FE470B54B424E3A360B547D9FE86FB6E389E5A/",
+  	"gmnote": "Unit, Battery=3,",
+  	"description": "",
+	},
 	"JJ": {
   	"name": "JJ",
   	"image": "./img/JJ.png",
@@ -1960,6 +1967,12 @@ export const cards = {
   	"url": "https://ulia.dev/tts/fdeck/dl/Beneath the Beak.png",
   	"gmnote": "Spell, Battery=2,"
 	},
+	"Big_Catch": {
+  	"name": "Big Catch",
+  	"image": "./img/Big_Catch.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/11119353493259746017/07F438A6E2DBDF3F865D5CA6A688BEC38CE49E1A/",
+  	"gmnote": "Spell, Battery=5,"
+	},
 	"Bites_the_Dust": {
   	"name": "Bites the Dust",
   	"image": "./img/Bites the Dust.png",
@@ -2062,10 +2075,16 @@ export const cards = {
   	"url": "https://ulia.dev/tts/fdeck/dl/Celestial Reflection.png",
   	"gmnote": "Spell, Battery=3,"
 	},
+	"Celebration_Ritual": {
+  	"name": "Celebration Ritual",
+  	"image": "./img/Celebration_Ritual.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/14816557204916832974/39CFAAFD0748A1126F5AC4881507A7E3355F34AA/",
+  	"gmnote": "\tSpell, Battery=3,"
+	},
 	"Chaos_Flame": {
   	"name": "Chaos Flame",
-  	"image": "./img/Chaos Flame.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40063924290752921/EACE1A63DAF1CA1011FCC352BD970A538355C95B/",
+  	"image": "./img/Chaos_Flame.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/18061450418694284691/2DBE15A99C9817A6E2D59D353783ECCDDC4A55D9/",
   	"gmnote": "Spell, Battery=3,"
 	},
 	"Chaos_Realm": {
@@ -2079,6 +2098,12 @@ export const cards = {
   	"image": "./img/Classic Branding.png",
   	"url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357700530302/FC94C66EADB8EEFB6E911EAA3F5D9C38445AAE6E/",
   	"gmnote": "\tSpell, Battery=3,"
+	},
+	"Clowning_Around": {
+  	"name": "Clowning Around",
+  	"image": "./img/Clowning_Around.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/12106404315257365055/C96D35CF689CE1CC94D5BA874497ED50546DFA6D/",
+  	"gmnote": "\tSpell, Battery=2,"
 	},
 	"Chained_Away": {
   	"name": "Chained Away",
@@ -2167,8 +2192,8 @@ export const cards = {
 	"Disposal": {
   	"name": "Disposal",
   	"image": "./img/Disposal.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40078417473837484/EA10C383126C5BC4E30B5EEA5B3E0F6ACFD845C2/",
-  	"gmnote": "\tSpell, Battery=3,"
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/16178214552632074278/DD15BA4E951EACD0170DBBD4CAC3E5317DE0090A/",
+  	"gmnote": "\tSpell, Battery=2,"
 	},
 	"Dreadful_Monstrosity": {
   	"name": "Dreadful Monstrosity",
@@ -2464,6 +2489,12 @@ export const cards = {
   	"url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357709038450/5E7C2036E79FF7B9A6BC26DE121B55E9278953AB/",
   	"gmnote": "Spell, Battery=4,"
 	},
+	"Ice_Sculpting": {
+  	"name": "Ice Sculpting",
+  	"image": "./img/Ice_Sculpting.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/9275451911114343944/5956E7415D9A2B03E92A25DBECCC4825E536AECF/",
+  	"gmnote": "\tSpell, Battery=4,"
+	},
 	"Ignited_Brethren": {
   	"name": "Ignited Brethren",
   	"image": "./img/Ignited Bretheren.png",
@@ -2553,6 +2584,12 @@ export const cards = {
   	"image": "./img/Lets Make Music Together.png",
   	"url": "https://ulia.dev/tts/fdeck/dl/Lets Make Music Together.png",
   	"gmnote": "\tSpell, Battery=5,"
+	},
+	"Log_Cabin": {
+  	"name": "Log Cabin",
+  	"image": "./img/Log_Cabin.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/15368084508631148088/9C84A235805C4A3A5016637BD2493645741533EB/",
+  	"gmnote": "\tSpell, Battery=4,"
 	},
 	"Longing_for_You": {
   	"name": "Longing for You",
@@ -2644,6 +2681,12 @@ export const cards = {
   	"url": "https://steamusercontent-a.akamaihd.net/ugc/17766397195775773359/A7C61AF03665945E28596FB8752EBDD1EE3359E4/",
   	"gmnote": "\tSpell, Battery=4,"
 	},
+	"Obsessive_Bonds": {
+  	"name": "Obsessive Bonds",
+  	"image": "./img/Obsessive_Bonds.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/14090279367673785221/54306047654E9139075B971C6F767F742853B228/",
+  	"gmnote": "\tSpell, Battery=3,"
+	},
 	"Offering on Son": {
   	"name": "Offering on Son",
   	"image": "./img/Offering_on_Son.png",
@@ -2659,7 +2702,7 @@ export const cards = {
 	"Peaceful_Dreams": {
   	"name": "Peaceful Dreams",
   	"image": "./img/Peaceful_Dreams.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/17033007133538239476/09FD18AEB51C32C93923F97BB631370BB3F2E088/",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/16515479370562588319/755E9799A28FDAE847D99FE271369A368C710FDF/",
   	"gmnote": "\tSpell, Battery=6,"
 	},
 	"Phantom_Crew": {
@@ -2904,9 +2947,9 @@ export const cards = {
 	},
 	"Still_Here": {
   	"name": "Still Here",
-  	"image": "./img/Still Here.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Still Here.png",
-  	"gmnote": "\tSpell, Battery=3,"
+  	"image": "./img/Still_Here.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/13717770563112119432/3C09963A133BBB499641C0EEB551DE493299C347/",
+  	"gmnote": "\tSpell, Battery=4,"
 	},
 	"Strangulation": {
   	"name": "Strangulation",
@@ -2943,6 +2986,12 @@ export const cards = {
   	"image": "./img/Tears of Life.png",
   	"url": "https://ulia.dev/tts/fdeck/dl/Tears of Life.png",
   	"gmnote": "\tSpell, Battery=1,"
+	},
+	"Temporal_Secrets": {
+  	"name": "Temporal Secrets",
+  	"image": "./img/Temporal_Secrets.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/9815239280075063664/E418C9E16EB259273440912C646D6CB611238CED/",
+  	"gmnote": "\tSpell, Battery=7,"
 	},
 	"The_First": {
   	"name": "The First",
