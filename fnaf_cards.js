@@ -495,6 +495,13 @@ export const cards = {
   	"gmnote": "Unit, Battery=9,",
   	"description": "",
 	},
+	"Dee_Dee": {
+  	"name": "Dee Dee",
+  	"image": "./img/Dee_Dee.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/16734572380504586985/9B62D4EEAE85E797BB53346AD61BED595D10965C/",
+  	"gmnote": "Unit, Battery=5,",
+  	"description": "",
+	},
 	"Electrobab": {
   	"name": "Electrobab",
   	"image": "./img/Electrobab.png",
@@ -635,6 +642,13 @@ export const cards = {
   	"gmnote": "Unit, Battery=5,",
   	"description": "",
 	},
+	"Melting_Molten_Freddy": {
+  	"name": "Melting Molten Freddy",
+  	"image": "./img/Melting_Molten_Freddy.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/9422070530814165976/0F3CECF54FE2DBB6AE6284379D6A92C5EE6EF6F5/",
+  	"gmnote": "Unit, Battery=7,",
+  	"description": "",
+	},
 	"Molten_Freddy": {
   	"name": "Molten Freddy",
   	"image": "./img/Molten Freddy.png",
@@ -665,8 +679,8 @@ export const cards = {
 	},
 	"Orville_Elephant": {
   	"name": "Orville Elephant",
-  	"image": "./img/Orville Elephant.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40078417473787249/A5474C5B050D14857AD5419EC744BB4CC0D9B13C/",
+  	"image": "./img/Orville_Elephant.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357695789032/BE71367191A4C3BFCAC1A1BE5E82D8EEF5E06CC1/",
   	"gmnote": "\tUnit, Battery=5,",
   	"description": "",
 	},
@@ -721,8 +735,8 @@ export const cards = {
 	},
 	"Security_Puppet": {
   	"name": "Security Puppet",
-  	"image": "./img/Security Puppet.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Security Puppet.png",
+  	"image": "./img/Security_Puppet.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/16470554697421768654/92F96779C37790F751656B9FD1750FE1E4F53BDB/",
   	"gmnote": "\tUnit, Battery=7,",
   	"description": "",
 	},
