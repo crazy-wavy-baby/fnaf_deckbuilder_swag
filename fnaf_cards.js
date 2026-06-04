@@ -204,8 +204,8 @@ export const cards = {
 	},
 	"Withered_G._Freddy": {
   	"name": "Withered G. Freddy",
-  	"image": "./img/Withered G. Freddy.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40078417473720505/DF3908EB63677AFE411BE58689CC546A1467A408/",
+  	"image": "./img/Withered_G._Freddy.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/12715592382931516919/068B6849DEDB9B1DC170EF09A80974FBF91B14B4/",
   	"gmnote": "Unit, Battery=4,",
   	"description": "",
 	},
@@ -701,8 +701,8 @@ export const cards = {
 	},
 	"Scrap_Baby": {
   	"name": "Scrap Baby",
-  	"image": "./img/Scrap Baby.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Scrap Baby.png",
+  	"image": "./img/Scrap_Baby.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/16575574633720069376/32D45C53660C2992780B0D649C9E409D11030047/",
   	"gmnote": "\tUnit, Battery=7,",
   	"description": "",
 	},
@@ -828,8 +828,8 @@ export const cards = {
 	"Plushkins": {
   	"name": "Plushkins",
   	"image": "./img/Plushkins.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40078417473793973/86C33E77F84220A5B6D1D683B29957525486AA85/",
-  	"gmnote": "Unit, Battery=4,",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/15373043320380739213/EAFC4ADE2834F72CC41430D25E466508E85360E8/",
+  	"gmnote": "Unit, Battery=3,",
   	"description": "",
 	},
 	"Scrap_Plush_Babies": {
@@ -967,8 +967,8 @@ export const cards = {
 	},
 	"Prototype_G_Freddy": {
   	"name": "Prototype G Freddy",
-  	"image": "./img/Prototype G Freddy.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Prototype G Freddy.png",
+  	"image": "./img/Prototype_G_Freddy.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/11101059506554189566/A68D321F288214AEF91F0FF6B9204F54DA46CD91/",
   	"gmnote": "\tUnit, Battery=6,",
   	"description": "",
 	},
@@ -986,6 +986,13 @@ export const cards = {
   	"gmnote": "\tUnit, Battery=5,",
   	"description": "",
 	},
+	"Ruined_DJMM": {
+  	"name": "Ruined DJMM",
+  	"image": "./img/Ruined_DJMM.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/12128743040190058183/107B843CECD485DC51957017B8614DF59D5C8EE1/",
+  	"gmnote": "\tUnit, Battery=6,",
+  	"description": "",
+	},
 	"Ruined_Monty": {
   	"name": "Ruined Monty",
   	"image": "./img/Ruined Monty.png",
@@ -995,8 +1002,8 @@ export const cards = {
 	},
 	"Ruined_Roxy": {
   	"name": "Ruined Roxy",
-  	"image": "./img/Ruined Roxy.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Ruined Roxy.png",
+  	"image": "./img/Ruined_Roxy.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/9705496000555843483/7E2D2C70CD136C95FC39040D34618002B453A2CF/",
   	"gmnote": "\tUnit, Battery=6,",
   	"description": "",
 	},
@@ -1016,8 +1023,8 @@ export const cards = {
 	},
 	"Shattered_Roxy": {
   	"name": "Shattered Roxy",
-  	"image": "./img/Shattered Roxy.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40078417473652174/30E9D7FF57BA8FEEEEBC06A6628B83C6E7D70903/",
+  	"image": "./img/Shattered_Roxy.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/9586923878256762700/CE1F745186AB950F8E2BF410D612C51494F26F1D/",
   	"gmnote": "\tUnit, Battery=3,",
   	"description": "",
 	},
@@ -1038,7 +1045,7 @@ export const cards = {
 	"Sun": {
   	"name": "Sun",
   	"image": "./img/Sun.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Sun.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/18225408620403946571/2DB40A98C3A4A15315D8C4310157E1348215715C/",
   	"gmnote": "Unit, Battery=6,",
   	"description": "",
 	},
@@ -1275,9 +1282,9 @@ export const cards = {
 	},
 	"Shamrock_Freddy": {
   	"name": "Shamrock Freddy",
-  	"image": "./img/Shamrock Freddy.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Shamrock Freddy.png",
-  	"gmnote": "\tUnit, Battery=8,",
+  	"image": "./img/Emergency_Shamrock_Freddy.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/10472919236357296600/02F9E0870766FD459D5B674076030F2BEAFDD59D/",
+  	"gmnote": "\tUnit, Battery=5,",
   	"description": "",
 	},
 	"Sunken_Bonnie": {
@@ -1304,16 +1311,10 @@ export const cards = {
   	"url": "https://ulia.dev/tts/fdeck/dl/The Curse.png",
   	"gmnote": "Unit, Battery=8,"
 	},
-	"Toxic_Springtrap": {
-  	"name": "Toxic Springtrap",
-  	"image": "./img/Toxic Springtrap.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40078417473689254/6FBE4E122C78415B2ADBE81767D931B23CB419C4/",
-  	"gmnote": "\tUnit, Battery=7,"
-	},
 	"Toxic_Sewer_Springtrap": {
   	"name": "Toxic Sewer Springtrap",
-  	"image": "./img/Toxic Sewer Springtrap.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40063924290912117/47F4663EFBCE4DA252447F038CAAE1443D0982D5/",
+  	"image": "./img/Toxic_Sewer_Springtrap.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/12715592382931516919/068B6849DEDB9B1DC170EF09A80974FBF91B14B4/",
   	"gmnote": "\tUnit, Battery=7,"
 	},
 	"VR_Toy_Freddy": {
@@ -1453,8 +1454,8 @@ export const cards = {
 	},
 	"Stitchwraith": {
   	"name": "Stitchwraith",
-  	"image": "./img/Stitchwraith.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Stitchwraith.png",
+  	"image": "./img/Stich_Wraith.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/11596674182606348523/1D59832B695398B0EB027FDAC9F9806A59CF45B1/",
   	"gmnote": "\tUnit, Battery=8,"
 	},
 	"Tiger_Rock": {
@@ -1607,6 +1608,12 @@ export const cards = {
   	"url": "https://steamusercontent-a.akamaihd.net/ugc/40078417473772990/B329DC3014BF7062100F4F3B3BF39661FBF1D386/",
   	"gmnote": "Unit, Battery=6,"
 	},
+	"Owl_Tail": {
+  	"name": "Owl_Tail",
+  	"image": "./img/Owl_Tail.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/10277792197059028376/24D61A81DE61383D6658B5A66AEB515426928586/",
+  	"gmnote": "Unit, Battery=4,"
+	},
 	"Paulbear": {
   	"name": "Paulbear",
   	"image": "./img/Paulbear.png",
@@ -1615,8 +1622,8 @@ export const cards = {
 	},
 	"The_Ghost": {
   	"name": "The Ghost",
-  	"image": "./img/The Ghost.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357700131229/D2FD09FE6BBED204D4E245D59153BDEF6442BDC1/",
+  	"image": "./img/The_Ghost.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/16617690627651562323/2FEBA93072DFEC04703FA873D2405A9854EF5A19/",
   	"gmnote": "Unit, Battery=7,"
 	},
 	"Withered_Balloon_Baby": {
@@ -1798,6 +1805,12 @@ export const cards = {
   	"image": "./img/Wonderland Bon.png",
   	"url": "https://ulia.dev/tts/fdeck/dl/Wonderland Bon.png",
   	"gmnote": "Unit, Battery=8,"
+	},
+	"Party_Time_Chica": {
+  	"name": "Party_Time_Chica",
+  	"image": "./img/Party_Time_Chica.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/11706095884651309145/0F0E6AC8B260581FD0B1146D6C73818F209C7A69/",
+  	"gmnote": "Unit, Battery=3,"
 	},
 	"6_AM": {
   	"name": "6 AM",
@@ -2573,6 +2586,12 @@ export const cards = {
   	"url": "https://steamusercontent-a.akamaihd.net/ugc/17766397195775773359/A7C61AF03665945E28596FB8752EBDD1EE3359E4/",
   	"gmnote": "\tSpell, Battery=4,"
 	},
+	"Offering on Son": {
+  	"name": "Offering on Son",
+  	"image": "./img/Offering_on_Son.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/16242535973804663198/EAB159BD7F199AB2B9CDF5DF13983733D734A61C/",
+  	"gmnote": "\tSpell, Battery=4,"
+	},
 	"Peaceful_Burial": {
   	"name": "Peaceful Burial",
   	"image": "./img/Peaceful Burial.png",
@@ -2599,8 +2618,8 @@ export const cards = {
 	},
 	"Phantom_Wail": {
   	"name": "Phantom Wail",
-  	"image": "./img/Phantom Wail.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Phantom Wail.png",
+  	"image": "./img/Phantom_Wail.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/13094253840745710970/F7A383E9BE70DCB611F6DC29ACCBF29F2328FE95/",
   	"gmnote": "\tSpell, Battery=4,"
 	},
 	"Phone_Guy": {
@@ -2767,8 +2786,8 @@ export const cards = {
 	},
 	"Shattered_Rage": {
   	"name": "Shattered Rage",
-  	"image": "./img/Shattered Rage.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Shattered Rage.png",
+  	"image": "./img/Shattered_Rage.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/15625654748694654775/FCBF6718938EF2D59EC5C2523CE45D4D17937751/",
   	"gmnote": "\tSpell, Battery=3,"
 	},
 	"Shadowy_Release": {
@@ -2839,9 +2858,9 @@ export const cards = {
 	},
 	"Straight_for_the_Head": {
   	"name": "Straight for the Head",
-  	"image": "./img/Straight for the Head.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40063924290774546/6F0A908C0B80308D07D1D6E98AA62705CABD80D3/",
-  	"gmnote": "\tSpell, Battery=5,"
+  	"image": "./img/Straight_for_the_Head.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/13464504824631190429/6601C3E3A7E5248175DB5CE8E53A8C9B462F3E9B/",
+  	"gmnote": "\tSpell, Battery=6,"
 	},
 	"Stuffed": {
   	"name": "Stuffed",
