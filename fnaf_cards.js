@@ -79,7 +79,7 @@ export const cards = {
 	"Broken_Mangle": {
   	"name": "Broken Mangle",
   	"image": "./img/Broken Mangle.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Broken Mangle.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/17181250809966559049/437879FF49A2E7821ABE8595BA52C29A7CD2B72F/",
   	"gmnote": "Unit, Battery=6,",
   	"description": "",
 	},
@@ -177,7 +177,7 @@ export const cards = {
 	"20_Mode_Withered_Chica": {
   	"name": "20 Mode Withered Chica",
   	"image": "./img/20 Mode Withered Chica.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40078417473819718/C9C0AF712A253C039A32D8094E59C1FB61479D8D/",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/11068672248793086678/79744A7F33F1292834C137ED23C4DDB5EB40144D/",
   	"gmnote": "\tUnit, Battery=5,",
   	"description": "",
 	},
@@ -298,6 +298,13 @@ export const cards = {
   	"image": "./img/Springtrap.png",
   	"url": "https://ulia.dev/tts/fdeck/dl/Springtrap.png",
   	"gmnote": "\tUnit, Battery=8,",
+  	"description": "",
+	},
+	"Big Brother Foxy": {
+  	"name": "Big Brother Foxy",
+  	"image": "./img/Big_Brother_Foxy.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/9425451433235277726/B8869AF041127023CA3579528379AB7B769052D7/",
+  	"gmnote": "\tUnit, Battery=4,",
   	"description": "",
 	},
 	"Fredbear": {
@@ -1059,7 +1066,7 @@ export const cards = {
 	"Arctic_Ballora": {
   	"name": "Arctic Ballora",
   	"image": "./img/Arctic Ballora.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Arctic Ballora.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/13691603581993427346/3B05BB1F667D100114C43AD46E18EB044C5D597E/",
   	"gmnote": "\tUnit, Battery=4,",
   	"description": "",
 	},
@@ -1705,8 +1712,8 @@ export const cards = {
 	"Bon": {
   	"name": "Bon",
   	"image": "./img/Bon.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/10476647541431731739/0DEC66FE88D19F9071758CDA06D63D0093E4B96A/",
-  	"gmnote": "Unit, Battery=7,"
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/16665923753382629803/24922BC042CB6E2FCCA30CD873F1B9604D0CAD78/",
+  	"gmnote": "Unit, Battery=8,"
 	},
 	"Bond_Halloween_Slashers": {
   	"name": "Bond Halloween Slashers",
@@ -1843,7 +1850,7 @@ export const cards = {
 	"Ancient_Memories:_Origin": {
   	"name": "Ancient Memories: Origin",
   	"image": "./img/Ancient Memories Origin.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40078417473847400/31D38873EFCACC824D08C17997A3E021CEFF594E/",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/15881617098490831662/933277A87062D0ED7C2A560E93F6422F63B707F0/",
   	"gmnote": "\tSpell, Battery=3,"
 	},
 	"Ancient_Memories:_Joy": {
