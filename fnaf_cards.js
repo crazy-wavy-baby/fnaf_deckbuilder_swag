@@ -1571,7 +1571,7 @@ export const cards = {
 	"Ignited_Springtrap": {
   	"name": "Ignited Springtrap",
   	"image": "./img/Ignited_Springtrap.png",
-  	"url": "hhttps://steamusercontent-a.akamaihd.net/ugc/14649276194597080520/B2A1E722D0D9FB1D75446FBB107050790FE642F8/",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/16447622738799667627/FF3279C2B5E5F96DA756A2F7EAC70D3463FD6F5F/",
   	"gmnote": "\tUnit, Battery=9,"
 	},
 	"Mouth": {
