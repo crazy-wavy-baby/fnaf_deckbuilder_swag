@@ -1663,7 +1663,7 @@ export const cards = {
 	"Paulbear": {
   	"name": "Paulbear",
   	"image": "./img/Paulbear.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357700336703/0E0438662ED21AA3E6489E464860FF2687726C51/",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/11165620256825725690/A2AE43A5A4EA2F64D04B5A1D85318B0C8AA9A446/",
   	"gmnote": "\tUnit, Battery=8,"
 	},
 	"The_Ghost": {
@@ -1708,10 +1708,16 @@ export const cards = {
   	"url": "https://steamusercontent-a.akamaihd.net/ugc/40078417473914170/3CBF8E04A65BD81065E3B79EDA1974CEEF1496AE/",
   	"gmnote": "\tUnit, Battery=8,"
 	},
+	"Wraith": {
+  	"name": "Wraith",
+  	"image": "./img/Wraith.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/15369912295846011928/EB3725F5E5885B3D796F733231428DCC1C8D27A7/",
+  	"gmnote": "\tUnit, Battery=3,"
+	},
 	"Big_Bruce": {
   	"name": "Big Bruce",
-  	"image": "./img/Big Bruce.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40063924290916458/F016FE467336ED6C6AA59AD134AD1460F3D09197/",
+  	"image": "./img/Big_Bruce.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/14792404433506207971/C1E6648E246A5E7C7E059E1F0FE5001E695EDCDF/",
   	"gmnote": "Unit, Battery=7,"
 	},
 	"Chipomat_1.0": {
@@ -1786,6 +1792,12 @@ export const cards = {
   	"url": "https://steamusercontent-a.akamaihd.net/ugc/40078417473853145/488DC098FA2ED05AF1CA5288756269432712F374/",
   	"gmnote": "Unit, Battery=3,"
 	},
+	"Cyberfun_Endo": {
+  	"name": "Cyberfun Endo",
+  	"image": "./img/Cyberfun_Endo.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/14217541131519329003/D6D3A1C70A0BFB929875C0F5FA545FE718138904/",
+  	"gmnote": "Unit, Battery=3,"
+	},
 	"Happy_Family": {
   	"name": "Happy Family",
   	"image": "./img/Happy Family.png",
@@ -1839,6 +1851,12 @@ export const cards = {
   	"image": "./img/Showbear.png",
   	"url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357720725234/26686484BCF583458128435FD5EACCC1085B3A92/",
   	"gmnote": "Unit, Battery=7,"
+	},
+	"Sweet_Witch_Sheep": {
+  	"name": "Sweet Witch Sheep",
+  	"image": "./img/Sweet_Witch_Sheep.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/17113844471475816851/F94ACCDE9CF8A95AC402377E473BA7E036CF2959/",
+  	"gmnote": "Unit, Battery=6,"
 	},
 	"Witch_Sheep": {
   	"name": "Witch Sheep",
