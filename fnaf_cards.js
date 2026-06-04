@@ -41,6 +41,13 @@ export const cards = {
   	"gmnote": "\tUnit, Battery=3,",
   	"description": "",
 	},
+	"Golden_Girl": {
+  	"name": "Golden Girl",
+  	"image": "./img/Golden_Girl.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/14412483967685478418/A02ABEF91FB5B5002E4B77DA9BC82F89895A6E95/",
+  	"gmnote": "\tUnit, Battery=6,",
+  	"description": "",
+	},
 	"Golden_Illusion": {
   	"name": "Golden Illusion",
   	"image": "./img/Golden_Illusion.png",
