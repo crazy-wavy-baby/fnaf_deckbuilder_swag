@@ -861,8 +861,8 @@ export const cards = {
 	},
 	"Shadow_Mangle": {
   	"name": "Shadow Mangle",
-  	"image": "./img/Shadow Mangle.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40063924294386479/764FF0BC2241D100C268CA37D90DF419FF1A24E9/",
+  	"image": "./img/Shadow_Mangle.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/16812673826342480968/20F1FCD42D2E942CD03039CF3CF5C0DA53E46111/",
   	"gmnote": "\tUnit, Battery=3,",
   	"description": "",
 	},
@@ -1043,8 +1043,8 @@ export const cards = {
 	},
 	"Scooping_Claw": {
   	"name": "Scooping Claw",
-  	"image": "./img/Scooping Claw.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Scooping Claw.png",
+  	"image": "./img/Scooping_Claw.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/11982596415486929544/8E3F4E8677C88AF1DAB4786E8C745A0307771B4C/",
   	"gmnote": "\tUnit, Battery=5,",
   	"description": "",
 	},
@@ -1155,8 +1155,8 @@ export const cards = {
 	},
 	"Easter_Bonnie": {
   	"name": "Easter Bonnie",
-  	"image": "./img/Easter Bonnie.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Easter Bonnie.png",
+  	"image": "./img/Easter_Bonnie.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/10163569275710157228/7455DCC48ECC62E944478426F560DD55597CCAF6/",
   	"gmnote": "\tUnit, Battery=5,",
   	"description": "",
 	},
@@ -1288,8 +1288,8 @@ export const cards = {
 	},
 	"Remnant_Bonnie": {
   	"name": "Remnant Bonnie",
-  	"image": "./img/Remnant Bonnie.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40077782735265717/628F11E0625EC6C3C5EF4EB72B6C8C0B656C50A7/",
+  	"image": "./img/Remnant_Bonnie.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/13836009730320126336/0349239C92E666112B9D10F4087A5688201F5CB9/",
   	"gmnote": "\tUnit, Battery=6,",
   	"description": "",
 	},
@@ -1753,7 +1753,7 @@ export const cards = {
 	"Seabilly": {
   	"name": "Seabilly",
   	"image": "./img/Seabilly.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40078417473624969/1C42C43FEC2ADBC8BFAED52108659ADD49D7A092/",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/14488179130477297260/3F0DF188B803A20A04F47A2D43640FADF0804F31/",
   	"gmnote": "Unit, Battery=6,"
 	},
 	"Summercrab": {
@@ -1807,13 +1807,13 @@ export const cards = {
 	"Joy": {
   	"name": "Joy",
   	"image": "./img/Joy.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Joy.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/11138699067195430049/A2620294A74D4F3F106AB9CFB3042BBB8B49E7F3/",
   	"gmnote": "Unit, Battery=7,"
 	},
 	"Mortality": {
   	"name": "Mortality",
   	"image": "./img/Mortality.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357700313786/1695531788E6F59250B0142BB944AE03181C138B/",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/15438096347958796627/302EF52C7E0F7C36ECDB5B96F576D5B4E4A6BD52/",
   	"gmnote": "Unit, Battery=8,"
 	},
 	"Pumpkin_Rabbit": {
@@ -1836,8 +1836,8 @@ export const cards = {
 	},
 	"Sad_Ghost": {
   	"name": "Sad Ghost",
-  	"image": "./img/Sad Ghost.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Sad Ghost.png",
+  	"image": "./img/Sad_Ghost.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/15146908836336748567/6896438E3A43A9498C113D70DFCBC5BE2B3B1CBD/",
   	"gmnote": "Unit, Battery=3,"
 	},
 	"Sha": {
