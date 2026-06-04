@@ -434,14 +434,14 @@ export const cards = {
   	"description": "",
 	},
 	"Space_Freddy": {
-  	"name": "Space Freddy",
+  	"name": "Space_Freddy",
   	"image": "https://steamusercontent-a.akamaihd.net/ugc/16235247459337882817/805D435597677D29EC309F1B6F2D5D643D4E87EC/",
   	"gmnote": "\tUnit, Battery=6,",
   	"description": "",
 	},
 	"Old_Man_Consequences": {
   	"name": "Old Man Consequences",
-  	"image": "./img/Old Man Consequences.png",
+  	"image": "./img/OMC.png",
   	"url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357703713683/B13E44D4F492D223183D8D32730A4108E862221D/",
   	"gmnote": "\tUnit, Battery=5,",
   	"description": "",
