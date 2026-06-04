@@ -435,8 +435,7 @@ export const cards = {
 	},
 	"Space_Freddy": {
   	"name": "Space Freddy",
-  	"image": "./img/Space Freddy.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40063924290863946/601C6447446C233FEA1652BB9CB128B18C55695D/",
+  	"image": "https://steamusercontent-a.akamaihd.net/ugc/16235247459337882817/805D435597677D29EC309F1B6F2D5D643D4E87EC/",
   	"gmnote": "\tUnit, Battery=6,",
   	"description": "",
 	},
