@@ -78,7 +78,7 @@ export const cards = {
 	},
 	"Broken_Mangle": {
   	"name": "Broken Mangle",
-  	"image": "./img/Broken Mangle.png",
+  	"image": "./img/Broken_Mangle.png",
   	"url": "https://steamusercontent-a.akamaihd.net/ugc/17181250809966559049/437879FF49A2E7821ABE8595BA52C29A7CD2B72F/",
   	"gmnote": "Unit, Battery=6,",
   	"description": "",
@@ -176,7 +176,7 @@ export const cards = {
 	},
 	"20_Mode_Withered_Chica": {
   	"name": "20 Mode Withered Chica",
-  	"image": "./img/20 Mode Withered Chica.png",
+  	"image": "./img/20_Mode_Withered_Chica.png",
   	"url": "https://steamusercontent-a.akamaihd.net/ugc/11068672248793086678/79744A7F33F1292834C137ED23C4DDB5EB40144D/",
   	"gmnote": "\tUnit, Battery=5,",
   	"description": "",
@@ -708,7 +708,7 @@ export const cards = {
 	},
 	"20_Mode_Scrap_Baby": {
   	"name": "20 Mode Scrap Baby",
-  	"image": "./img/20 Mode Scrap Baby.png",
+  	"image": "./img/20_Mode_Scrap_Baby.png",
   	"url": "https://steamusercontent-a.akamaihd.net/ugc/14495128715762105099/C20B8F363BC2E603D1CD387CC2D914F1582A4E35/",
   	"gmnote": "\tUnit, Battery=5,",
   	"description": "",
@@ -918,7 +918,7 @@ export const cards = {
 	},
 	"Glamrock_Freddy_MAX": {
   	"name": "Glamrock Freddy MAX",
-  	"image": "./img/Glamrock_Freddy_MAX.png",
+  	"image": "./img/Glamrock_Freddy_Max.png",
   	"url": "https://steamusercontent-a.akamaihd.net/ugc/11578364134169692699/DC254A865CA045F878193F15569BF2E1E4A5AF18/",
   	"gmnote": "\tUnit, Battery=0,",
   	"description": "",
@@ -1072,7 +1072,7 @@ export const cards = {
 	},
 	"Arctic_Ballora": {
   	"name": "Arctic Ballora",
-  	"image": "./img/Arctic Ballora.png",
+  	"image": "./img/Arctic_Ballora.png",
   	"url": "https://steamusercontent-a.akamaihd.net/ugc/13691603581993427346/3B05BB1F667D100114C43AD46E18EB044C5D597E/",
   	"gmnote": "\tUnit, Battery=4,",
   	"description": "",
@@ -1862,7 +1862,7 @@ export const cards = {
 	},
 	"Ancient_Memories:_Origin": {
   	"name": "Ancient Memories: Origin",
-  	"image": "./img/Ancient Memories Origin.png",
+  	"image": "./img/Ancient_Memories_Origin.png",
   	"url": "https://steamusercontent-a.akamaihd.net/ugc/15881617098490831662/933277A87062D0ED7C2A560E93F6422F63B707F0/",
   	"gmnote": "\tSpell, Battery=3,"
 	},
@@ -2366,7 +2366,7 @@ export const cards = {
 	},
 	"Hatreds_Lash": {
   	"name": "Hatreds Lash",
-  	"image": "./img/Hatreds Lash.png",
+  	"image": "./img/Hatreds_Lash.png",
   	"url": "https://steamusercontent-a.akamaihd.net/ugc/12118790779963869664/A269E1A54A3F251F952B0C756395BC514738F5E9/",
   	"gmnote": "\tSpell, Battery=5,"
 	},
