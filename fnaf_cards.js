@@ -702,7 +702,7 @@ export const cards = {
 	"20_Mode_Scrap_Baby": {
   	"name": "20 Mode Scrap Baby",
   	"image": "./img/20 Mode Scrap Baby.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40078417473815887/D9CF00587502E008101968150D65738BF3703C09/",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/14495128715762105099/C20B8F363BC2E603D1CD387CC2D914F1582A4E35/",
   	"gmnote": "\tUnit, Battery=5,",
   	"description": "",
 	},
