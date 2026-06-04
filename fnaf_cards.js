@@ -1421,6 +1421,12 @@ export const cards = {
   	"url": "https://steamusercontent-a.akamaihd.net/ugc/15149813097597383822/46FC3024B4D74E4D219139C1E2A4936F20DAF834/",
   	"gmnote": "\tUnit, Battery=5,"
 	},
+	"Party_Time_Chica": {
+  	"name": "Party Time Chica",
+  	"image": "./img/Party_Time_Chica.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/11706095884651309145/0F0E6AC8B260581FD0B1146D6C73818F209C7A69/",
+  	"gmnote": "Unit, Battery=3,"
+	},
 	"Sharpay": {
   	"name": "Sharpay",
   	"image": "./img/Sharpay.png",
@@ -1825,12 +1831,6 @@ export const cards = {
   	"image": "./img/Wonderland Bon.png",
   	"url": "https://ulia.dev/tts/fdeck/dl/Wonderland Bon.png",
   	"gmnote": "Unit, Battery=8,"
-	},
-	"Party_Time_Chica": {
-  	"name": "Party_Time_Chica",
-  	"image": "./img/Party_Time_Chica.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/11706095884651309145/0F0E6AC8B260581FD0B1146D6C73818F209C7A69/",
-  	"gmnote": "Unit, Battery=3,"
 	},
 	"6_AM": {
   	"name": "6 AM",
