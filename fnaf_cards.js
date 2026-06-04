@@ -1225,9 +1225,9 @@ export const cards = {
 	},
 	"Heartsick_Baby": {
   	"name": "Heartsick Baby",
-  	"image": "./img/Heartsick Baby.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Heartsick Baby.png",
-  	"gmnote": "\tUnit, Battery=9,",
+  	"image": "./img/Heartsick_Baby.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/16119444630349746271/1FEE033579521DB79B4FA4AAD45AE8B9E928E90B/",
+  	"gmnote": "\tUnit, Battery=6,",
   	"description": "",
 	},
 	"Highscore_Toy_Chica": {
@@ -1350,6 +1350,12 @@ export const cards = {
   	"image": "./img/Toxic_Sewer_Springtrap.png",
   	"url": "https://steamusercontent-a.akamaihd.net/ugc/12715592382931516919/068B6849DEDB9B1DC170EF09A80974FBF91B14B4/",
   	"gmnote": "\tUnit, Battery=7,"
+	},
+	"Valentines_Baby": {
+  	"name": "Valentines Baby",
+  	"image": "./img/Valentines_Baby.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/11683033267518740921/0D54B08F63AC52A4D776B7F02D99DC8DC9A1FE8B/",
+  	"gmnote": "\tUnit, Battery=6,"
 	},
 	"VR_Toy_Freddy": {
   	"name": "VR Toy Freddy",
@@ -1500,8 +1506,8 @@ export const cards = {
 	},
 	"Tiger_Rock": {
   	"name": "Tiger Rock",
-  	"image": "./img/Tiger Rock.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Tiger Rock.png",
+  	"image": "./img/Tiger_Rock.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/12092871964096666879/576F184469D0D6CD40FE4D091FAA0D80B92CC8BE/",
   	"gmnote": "Unit, Battery=8,"
 	},
 	"Twisted_Bonnie": {
