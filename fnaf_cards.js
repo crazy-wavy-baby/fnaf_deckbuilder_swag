@@ -868,8 +868,15 @@ export const cards = {
 	},
 	"Beta_M.X.E.S": {
   	"name": "Beta M.X.E.S",
-  	"image": "./img/Beta M.X.E.S.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357695811595/BC7CE37D056FA5B5B71E6B3398BB4E00640F47BD/",
+  	"image": "./img/beta_mxes.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/15278294556539963546/AFDDF3E9CEBE035A46F946A41F2976D97BFC7AF3/",
+  	"gmnote": "\tUnit, Battery=5,",
+  	"description": "",
+	},
+	"Bond:_Fazbear_Stars": {
+  	"name": "Bond: Fazbear Stars",
+  	"image": "./img/Bond_Fazbear_Stars.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/12858015550642623866/AFFF87A453A4E13782C7E76E30EDEB1B7D13747E/",
   	"gmnote": "\tUnit, Battery=5,",
   	"description": "",
 	},
@@ -897,7 +904,7 @@ export const cards = {
 	"Eclipse": {
   	"name": "Eclipse",
   	"image": "./img/Eclipse.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Eclipse.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/9272219259499206872/92CC200C661E55428BD2484D96994FD046611447/",
   	"gmnote": "\tUnit, Battery=8,",
   	"description": "",
 	},
@@ -941,6 +948,13 @@ export const cards = {
   	"image": "./img/Glamrock_Freddy_Max.png",
   	"url": "https://steamusercontent-a.akamaihd.net/ugc/11578364134169692699/DC254A865CA045F878193F15569BF2E1E4A5AF18/",
   	"gmnote": "\tUnit, Battery=0,",
+  	"description": "",
+	},
+	"Heart_Piercer_Vanny": {
+  	"name": "Heart Piercer Vanny",
+  	"image": "./img/Heart_Piercer_Vanny.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/16468118254931405880/C989F0687AC5215DB0B24A125D2E4E83CC2C9009/",
+  	"gmnote": "\tUnit, Battery=7,",
   	"description": "",
 	},
 	"Helpi": {
