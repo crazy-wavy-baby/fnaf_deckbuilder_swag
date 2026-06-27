@@ -2135,12 +2135,6 @@ export const cards = {
   	"url": "https://steamusercontent-a.akamaihd.net/ugc/12256040499227797763/7FB5C5B4E159AA8A1C3675D97E57DEC1B3654F60/",
   	"gmnote": "\tSpell, Battery=6,"
 	},
-	"Courage": {
-  	"name": "Courage",
-  	"image": "./img/Courage.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Courage.png",
-  	"gmnote": "\tSpell, Battery=2,"
-	},
 	"Crush": {
   	"name": "Crush",
   	"image": "./img/Crush.png",
@@ -2254,12 +2248,6 @@ export const cards = {
   	"image": "./img/Eternal Life.png",
   	"url": "https://ulia.dev/tts/fdeck/dl/Eternal Life.png",
   	"gmnote": "\tSpell, Battery=5,"
-	},
-	"Extra_Door": {
-  	"name": "Extra Door",
-  	"image": "./img/Extra Door.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Extra Door.png",
-  	"gmnote": "\tSpell, Battery=2,"
 	},
 	"Failed_Salvage": {
   	"name": "Failed Salvage",
@@ -2747,12 +2735,6 @@ export const cards = {
   	"url": "https://steamusercontent-a.akamaihd.net/ugc/16889265939825835872/DC07053E872797B99973CBE2396D78033E8A9610/",
   	"gmnote": "\tSpell, Battery=5,"
 	},
-	"Purify": {
-  	"name": "Purify",
-  	"image": "./img/Purify.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Purify.png",
-  	"gmnote": "\tSpell, Battery=3,"
-	},
 	"Rebirth": {
   	"name": "Rebirth",
   	"image": "./img/Rebirth.png",
@@ -2991,12 +2973,6 @@ export const cards = {
   	"name": "The First",
   	"image": "./img/The First.png",
   	"url": "https://steamusercontent-a.akamaihd.net/ugc/40063924290806013/3212BF1104904063ED134E0D8DAAABC8E67691EF/",
-  	"gmnote": "\tSpell, Battery=3,"
-	},
-	"The_Fun_Never_Ends": {
-  	"name": "The Fun Never Ends",
-  	"image": "./img/The Fun Never Ends.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357698527087/7904576D5EDCA5FDCE19E92AD4D2FBD5D806F383/",
   	"gmnote": "\tSpell, Battery=3,"
 	},
 	"The_Past_Bites": {
