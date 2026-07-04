@@ -2315,12 +2315,6 @@ export const cards = {
   	"url": "https://ulia.dev/tts/fdeck/dl/Forgiveness.png",
   	"gmnote": "\tSpell, Battery=3,"
 	},
-	"Forgotten_Remains": {
-  	"name": "Forgotten Remains",
-  	"image": "./img/Forgotten Remains.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357695774985/278D1704AF2278AEF75CB173CEC1614080D46215/",
-  	"gmnote": "\tSpell, Battery=5,"
-	},
 	"Forgotten_Whispers": {
   	"name": "Forgotten Whispers",
   	"image": "./img/Forgotten_Whispers.png",
@@ -2632,12 +2626,6 @@ export const cards = {
   	"image": "./img/Metallic Reformation.png",
   	"url": "https://steamusercontent-a.akamaihd.net/ugc/40077782735197246/E07C6C0ED4D287A1015BCD8C91A0B077622A61A2/",
   	"gmnote": "Spell, Battery=3,"
-	},
-	"Mimic_You": {
-  	"name": "Mimic You",
-  	"image": "./img/Mimic You.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40063924290760199/01BEFD39A1D1AD5683C82713E40525B2054698CD/",
-  	"gmnote": "Spell, Battery=5,"
 	},
 	"Miniature_Creation": {
   	"name": "Miniature Creation",
