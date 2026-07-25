@@ -100,7 +100,7 @@ export const cards = {
 	"Girls_Night_Chica": {
   	"name": "Girls Night Chica",
   	"image": "./img/Girls_Night_Chica.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/15620983971205749550/F0FE470B54B424E3A360B547D9FE86FB6E389E5A/",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/14663949598241158747/2FDEEB41B6EE6C2F46B7D8D1539405C140ADF52A/",
   	"gmnote": "Unit, Battery=3,",
   	"description": "",
 	},
@@ -359,14 +359,14 @@ export const cards = {
 	"Nightmare_Bonnie": {
   	"name": "Nightmare Bonnie",
   	"image": "./img/Nightmare_Bonnie.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/9238396821795736668/D420D7A3CA8FEA675C5B881D9416B1F748A168A7/",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/10717491901003861517/FBB31CDCA87100C513127B8557531D6E623486A3/",
   	"gmnote": "\tUnit, Battery=6,",
   	"description": "",
 	},
 	"Nightmare_Chica": {
   	"name": "Nightmare Chica",
   	"image": "./img/Nightmare_Chica.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/17075000269211464961/54B9F6EC749D0889AB83CFC3BDEB25B2B3772ED7/",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/9244476994974611979/CE887DEF3D0B12F61D01519B62ED556204E8582E/",
   	"gmnote": "\tUnit, Battery=6,",
   	"description": "",
 	},
@@ -588,8 +588,8 @@ export const cards = {
 	},
 	"Performer_Funtime_Foxy": {
   	"name": "Performer Funtime Foxy",
-  	"image": "./img/Performer Funtime Foxy.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/2486629108777255218/F4EB2239BE9DC649466DB1C88BBBAFCB2C3770C8/",
+  	"image": "./img/Performer Funtime_Foxy.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/9909039706905665287/F0780EC47DF11A0DFB2F0DB0682BE327E9476993/",
   	"gmnote": "Unit, Battery=5,",
   	"description": "",
 	},
@@ -834,7 +834,7 @@ export const cards = {
 	"Malhare": {
   	"name": "Malhare",
   	"image": "./img/Malhare.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40063924294379200/F1F076A62D4B93B0FA23114A17DF1719222CE818/",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/14885479177819709330/69469F0960A74B5BB172DABF69673FF559910D60/",
   	"gmnote": "Unit, Battery=3,",
   	"description": "",
 	},
@@ -1169,8 +1169,8 @@ export const cards = {
 	},
 	"Firework_Freddy": {
   	"name": "Firework Freddy",
-  	"image": "./img/Firework Freddy.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Firework Freddy.png",
+  	"image": "./img/Firework_Freddy.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/14439752933548678776/1C363E70C18D02F7DEC6159CFA047ABA30824E4C/",
   	"gmnote": "\tUnit, Battery=6,",
   	"description": "",
 	},
@@ -1598,7 +1598,7 @@ export const cards = {
 	"Ignited_Springtrap": {
   	"name": "Ignited Springtrap",
   	"image": "./img/Ignited_Springtrap.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/16447622738799667627/FF3279C2B5E5F96DA756A2F7EAC70D3463FD6F5F/",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/13837098725476457058/2332B8996AF424396777C88E4775580891204EA4/",
   	"gmnote": "\tUnit, Battery=9,"
 	},
 	"Mouth": {
@@ -1633,8 +1633,8 @@ export const cards = {
 	},
 	"Jr_Bonnie": {
   	"name": "Jr Bonnie",
-  	"image": "./img/Jr Bonnie.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Jr Bonnie.png",
+  	"image": "./img/Jr_Bonnie.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/17352254761120903119/9131665DA58BB86BEFD0B797A17601C6B4245546/",
   	"gmnote": "\tUnit, Battery=5,"
 	},
 	"Jr_Chica": {
@@ -1729,20 +1729,20 @@ export const cards = {
 	},
 	"Chipomat_1.0": {
   	"name": "Chipomat 1.0",
-  	"image": "./img/Chipomat 1.0.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40077782735284875/37D259CA5F6C5E5223E7224F63B3954F7A86EDFE/",
+  	"image": "./img/Chipomat_1.0.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/11069305463516919988/A5A3A121C3CC8500BE395302E0B28D4904E58ABB/",
   	"gmnote": "Unit, Battery=4,"
 	},
 	"Chipomat_2.0": {
   	"name": "Chipomat 2.0",
-  	"image": "./img/Chipomat 2.0.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40077782735293861/C1115372FEF1C9FA506D7C6BC28979F4E3818EC9/",
+  	"image": "./img/Chipomat_2.0.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/16493968700418379652/423D786834BBECD60DE682290AC947A65E276FBD/",
   	"gmnote": "Unit, Battery=5,"
 	},
 	"Chipomat_3.0": {
   	"name": "Chipomat 3.0",
-  	"image": "./img/Chipomat 3.0.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40077782735290377/23D4E5BB30C0FC024EBA6D7B1E2E04266B02AE95/",
+  	"image": "./img/Chipomat_3.0.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/16461309463347143993/EB2D42FF3EDE7ED075C40F34166EA8C8EDCCEED2/",
   	"gmnote": "Unit, Battery=6,"
 	},
 	"Killtimber": {
@@ -1878,7 +1878,7 @@ export const cards = {
   	"gmnote": "Unit, Battery=8,"
 	},
 	"Blighted_Springtrap": {
-  	"name": "Blighted_Springtrap",
+  	"name": "Blighted Springtrap",
   	"image": "./img/Blighted_Springtrap.png",
   	"url": "https://steamusercontent-a.akamaihd.net/ugc/14134671865771153928/C099D800D6C02ACB7894BC3AF7148E05F7FDD47E/",
   	"gmnote": "Unit, Battery=8,"
@@ -2263,9 +2263,9 @@ export const cards = {
 	},
 	"Failed_Salvage": {
   	"name": "Failed Salvage",
-  	"image": "./img/Failed Salvage.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357700220051/645C08332D8719D22433662CC531A681E8E4A71F/",
-  	"gmnote": "\tSpell, Battery=4,"
+  	"image": "./img/Failed_Salvage.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/13695988658772894214/7F0E367F54271E918090AAA112F67FF56ADAFEF6/",
+  	"gmnote": "\tSpell, Battery=3,"
 	},
 	"Falling_Down": {
   	"name": "Falling Down",
@@ -2293,8 +2293,8 @@ export const cards = {
 	},
 	"Ferocious_Spirit": {
   	"name": "Ferocious Spirit",
-  	"image": "./img/Ferocious Spirit.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40063924290765363/45D59A5652ABE83960AA97278C35DA469D10873B/",
+  	"image": "./img/Ferocious_Spirit.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/17384792552989597162/868E22EBD377BDCA83AA5D240D18910D1DF903B7/",
   	"gmnote": "\tSpell, Battery=3,"
 	},
 	"Fearful_Reflection": {
@@ -2333,11 +2333,17 @@ export const cards = {
   	"url": "https://steamusercontent-a.akamaihd.net/ugc/16277374161256352298/398DCF0BEAB67775FC74577173CE07371B0EBF18/",
   	"gmnote": "\tSpell, Battery=5,"
 	},
-	"Freedom!": {
-  	"name": "Freedom!",
-  	"image": "./img/Freedom!.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Freedom!.png",
+	"Freedom": {
+  	"name": "Freedom",
+  	"image": "./img/Freedom.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/9793563273246096528/48EADC504A1F12A4FE8A9BD2EFD80504D98565FD/",
   	"gmnote": "\tSpell, Battery=4,"
+	},
+	"Freezing_Elegance": {
+  	"name": "Freezing Elegance",
+  	"image": "./img/Freezing_Elegance.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/12157289774137629232/C02D746D9799D91802369B19B319DBA0E1A2AB44/",
+  	"gmnote": "\tSpell, Battery=3,"
 	},
 	"Frozen_Summon": {
   	"name": "Frozen Summon",
@@ -2401,8 +2407,8 @@ export const cards = {
 	},
 	"Golden_Lock": {
   	"name": "Golden Lock",
-  	"image": "./img/Golden Lock.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357700247863/F724242F8373B4546023F0229439981D2961292D/",
+  	"image": "./img/Golden_Lock.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/17226301528872336205/8893D172995CC237A1C08B085D4A548994EAB6EE/",
   	"gmnote": "\tSpell, Battery=2,"
 	},
 	"Golden_Lure": {
@@ -2482,6 +2488,12 @@ export const cards = {
   	"image": "./img/Horror Stories.png",
   	"url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357709038450/5E7C2036E79FF7B9A6BC26DE121B55E9278953AB/",
   	"gmnote": "Spell, Battery=4,"
+	},
+	"Host": {
+  	"name": "Host",
+  	"image": "./img/Host.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/17518064654108471667/E536EA6B2CEBFE87AB3A94653E112B917BABF65A/",
+  	"gmnote": "Spell, Battery=3,"
 	},
 	"Ice_Sculpting": {
   	"name": "Ice Sculpting",
@@ -2575,8 +2587,8 @@ export const cards = {
 	},
 	"Lets_Make_Music_Together": {
   	"name": "Lets Make Music Together",
-  	"image": "./img/Lets Make Music Together.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Lets Make Music Together.png",
+  	"image": "./img/Lets_Make_Music_Together.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/13368500082360307018/1CB49FC3A17A62ADC7EB52CB5BB1425885840916/",
   	"gmnote": "\tSpell, Battery=5,"
 	},
 	"Log_Cabin": {
