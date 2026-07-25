@@ -57,8 +57,8 @@ export const cards = {
 	},
 	"20_Mode_Golden_Freddy": {
   	"name": "20 Mode Golden Freddy",
-  	"image": "./img/20 Mode Golden Freddy.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40078417473806790/91369BFAAF8E28C297E7DE976B78A519D2774D00/",
+  	"image": "./img/20_Mode_Golden_Freddy.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/16322055982092422111/00BF2A49E9919969D391DAB49610A043DA4313D4/",
   	"gmnote": "\tUnit, Battery=5,",
   	"description": "",
 	},
@@ -148,8 +148,8 @@ export const cards = {
 	},
 	"20_Mode_Toy_Bonnie": {
   	"name": "20 Mode Toy Bonnie",
-  	"image": "./img/20 Mode Toy Bonnie.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40078417473818599/6710CC4A4E0BF9445191923BB24E07F740B97F3E/",
+  	"image": "./img/20_Mode_Toy_Bonnie.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/11383199800219228848/02FE3A9E4389B97ED411346576D141E08625C141/",
   	"gmnote": "\tUnit, Battery=5,",
   	"description": "",
 	},
@@ -303,7 +303,7 @@ export const cards = {
 	"20_Mode_Spring_Bonnie": {
   	"name": "20 Mode Spring Bonnie",
   	"image": "./img/20_Mode_Spring_Bonnie.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/9809209882050841720/4276447F1CC7173BBA4599262C4AFCBE3D151662/",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/15899927336862837943/898F855AA466EFBE37666798A44918CE1C39E980/",
   	"gmnote": "\tUnit, Battery=5,",
   	"description": "",
 	},
@@ -883,7 +883,7 @@ export const cards = {
 	"Bond:_Fazbear_Stars": {
   	"name": "Bond: Fazbear Stars",
   	"image": "./img/Bond_Fazbear_Stars.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/12858015550642623866/AFFF87A453A4E13782C7E76E30EDEB1B7D13747E/",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/17130785859857306980/38C5317A08F713E83A5E92BD3D2F44C57F5620AF/",
   	"gmnote": "\tUnit, Battery=5,",
   	"description": "",
 	},
@@ -1724,7 +1724,7 @@ export const cards = {
 	"Big_Bruce": {
   	"name": "Big Bruce",
   	"image": "./img/Big_Bruce.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/14792404433506207971/C1E6648E246A5E7C7E059E1F0FE5001E695EDCDF/",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/16766214157413736619/43D4222E890B9209F70E6F9DCDB7E778C7AF95D3/",
   	"gmnote": "Unit, Battery=7,"
 	},
 	"Chipomat_1.0": {
@@ -1778,7 +1778,7 @@ export const cards = {
 	"Bon": {
   	"name": "Bon",
   	"image": "./img/Bon.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/16665923753382629803/24922BC042CB6E2FCCA30CD873F1B9604D0CAD78/",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/10186896960365236197/CD840400F74E89C9E6E4E1E3D6EE06C095C70442/",
   	"gmnote": "Unit, Battery=8,"
 	},
 	"Bond_Halloween_Slashers": {
@@ -1877,6 +1877,12 @@ export const cards = {
   	"url": "https://ulia.dev/tts/fdeck/dl/Wonderland Bon.png",
   	"gmnote": "Unit, Battery=8,"
 	},
+	"Blighted_Springtrap": {
+  	"name": "Blighted_Springtrap",
+  	"image": "./img/Blighted_Springtrap.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/14134671865771153928/C099D800D6C02ACB7894BC3AF7148E05F7FDD47E/",
+  	"gmnote": "Unit, Battery=8,"
+	},
 	"6_AM": {
   	"name": "6 AM",
   	"image": "./img/6 AM.png",
@@ -1886,8 +1892,8 @@ export const cards = {
 	"Accident": {
   	"name": "Accident",
   	"image": "./img/Accident.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40077782735245050/3E9F67703D663FB1D1D9F907A6CDA2A54757386B/",
-  	"gmnote": "\tSpell, Battery=4,"
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/14235775000206759967/499F34DCF732E8879A830DD9FB5DF12B1279D9EF/",
+  	"gmnote": "\tSpell, Battery=3,"
 	},
 	"Advanced_Tinkering": {
   	"name": "Advanced Tinkering",
@@ -2043,7 +2049,13 @@ export const cards = {
   	"name": "Bonnie Bash",
   	"image": "./img/Bonnie Bash.png",
   	"url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357700474053/39B54BD91539F03B2291BFFDCA39966201B1C72E/",
-  	"gmnote": "\tSpell, Battery=4,"
+  	"gmnote": "\tSpell, Battery=3,"
+	},
+	"Bounty": {
+  	"name": "Bounty",
+  	"image": "./img/Bounty.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/14134671865771153928/C099D800D6C02ACB7894BC3AF7148E05F7FDD47E/",
+  	"gmnote": "\tSpell, Battery=3,"
 	},
 	"Broken_Family": {
   	"name": "Broken Family",
@@ -2090,7 +2102,7 @@ export const cards = {
 	"Chaos_Realm": {
   	"name": "Chaos Realm",
   	"image": "./img/Chaos_Realm.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/17290564253081460569/81726209E56FC0C6D37C2DBFBF068D0AB3933182/",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/17391887715182238218/39CD2F0A1F7807A90370568FE833313767C4EB0A/",
   	"gmnote": "Spell, Battery=5,"
 	},
 	"Classic_Branding": {
