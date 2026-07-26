@@ -64,8 +64,8 @@ export const cards = {
 	},
 	"Stuffed_Freddy": {
   	"name": "Stuffed Freddy",
-  	"image": "./img/Stuffed Freddy.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Stuffed Freddy.png",
+  	"image": "./img/Stuffed_Freddy.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/12083325742175022211/5F6FCFC37E593207EC02DFB5728B6DC394B2FC6A/",
   	"gmnote": "Unit, Battery=6,",
   	"description": "",
 	},
@@ -694,7 +694,7 @@ export const cards = {
 	"Pigpatch": {
   	"name": "Pigpatch",
   	"image": "./img/Pigpatch.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357700353238/86A3472A3C35CE77B007F2C398A0ACBF7DD5CB10/",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/13348866421609100777/8E48097AD9634ED22729D46A9F2ABC0BFC95BAA4/",
   	"gmnote": "\tUnit, Battery=3,",
   	"description": "",
 	},
@@ -1451,20 +1451,20 @@ export const cards = {
 	"Party_Time_Chica": {
   	"name": "Party Time Chica",
   	"image": "./img/Party_Time_Chica.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/11706095884651309145/0F0E6AC8B260581FD0B1146D6C73818F209C7A69/",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/13766216178011248717/9F876092150C0D128EC02EB74C8B89A6B5C15F87/",
   	"gmnote": "Unit, Battery=3,"
 	},
 	"Sharpay": {
   	"name": "Sharpay",
   	"image": "./img/Sharpay.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/12015014882662104358/F4EC9CB8478BA051CC79D8F7723F61A85F18630E/",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/16773873565751874151/7C88B61A7D6758C55D1ADAC074DAE5CD9997235F/",
   	"gmnote": "Unit, Battery=3,",
   	"description": "",
 	},
 	"Swing_Bee": {
   	"name": "Swing Bee",
   	"image": "./img/Swing_Bee.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/14107677156996506554/35AA00FC5E13706C3AF7CE8CDBF52233DF4EA8C3/",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/10893567949571180028/91A92B09B9E846F45BFC2EF715AF8866F701FE3A/",
   	"gmnote": "Unit, Battery=3,",
   	"description": "",
 	},
@@ -1519,8 +1519,8 @@ export const cards = {
 	},
 	"Twisted_Bonnie": {
   	"name": "Twisted Bonnie",
-  	"image": "./img/Twisted Bonnie.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/15541763820297733034/122EA3B1222CD43C56A3C82D871728670798D416/",
+  	"image": "./img/Twisted_Bonnie.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/15966173190908699850/F8D64AB947F470EB8E498D58F1C4313B87814252/",
   	"gmnote": "Unit, Battery=5,"
 	},
 	"Twisted_Chica": {
@@ -1531,8 +1531,8 @@ export const cards = {
 	},
 	"Twisted_Freddy": {
   	"name": "Twisted Freddy",
-  	"image": "./img/Twisted Freddy.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Twisted Freddy.png",
+  	"image": "./img/Twisted_Freddy.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/13985142706244303473/33E0CDF8BB680E79DA653BA415A5B438034A6454/",
   	"gmnote": "Unit, Battery=5,"
 	},
 	"Twisted_Foxy": {
@@ -2455,8 +2455,8 @@ export const cards = {
 	},
 	"Haunting_Ritual": {
   	"name": "Haunting Ritual",
-  	"image": "./img/Haunting Ritual.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40077782735205197/C4DEF861CD31B0C8AF12D610F25692149E59DA76/",
+  	"image": "./img/Haunting_Ritual.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/9613946012417731627/EBBDAD648D47CCF734CD9444300A6A2EF5425CE5/",
   	"gmnote": "\tSpell, Battery=4,"
 	},
 	"Heating_Up": {
@@ -2864,7 +2864,7 @@ export const cards = {
 	"Scream": {
   	"name": "Scream",
   	"image": "./img/Scream.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/11748731929401705219/DDD7138C9889C5D2B4D6248EB92583A568E73D8A/",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/17586660898031583070/384ADF9604204E51E58904846D5D242D8013225C/",
   	"gmnote": "Spell, Battery=5,"
 	},
 	"Security_Protocol_Alpha": {
