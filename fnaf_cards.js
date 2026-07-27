@@ -1544,13 +1544,13 @@ export const cards = {
 	},
 	"Twisted_Foxy": {
   	"name": "Twisted Foxy",
-  	"image": "./img/Twisted Foxy.png",
+  	"image": "./img/Twisted_Foxy.png",
   	"url": "https://ulia.dev/tts/fdeck/dl/Twisted Foxy.png",
   	"gmnote": "Unit, Battery=6,"
 	},
 	"Twisted_Wolf": {
   	"name": "Twisted Wolf",
-  	"image": "./img/Twisted Wolf.png",
+  	"image": "./img/Twisted_Wolf.png",
   	"url": "https://ulia.dev/tts/fdeck/dl/Twisted Wolf.png",
   	"gmnote": "Unit, Battery=4,"
 	},
