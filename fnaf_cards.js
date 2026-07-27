@@ -2462,7 +2462,7 @@ export const cards = {
 	},
 	"Haunting_Ritual": {
   	"name": "Haunting Ritual",
-  	"image": "./img/Haunting_Ritual_Fix.png",
+  	"image": "./img/Haunting_Ritual.png",
   	"url": "https://steamusercontent-a.akamaihd.net/ugc/9613946012417731627/EBBDAD648D47CCF734CD9444300A6A2EF5425CE5/",
   	"gmnote": "\tSpell, Battery=4,"
 	},
