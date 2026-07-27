@@ -539,7 +539,7 @@ export const cards = {
 	},
 	"Funtime_Foxy": {
   	"name": "Funtime Foxy",
-  	"image": "./img/Funtime Foxy.png",
+  	"image": "./img/Funtime_Foxy.png",
   	"url": "https://ulia.dev/tts/fdeck/dl/Funtime Foxy.png",
   	"gmnote": "\tUnit, Battery=5,",
   	"description": "",
@@ -588,7 +588,7 @@ export const cards = {
 	},
 	"Performer_Funtime_Foxy": {
   	"name": "Performer Funtime Foxy",
-  	"image": "./img/Performer Funtime_Foxy.png",
+  	"image": "./img/Performer Funtime Foxy.png",
   	"url": "https://steamusercontent-a.akamaihd.net/ugc/9909039706905665287/F0780EC47DF11A0DFB2F0DB0682BE327E9476993/",
   	"gmnote": "Unit, Battery=5,",
   	"description": "",
@@ -2462,7 +2462,7 @@ export const cards = {
 	},
 	"Haunting_Ritual": {
   	"name": "Haunting Ritual",
-  	"image": "./img/Haunting_Ritual.png",
+  	"image": "./img/Haunting_Ritual_Fix.png",
   	"url": "https://steamusercontent-a.akamaihd.net/ugc/9613946012417731627/EBBDAD648D47CCF734CD9444300A6A2EF5425CE5/",
   	"gmnote": "\tSpell, Battery=4,"
 	},
