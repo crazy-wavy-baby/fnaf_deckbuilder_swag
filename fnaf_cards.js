@@ -6,6 +6,13 @@ export const cards = {
   	"gmnote": "Unit, Battery=3,",
   	"description": "",
 	},
+	"Carl_the_Cupcake": {
+  	"name": "Carl the Cupcake",
+  	"image": "./img/Carl_the_Cupcake.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/14001901679174335271/791D0A462129F827D90B3B929757C24505BA9EA3/",
+  	"gmnote": "\tUnit, Battery=1,",
+  	"description": "",
+	},
 	"Chica": {
   	"name": "Chica",
   	"image": "./img/Chica.png",
@@ -372,8 +379,8 @@ export const cards = {
 	},
 	"20_Mode_Nightmare_Chica": {
   	"name": "20 Mode Nightmare Chica",
-  	"image": "./img/20 Mode Nightmare Chica.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/9240868489267471925/1EED20E4B05CED9BDDCAF57E24D03E727AEF2549/",
+  	"image": "./img/20_Mode_Nightmare_Chica.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/15025702240996301285/E4FAEE92886D885535C365670375EB43E17A3242/",
   	"gmnote": "\tUnit, Battery=5,",
   	"description": "",
 	},
@@ -470,15 +477,15 @@ export const cards = {
 	"Ballora": {
   	"name": "Ballora",
   	"image": "./img/Ballora.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/2430342357700456469/F7D5689F75BF58FBD67B68A0E641577EFBF385AF/",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/12951647542654101494/17A3A0E25EB118208CBB4EB139A654AD18C6977A/",
   	"gmnote": "Unit, Battery=4,",
   	"description": "",
 	},
 	"Bidybab": {
   	"name": "Bidybab",
   	"image": "./img/Bidybab.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40078417473851758/A933732643789BF5C3C0996500445A3D79EE1AC3/",
-  	"gmnote": "Unit, Battery=2,",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/14939090222714155337/539094F65894FA5AC359C0D2C8558C12CA6C1D71/",
+  	"gmnote": "Unit, Battery=3,",
   	"description": "",
 	},
 	"Bon_Bon": {
@@ -500,13 +507,6 @@ export const cards = {
   	"image": "./img/Circus Baby.png",
   	"url": "https://ulia.dev/tts/fdeck/dl/Circus Baby.png",
   	"gmnote": "Unit, Battery=9,",
-  	"description": "",
-	},
-	"Dee_Dee": {
-  	"name": "Dee Dee",
-  	"image": "./img/Dee_Dee.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/16734572380504586985/9B62D4EEAE85E797BB53346AD61BED595D10965C/",
-  	"gmnote": "Unit, Battery=5,",
   	"description": "",
 	},
 	"Electrobab": {
@@ -752,6 +752,13 @@ export const cards = {
   	"image": "./img/The One.png",
   	"url": "https://ulia.dev/tts/fdeck/dl/The One.png",
   	"gmnote": "\tUnit, Battery=0,",
+  	"description": "",
+	},
+		"Dee_Dee": {
+  	"name": "Dee Dee",
+  	"image": "./img/Dee_Dee.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/10587574034822644441/2862B0BCC29A17421EAF8CB6DEA9D837C0A7395A/",
+  	"gmnote": "Unit, Battery=5,",
   	"description": "",
 	},
 	"Burnt_Freddles": {
@@ -1114,14 +1121,14 @@ export const cards = {
 	"Arctic_Ballora": {
   	"name": "Arctic Ballora",
   	"image": "./img/Arctic_Ballora.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/13691603581993427346/3B05BB1F667D100114C43AD46E18EB044C5D597E/",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/10016207917960759534/1208D594728C970BCB3673FB1F870D82FEF46AC5/",
   	"gmnote": "\tUnit, Battery=4,",
   	"description": "",
 	},
 	"Black_Heart_Bonnie": {
   	"name": "Black Heart Bonnie",
-  	"image": "./img/Black Heart Bonnie.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Black Heart Bonnie.png",
+  	"image": "./img/Black_Heart_Bonnie.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/11520846592044537983/CCD62D4B009EFF096ADA0B2C57018D8B0CDDAE8D/",
   	"gmnote": "\tUnit, Battery=4,",
   	"description": "",
 	},
@@ -1204,15 +1211,15 @@ export const cards = {
 	},
 	"Frostbite_Balloon_Boy": {
   	"name": "Frostbite Balloon Boy",
-  	"image": "./img/Frostbite Balloon Boy.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40063924293170568/890D7B51B83929F304CF1E49EC14EC25155832D6/",
-  	"gmnote": "\tUnit, Battery=2,",
+  	"image": "./img/Frostbite_Ballon_Boy.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/15855934321051021951/55CD01598F31469102273055BFF6F302AB990D84/",
+  	"gmnote": "\tUnit, Battery=5,",
   	"description": "",
 	},
 	"Frost_Plushtrap": {
   	"name": "Frost Plushtrap",
-  	"image": "./img/Frost Plushtrap.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Frost Plushtrap.png",
+  	"image": "./img/Frost_Plushtrap.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/11921792066569436451/622D00F7D07E1E4A8B7D4E8C94920475FA06959B/",
   	"gmnote": "\tUnit, Battery=2,",
   	"description": "",
 	},
@@ -1239,8 +1246,8 @@ export const cards = {
 	},
 	"Highscore_Toy_Chica": {
   	"name": "Highscore Toy Chica",
-  	"image": "./img/Highscore Toy Chica.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Highscore Toy Chica.png",
+  	"image": "./img/High_Score_Toy_Chica.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/11744698527831384108/8E80331DD50A920E1FD989509A8F5629C3F30419/",
   	"gmnote": "\tUnit, Battery=4,",
   	"description": "",
 	},
@@ -1260,8 +1267,8 @@ export const cards = {
 	},
 	"Livewire_Toy_Freddy": {
   	"name": "Livewire Toy Freddy",
-  	"image": "./img/Livewire Toy Freddy.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/40063924293195494/8DDA27F58DEBC34F87A679C66A1E1181D8D86738/",
+  	"image": "./img/Livewire_Toy_Freddy.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/15381238982484266789/7A09B0600702E05264049A3594465C95FB2BEC41/",
   	"gmnote": "\tUnit, Battery=6,",
   	"description": "",
 	},
@@ -1342,8 +1349,8 @@ export const cards = {
 	},
 	"System_Error_Toy_Bonnie": {
   	"name": "System Error Toy Bonnie",
-  	"image": "./img/System Error Toy Bonnie.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/System Error Toy Bonnie.png",
+  	"image": "./img/System_Error_Toy_Bonnie.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/10361642170382610957/0FF571FFE572E51BAB8CAE47AB96C9E11960A1A1/",
   	"gmnote": "\tUnit, Battery=5,"
 	},
 	"The_Curse": {
@@ -1610,8 +1617,8 @@ export const cards = {
 	"Red": {
   	"name": "Red",
   	"image": "./img/Red.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Red.png",
-  	"gmnote": "\tUnit, Battery=8,"
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/14191896352801174417/11147E6F6AF7132A49AB984D8A7F96F959CED372/",
+  	"gmnote": "\tUnit, Battery=7,"
 	},
 	"Clay_Dolls": {
   	"name": "Clay Dolls",
@@ -1760,7 +1767,7 @@ export const cards = {
 	"Seabilly": {
   	"name": "Seabilly",
   	"image": "./img/Seabilly.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/14488179130477297260/3F0DF188B803A20A04F47A2D43640FADF0804F31/",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/10715629723029860116/EBA5EA775A6EB4322689A601CDC7D96770B92476/",
   	"gmnote": "Unit, Battery=6,"
 	},
 	"Summercrab": {
@@ -3074,8 +3081,8 @@ export const cards = {
 	},
 	"Twisted_Visage": {
   	"name": "Twisted Visage",
-  	"image": "./img/Twisted Visage.png",
-  	"url": "https://ulia.dev/tts/fdeck/dl/Twisted Visage.png",
+  	"image": "./img/Twisted_Visage.png",
+  	"url": "https://steamusercontent-a.akamaihd.net/ugc/12574491628464640807/BF6172AC644E50E334ADA7AA43403AFBCF2806FA/",
   	"gmnote": "\tSpell, Battery=4,"
 	},
 	"Undesirable_Discovery": {
