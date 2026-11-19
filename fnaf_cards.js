@@ -2950,12 +2950,6 @@ export const cards = {
     "gmnote": "Spell, Battery=4,",
     "description": ""
 	},
-	"Offering on Son": {
-  	"name": "Offering on Son",
-  	"image": "./img/Offering_on_Son.png",
-  	"url": "https://steamusercontent-a.akamaihd.net/ugc/16242535973804663198/EAB159BD7F199AB2B9CDF5DF13983733D734A61C/",
-  	"gmnote": "Spell, Battery=4,"
-	},
 	"Peaceful_Burial": {
   	"name": "Peaceful Burial",
   	"image": "./img/Peaceful Burial.png",
