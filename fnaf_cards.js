@@ -2962,13 +2962,6 @@ export const cards = {
   	"url": "https://steamusercontent-a.akamaihd.net/ugc/16515479370562588319/755E9799A28FDAE847D99FE271369A368C710FDF/",
   	"gmnote": "Spell, Battery=6,"
 	},
-	"Peacful_Dreams": {
-    "name": "Peacful Dreams",
-    "image": "./img/Peacful_Dreams.png",
-    "url": "https://steamusercontent-a.akamaihd.net/ugc/16515479370562588319/755E9799A28FDAE847D99FE271369A368C710FDF/",
-    "gmnote": "Spell, Battery=6,",
-    "description": ""
-	},
 	"Phantom_Crew": {
     "name": "Phantom Crew",
     "image": "./img/Phantom_Crew.png",
